@@ -1,0 +1,21 @@
+sector,order,segment,charity,volunteers,share_pct,seg_share_of_purpose,purpose_total,purpose_share,charities
+More than one purpose,0,Largest single charity,Queensland Country Women's Association,608743,13.76,47.9,1271019,28.7,7600
+More than one purpose,0,All other charities,7599 other charities,662276,14.98,52.1,1271019,28.7,7600
+Environment,1,Largest single charity,Clean Up Australia Limited,1077127,24.36,88.2,1221269,27.6,871
+Environment,1,All other charities,870 other charities,144142,3.26,11.8,1221269,27.6,871
+Religion,2,Largest single charity,Iglesia Ni Cristo,11201,0.25,2.1,546352,12.4,13137
+Religion,2,All other charities,13136 other charities,535151,12.1,97.9,546352,12.4,13137
+Purpose not stated,3,Largest single charity,Life Saving Victoria Limited,30129,0.68,7.1,422987,9.6,5732
+Purpose not stated,3,All other charities,5731 other charities,392858,8.88,92.9,422987,9.6,5732
+Social welfare,4,Largest single charity,AUSTRALIAN-FILIPINO COMMUNITY SERVICES INC,20000,0.45,8.4,237663,5.4,4155
+Social welfare,4,All other charities,4154 other charities,217663,4.92,91.6,237663,5.4,4155
+Education,5,Largest single charity,Corporation Of The Trustees Of The Roman Catholic Archdiocese Of Brisbane,8893,0.2,4.1,214518,4.9,5433
+Education,5,All other charities,5432 other charities,205625,4.65,95.9,214518,4.9,5433
+Safety and emergency,6,Largest single charity,Surf Life Saving Australia Limited,45236,1.02,27.9,162274,3.7,254
+Safety and emergency,6,All other charities,253 other charities,117038,2.65,72.1,162274,3.7,254
+Other public benefit,7,Largest single charity,Scout Association Of Australia Queensland Branch Inc,11645,0.26,7.8,149565,3.4,2404
+Other public benefit,7,All other charities,2403 other charities,137920,3.12,92.2,149565,3.4,2404
+Other purposes,8,Largest single charity,Cat Rescue Hunter,3752,0.08,3.2,119086,2.7,2573
+Other purposes,8,All other charities,2572 other charities,115334,2.61,96.8,119086,2.7,2573
+Health,9,Largest single charity,Royal Childrens Hospital Good Friday Appeal,10000,0.23,12.9,77695,1.8,1774
+Health,9,All other charities,1773 other charities,67695,1.53,87.1,77695,1.8,1774

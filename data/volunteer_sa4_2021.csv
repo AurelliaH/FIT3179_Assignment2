@@ -1,0 +1,90 @@
+sa4_code,sa4_name,state,state_abbr,region_type,volunteers,non_volunteers,responded,population_15plus,rate_pop15plus,rate_respondents
+101,Capital Region,New South Wales,NSW,Rest of state,35980,146958,182938,197558,18.21,19.67
+102,Central Coast,New South Wales,NSW,Greater capital city,34473,232578,267051,284248,12.13,12.91
+103,Central West,New South Wales,NSW,Rest of state,28900,128610,157510,171594,16.84,18.35
+104,Coffs Harbour - Grafton,New South Wales,NSW,Rest of state,19378,92089,111467,121293,15.98,17.38
+105,Far West and Orana,New South Wales,NSW,Rest of state,14485,66471,80956,92669,15.63,17.89
+106,Hunter Valley exc Newcastle,New South Wales,NSW,Rest of state,29544,190761,220305,235041,12.57,13.41
+107,Illawarra,New South Wales,NSW,Rest of state,33351,211362,244713,257723,12.94,13.63
+108,Mid North Coast,New South Wales,NSW,Rest of state,30558,148045,178603,193195,15.82,17.11
+109,Murray,New South Wales,NSW,Rest of state,18410,74519,92929,101262,18.18,19.81
+110,New England and North West,New South Wales,NSW,Rest of state,26609,107865,134474,150057,17.73,19.79
+111,Newcastle and Lake Macquarie,New South Wales,NSW,Rest of state,43589,262880,306469,322898,13.5,14.22
+112,Richmond - Tweed,New South Wales,NSW,Rest of state,35004,161793,196797,214236,16.34,17.79
+113,Riverina,New South Wales,NSW,Rest of state,22986,97657,120643,131660,17.46,19.05
+114,Southern Highlands and Shoalhaven,New South Wales,NSW,Rest of state,21891,103754,125645,134907,16.23,17.42
+115,Sydney - Baulkham Hills and Hawkesbury,New South Wales,NSW,Greater capital city,30023,173127,203150,210397,14.27,14.78
+116,Sydney - Blacktown,New South Wales,NSW,Greater capital city,27214,262516,289730,309913,8.78,9.39
+117,Sydney - City and Inner South,New South Wales,NSW,Greater capital city,36687,240567,277254,298518,12.29,13.23
+118,Sydney - Eastern Suburbs,New South Wales,NSW,Greater capital city,34093,172686,206779,221391,15.4,16.49
+119,Sydney - Inner South West,New South Wales,NSW,Greater capital city,41134,420457,461591,496332,8.29,8.91
+120,Sydney - Inner West,New South Wales,NSW,Greater capital city,32816,212683,245499,258984,12.67,13.37
+121,Sydney - North Sydney and Hornsby,New South Wales,NSW,Greater capital city,62768,272570,335338,347853,18.04,18.72
+122,Sydney - Northern Beaches,New South Wales,NSW,Greater capital city,36295,169921,206216,214822,16.9,17.6
+123,Sydney - Outer South West,New South Wales,NSW,Greater capital city,21856,195769,217625,230946,9.46,10.04
+124,Sydney - Outer West and Blue Mountains,New South Wales,NSW,Greater capital city,30703,218686,249389,265262,11.57,12.31
+125,Sydney - Parramatta,New South Wales,NSW,Greater capital city,34838,332932,367770,399020,8.73,9.47
+126,Sydney - Ryde,New South Wales,NSW,Greater capital city,24332,135730,160062,167614,14.52,15.2
+127,Sydney - South West,New South Wales,NSW,Greater capital city,23674,326866,350540,375436,6.31,6.75
+128,Sydney - Sutherland,New South Wales,NSW,Greater capital city,25398,154512,179910,187196,13.57,14.12
+201,Ballarat,Victoria,Vic,Rest of state,23430,109938,133368,142855,16.4,17.57
+202,Bendigo,Victoria,Vic,Rest of state,24055,103692,127747,137698,17.47,18.83
+203,Geelong,Victoria,Vic,Rest of state,40648,212311,252959,268681,15.13,16.07
+204,Hume,Victoria,Vic,Rest of state,28844,113095,141939,153276,18.82,20.32
+205,Latrobe - Gippsland,Victoria,Vic,Rest of state,42633,187333,229966,249821,17.07,18.54
+206,Melbourne - Inner,Victoria,Vic,Greater capital city,82664,433648,516312,550062,15.03,16.01
+207,Melbourne - Inner East,Victoria,Vic,Greater capital city,50290,252153,302443,314649,15.98,16.63
+208,Melbourne - Inner South,Victoria,Vic,Greater capital city,53550,282063,335613,349489,15.32,15.96
+209,Melbourne - North East,Victoria,Vic,Greater capital city,47718,368603,416321,437166,10.92,11.46
+210,Melbourne - North West,Victoria,Vic,Greater capital city,30163,286761,316924,336226,8.97,9.52
+211,Melbourne - Outer East,Victoria,Vic,Greater capital city,62980,346217,409197,425997,14.78,15.39
+212,Melbourne - South East,Victoria,Vic,Greater capital city,67786,583186,650972,688939,9.84,10.41
+213,Melbourne - West,Victoria,Vic,Greater capital city,58999,564819,623818,668748,8.82,9.46
+214,Mornington Peninsula,Victoria,Vic,Greater capital city,32754,206487,239241,254875,12.85,13.69
+215,North West,Victoria,Vic,Rest of state,24902,92019,116921,128539,19.37,21.3
+216,Shepparton,Victoria,Vic,Rest of state,17824,85653,103477,112743,15.81,17.23
+217,Warrnambool and South West,Victoria,Vic,Rest of state,22088,76726,98814,106267,20.79,22.35
+301,Brisbane - East,Queensland,Qld,Greater capital city,27413,159205,186618,195353,14.03,14.69
+302,Brisbane - North,Queensland,Qld,Greater capital city,26123,150041,176164,184450,14.16,14.83
+303,Brisbane - South,Queensland,Qld,Greater capital city,44655,244609,289264,302801,14.75,15.44
+304,Brisbane - West,Queensland,Qld,Greater capital city,29877,118077,147954,152886,19.54,20.19
+305,Brisbane Inner City,Queensland,Qld,Greater capital city,42986,195991,238977,253794,16.94,17.99
+306,Cairns,Queensland,Qld,Rest of state,30559,155179,185738,206767,14.78,16.45
+307,Darling Downs - Maranoa,Queensland,Qld,Rest of state,20455,72967,93422,103622,19.74,21.9
+308,Central Queensland,Queensland,Qld,Rest of state,28319,134896,163215,180921,15.65,17.35
+309,Gold Coast,Queensland,Qld,Rest of state,60938,430859,491797,528109,11.54,12.39
+310,Ipswich,Queensland,Qld,Greater capital city,33432,230455,263887,286265,11.68,12.67
+311,Logan - Beaudesert,Queensland,Qld,Greater capital city,29460,229780,259240,279545,10.54,11.36
+312,Mackay - Isaac - Whitsunday,Queensland,Qld,Rest of state,19129,108098,127227,145327,13.16,15.04
+313,Moreton Bay - North,Queensland,Qld,Greater capital city,25151,176914,202065,216792,11.6,12.45
+314,Moreton Bay - South,Queensland,Qld,Greater capital city,23513,139771,163284,170216,13.81,14.4
+315,Queensland - Outback,Queensland,Qld,Rest of state,10282,42457,52739,62149,16.54,19.5
+316,Sunshine Coast,Queensland,Qld,Rest of state,52514,258570,311084,330997,15.87,16.88
+317,Toowoomba,Queensland,Qld,Rest of state,20827,101939,122766,130221,15.99,16.96
+318,Townsville,Queensland,Qld,Rest of state,26275,145943,172218,189937,13.83,15.26
+319,Wide Bay,Queensland,Qld,Rest of state,37578,200310,237888,258256,14.55,15.8
+401,Adelaide - Central and Hills,South Australia,SA,Greater capital city,53218,198959,252177,262885,20.24,21.1
+402,Adelaide - North,South Australia,SA,Greater capital city,44175,305120,349295,367357,12.03,12.65
+403,Adelaide - South,South Australia,SA,Greater capital city,52672,247197,299869,311995,16.88,17.57
+404,Adelaide - West,South Australia,SA,Greater capital city,28726,170233,198959,207522,13.84,14.44
+405,Barossa - Yorke - Mid North,South Australia,SA,Rest of state,22812,66217,89029,95480,23.89,25.62
+406,South Australia - Outback,South Australia,SA,Rest of state,13344,47199,60543,67276,19.83,22.04
+407,South Australia - South East,South Australia,SA,Rest of state,35413,115144,150557,162889,21.74,23.52
+501,Bunbury,Western Australia,WA,Rest of state,30117,111618,141735,153058,19.68,21.25
+502,Mandurah,Western Australia,WA,Greater capital city,12021,70722,82743,88811,13.54,14.53
+503,Perth - Inner,Western Australia,WA,Greater capital city,34426,111296,145722,154860,22.23,23.62
+504,Perth - North East,Western Australia,WA,Greater capital city,31084,177731,208815,223065,13.93,14.89
+505,Perth - North West,Western Australia,WA,Greater capital city,66137,376885,443022,465735,14.2,14.93
+506,Perth - South East,Western Australia,WA,Greater capital city,62842,337107,399949,426298,14.74,15.71
+507,Perth - South West,Western Australia,WA,Greater capital city,53049,282569,335618,356647,14.87,15.81
+509,Western Australia - Wheat Belt,Western Australia,WA,Rest of state,27235,74408,101643,113275,24.04,26.79
+510,Western Australia - Outback (North),Western Australia,WA,Rest of state,9926,45843,55769,69087,14.37,17.8
+511,Western Australia - Outback (South),Western Australia,WA,Rest of state,16119,66401,82520,95614,16.86,19.53
+601,Hobart,Tasmania,Tas,Greater capital city,38331,156691,195022,205506,18.65,19.65
+602,Launceston and North East,Tasmania,Tas,Rest of state,22086,96691,118777,126171,17.5,18.59
+603,South East,Tasmania,Tas,Rest of state,6696,25825,32521,35295,18.97,20.59
+604,West and North West,Tasmania,Tas,Rest of state,16398,74151,90549,96692,16.96,18.11
+701,Darwin,Northern Territory,NT,Greater capital city,17733,82054,99787,111611,15.89,17.77
+702,Northern Territory - Outback,Northern Territory,NT,Rest of state,7955,52098,60053,68943,11.54,13.25
+801,Australian Capital Territory,Australian Capital Territory,ACT,Greater capital city,68383,285476,353859,370996,18.43,19.32
+901,Other Territories,Other Territories,OT,Other Territories,853,2273,3126,3953,21.58,27.29

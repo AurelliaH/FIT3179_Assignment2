@@ -1,0 +1,10 @@
+state,state_abbr,volunteers,non_volunteers,responded,population_15plus,rate_pop15plus,rate_respondents
+New South Wales,NSW,856989,5314364,6171353,6592025,13.0,13.89
+Victoria,Vic,711328,4304704,5016032,5326031,13.36,14.18
+Queensland,Qld,589486,3296061,3885547,4178408,14.11,15.17
+South Australia,SA,250360,1150069,1400429,1475404,16.97,17.88
+Western Australia,WA,342956,1654580,1997536,2146450,15.98,17.17
+Tasmania,Tas,83511,353358,436869,463664,18.01,19.12
+Northern Territory,NT,25688,134152,159840,180554,14.23,16.07
+Australian Capital Territory,ACT,68383,285476,353859,370996,18.43,19.32
+Other Territories,OT,853,2273,3126,3953,21.58,27.29

@@ -1,0 +1,89 @@
+sa4_code,sa4_name,state_name,lon,lat
+101,"Capital Region",New South Wales,149.2427,-35.5541
+102,"Central Coast",New South Wales,151.2854,-33.308
+103,"Central West",New South Wales,148.3584,-33.2193
+104,"Coffs Harbour - Grafton",New South Wales,152.7739,-29.8149
+105,"Far West and Orana",New South Wales,145.0285,-30.9947
+106,"Hunter Valley exc Newcastle",New South Wales,150.9838,-32.3542
+107,"Illawarra",New South Wales,150.7711,-34.4342
+108,"Mid North Coast",New South Wales,152.3432,-31.5623
+109,"Murray",New South Wales,144.0205,-34.4224
+110,"New England and North West",New South Wales,150.701,-30.0598
+111,"Newcastle and Lake Macquarie",New South Wales,151.5765,-32.9961
+112,"Richmond - Tweed",New South Wales,153.0639,-28.7432
+113,"Riverina",New South Wales,146.756,-34.6201
+114,"Southern Highlands and Shoalhaven",New South Wales,150.366,-34.8725
+115,"Sydney - Baulkham Hills and Hawkesbury",New South Wales,150.829,-33.3685
+116,"Sydney - Blacktown",New South Wales,150.8642,-33.7407
+117,"Sydney - City and Inner South",New South Wales,151.1927,-33.917
+118,"Sydney - Eastern Suburbs",New South Wales,151.2483,-33.9164
+119,"Sydney - Inner South West",New South Wales,151.064,-33.9421
+120,"Sydney - Inner West",New South Wales,151.1188,-33.8733
+121,"Sydney - North Sydney and Hornsby",New South Wales,151.1602,-33.6934
+122,"Sydney - Northern Beaches",New South Wales,151.2492,-33.6904
+123,"Sydney - Outer South West",New South Wales,150.6817,-34.1228
+124,"Sydney - Outer West and Blue Mountains",New South Wales,150.381,-33.8738
+125,"Sydney - Parramatta",New South Wales,151.0048,-33.826
+126,"Sydney - Ryde",New South Wales,151.1006,-33.7872
+127,"Sydney - South West",New South Wales,150.8173,-33.9318
+128,"Sydney - Sutherland",New South Wales,151.0635,-34.0753
+201,"Ballarat",Victoria,143.7339,-37.3749
+202,"Bendigo",Victoria,144.0928,-36.5994
+203,"Geelong",Victoria,144.126,-38.1107
+204,"Hume",Victoria,146.4184,-36.7767
+205,"Latrobe - Gippsland",Victoria,147.4215,-37.7309
+206,"Melbourne - Inner",Victoria,144.9646,-37.8002
+207,"Melbourne - Inner East",Victoria,145.1051,-37.8048
+208,"Melbourne - Inner South",Victoria,145.0637,-37.9506
+209,"Melbourne - North East",Victoria,145.1692,-37.5206
+210,"Melbourne - North West",Victoria,144.7457,-37.4758
+211,"Melbourne - Outer East",Victoria,145.5057,-37.7597
+212,"Melbourne - South East",Victoria,145.4681,-38.0733
+213,"Melbourne - West",Victoria,144.6249,-37.7764
+214,"Mornington Peninsula",Victoria,145.057,-38.3102
+215,"North West",Victoria,142.2351,-35.8607
+216,"Shepparton",Victoria,145.1684,-36.2523
+217,"Warrnambool and South West",Victoria,142.3775,-37.9751
+301,"Brisbane - East",Queensland,153.3265,-27.5488
+302,"Brisbane - North",Queensland,153.0598,-27.3678
+303,"Brisbane - South",Queensland,153.0694,-27.5671
+304,"Brisbane - West",Queensland,152.9075,-27.4855
+305,"Brisbane Inner City",Queensland,153.0278,-27.4523
+306,"Cairns",Queensland,145.5082,-17.6241
+307,"Darling Downs - Maranoa",Queensland,149.3516,-27.3155
+308,"Central Queensland",Queensland,149.3253,-24.1099
+309,"Gold Coast",Queensland,153.2702,-28.0136
+310,"Ipswich",Queensland,152.5504,-27.6093
+311,"Logan - Beaudesert",Queensland,152.9641,-27.9986
+312,"Mackay - Isaac - Whitsunday",Queensland,147.9229,-21.7411
+313,"Moreton Bay - North",Queensland,152.5801,-26.8701
+314,"Moreton Bay - South",Queensland,152.8597,-27.2692
+315,"Queensland - Outback",Queensland,142.4949,-21.7036
+316,"Sunshine Coast",Queensland,152.909,-26.5886
+317,"Toowoomba",Queensland,152.0839,-27.6163
+318,"Townsville",Queensland,145.9305,-20.0373
+319,"Wide Bay",Queensland,151.7845,-25.6245
+401,"Adelaide - Central and Hills",South Australia,138.8374,-34.9712
+402,"Adelaide - North",South Australia,138.6649,-34.6871
+403,"Adelaide - South",South Australia,138.5713,-35.1427
+404,"Adelaide - West",South Australia,138.5302,-34.8795
+405,"Barossa - Yorke - Mid North",South Australia,138.4504,-33.6523
+406,"South Australia - Outback",South Australia,135.3531,-29.4823
+407,"South Australia - South East",South Australia,139.9084,-35.6891
+501,"Bunbury",Western Australia,116.0077,-33.9524
+502,"Mandurah",Western Australia,115.8305,-32.6325
+503,"Perth - Inner",Western Australia,115.8096,-31.9562
+504,"Perth - North East",Western Australia,116.1339,-31.8083
+505,"Perth - North West",Western Australia,115.7695,-31.6619
+506,"Perth - South East",Western Australia,116.0629,-32.2064
+507,"Perth - South West",Western Australia,115.8008,-32.2239
+509,"Western Australia - Wheat Belt",Western Australia,117.9152,-32.0506
+510,"Western Australia - Outback (North)",Western Australia,123.7799,-20.0461
+511,"Western Australia - Outback (South)",Western Australia,121.9478,-27.7277
+601,"Hobart",Tasmania,147.4373,-42.8307
+602,"Launceston and North East",Tasmania,147.4604,-41.3629
+603,"South East",Tasmania,146.8666,-42.6284
+604,"West and North West",Tasmania,145.4738,-41.6231
+701,"Darwin",Northern Territory,131.1071,-12.5228
+702,"Northern Territory - Outback",Northern Territory,133.3623,-19.3553
+801,"Australian Capital Territory",Australian Capital Territory,149.0026,-35.4882

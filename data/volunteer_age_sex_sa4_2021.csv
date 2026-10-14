@@ -1,0 +1,1603 @@
+sa4_code,sa4_name,sex,age_group,age_order,volunteers,non_volunteers,responded,rate_respondents
+101,Capital Region,Male,15-19,1,867,5254,6121,14.16
+101,Capital Region,Male,20-24,2,561,4657,5218,10.75
+101,Capital Region,Male,25-34,3,1384,10607,11991,11.54
+101,Capital Region,Male,35-44,4,2050,10077,12127,16.9
+101,Capital Region,Male,45-54,5,2793,11450,14243,19.61
+101,Capital Region,Male,55-64,6,3447,12821,16268,21.19
+101,Capital Region,Male,65-74,7,3596,11070,14666,24.52
+101,Capital Region,Male,75-84,8,1600,5671,7271,22.01
+101,Capital Region,Male,85+,9,213,1824,2037,10.46
+101,Capital Region,Female,15-19,1,972,4622,5594,17.38
+101,Capital Region,Female,20-24,2,608,4232,4840,12.56
+101,Capital Region,Female,25-34,3,1701,10873,12574,13.53
+101,Capital Region,Female,35-44,4,2901,10134,13035,22.26
+101,Capital Region,Female,45-54,5,3365,11760,15125,22.25
+101,Capital Region,Female,55-64,6,3816,12955,16771,22.75
+101,Capital Region,Female,65-74,7,4143,10383,14526,28.52
+101,Capital Region,Female,75-84,8,1700,5846,7546,22.53
+101,Capital Region,Female,85+,9,254,2739,2993,8.49
+102,Central Coast,Male,15-19,1,1178,8757,9935,11.86
+102,Central Coast,Male,20-24,2,779,8118,8897,8.76
+102,Central Coast,Male,25-34,3,1378,16092,17470,7.89
+102,Central Coast,Male,35-44,4,2290,16538,18828,12.16
+102,Central Coast,Male,45-54,5,2646,17587,20233,13.08
+102,Central Coast,Male,55-64,6,2561,17728,20289,12.62
+102,Central Coast,Male,65-74,7,2669,15230,17899,14.91
+102,Central Coast,Male,75-84,8,1552,9358,10910,14.23
+102,Central Coast,Male,85+,9,238,3004,3242,7.34
+102,Central Coast,Female,15-19,1,1278,7964,9242,13.83
+102,Central Coast,Female,20-24,2,977,7651,8628,11.32
+102,Central Coast,Female,25-34,3,1715,16705,18420,9.31
+102,Central Coast,Female,35-44,4,3140,17203,20343,15.44
+102,Central Coast,Female,45-54,5,3383,18427,21810,15.51
+102,Central Coast,Female,55-64,6,3172,19441,22613,14.03
+102,Central Coast,Female,65-74,7,3542,17067,20609,17.19
+102,Central Coast,Female,75-84,8,1713,10794,12507,13.7
+102,Central Coast,Female,85+,9,266,4911,5177,5.14
+103,Central West,Male,15-19,1,841,5226,6067,13.86
+103,Central West,Male,20-24,2,543,4618,5161,10.52
+103,Central West,Male,25-34,3,1252,9659,10911,11.47
+103,Central West,Male,35-44,4,1868,8785,10653,17.53
+103,Central West,Male,45-54,5,2159,9555,11714,18.43
+103,Central West,Male,55-64,6,2277,10565,12842,17.73
+103,Central West,Male,65-74,7,2561,8885,11446,22.37
+103,Central West,Male,75-84,8,1345,5016,6361,21.14
+103,Central West,Male,85+,9,226,1645,1871,12.08
+103,Central West,Female,15-19,1,916,4600,5516,16.61
+103,Central West,Female,20-24,2,607,4347,4954,12.25
+103,Central West,Female,25-34,3,1534,10185,11719,13.09
+103,Central West,Female,35-44,4,2582,8732,11314,22.82
+103,Central West,Female,45-54,5,2587,9902,12489,20.71
+103,Central West,Female,55-64,6,2691,10459,13150,20.46
+103,Central West,Female,65-74,7,3057,8432,11489,26.61
+103,Central West,Female,75-84,8,1569,5275,6844,22.93
+103,Central West,Female,85+,9,278,2726,3004,9.25
+104,Coffs Harbour - Grafton,Male,15-19,1,464,3288,3752,12.37
+104,Coffs Harbour - Grafton,Male,20-24,2,283,2646,2929,9.66
+104,Coffs Harbour - Grafton,Male,25-34,3,654,5800,6454,10.13
+104,Coffs Harbour - Grafton,Male,35-44,4,1066,5807,6873,15.51
+104,Coffs Harbour - Grafton,Male,45-54,5,1348,6519,7867,17.13
+104,Coffs Harbour - Grafton,Male,55-64,6,1704,7777,9481,17.97
+104,Coffs Harbour - Grafton,Male,65-74,7,1982,7678,9660,20.52
+104,Coffs Harbour - Grafton,Male,75-84,8,869,4132,5001,17.38
+104,Coffs Harbour - Grafton,Male,85+,9,127,1394,1521,8.35
+104,Coffs Harbour - Grafton,Female,15-19,1,494,3028,3522,14.03
+104,Coffs Harbour - Grafton,Female,20-24,2,309,2532,2841,10.88
+104,Coffs Harbour - Grafton,Female,25-34,3,889,6099,6988,12.72
+104,Coffs Harbour - Grafton,Female,35-44,4,1559,6064,7623,20.45
+104,Coffs Harbour - Grafton,Female,45-54,5,1730,7158,8888,19.46
+104,Coffs Harbour - Grafton,Female,55-64,6,2088,8385,10473,19.94
+104,Coffs Harbour - Grafton,Female,65-74,7,2478,7351,9829,25.21
+104,Coffs Harbour - Grafton,Female,75-84,8,1151,4328,5479,21.01
+104,Coffs Harbour - Grafton,Female,85+,9,172,2097,2269,7.58
+105,Far West and Orana,Male,15-19,1,358,2545,2903,12.33
+105,Far West and Orana,Male,20-24,2,227,2341,2568,8.84
+105,Far West and Orana,Male,25-34,3,724,5668,6392,11.33
+105,Far West and Orana,Male,35-44,4,982,4384,5366,18.3
+105,Far West and Orana,Male,45-54,5,1098,4643,5741,19.13
+105,Far West and Orana,Male,55-64,6,1226,5494,6720,18.24
+105,Far West and Orana,Male,65-74,7,1149,4568,5717,20.1
+105,Far West and Orana,Male,75-84,8,604,2476,3080,19.61
+105,Far West and Orana,Male,85+,9,89,825,914,9.74
+105,Far West and Orana,Female,15-19,1,434,2298,2732,15.89
+105,Far West and Orana,Female,20-24,2,289,2304,2593,11.15
+105,Far West and Orana,Female,25-34,3,880,6122,7002,12.57
+105,Far West and Orana,Female,35-44,4,1312,4482,5794,22.64
+105,Far West and Orana,Female,45-54,5,1307,4781,6088,21.47
+105,Far West and Orana,Female,55-64,6,1432,5486,6918,20.7
+105,Far West and Orana,Female,65-74,7,1408,4162,5570,25.28
+105,Far West and Orana,Female,75-84,8,808,2597,3405,23.73
+105,Far West and Orana,Female,85+,9,152,1288,1440,10.56
+106,Hunter Valley exc Newcastle,Male,15-19,1,797,7769,8566,9.3
+106,Hunter Valley exc Newcastle,Male,20-24,2,578,7099,7677,7.53
+106,Hunter Valley exc Newcastle,Male,25-34,3,1235,15239,16474,7.5
+106,Hunter Valley exc Newcastle,Male,35-44,4,1999,14009,16008,12.49
+106,Hunter Valley exc Newcastle,Male,45-54,5,2143,14445,16588,12.92
+106,Hunter Valley exc Newcastle,Male,55-64,6,2212,14849,17061,12.97
+106,Hunter Valley exc Newcastle,Male,65-74,7,2560,12609,15169,16.88
+106,Hunter Valley exc Newcastle,Male,75-84,8,1299,6621,7920,16.4
+106,Hunter Valley exc Newcastle,Male,85+,9,176,1802,1978,8.9
+106,Hunter Valley exc Newcastle,Female,15-19,1,904,6980,7884,11.47
+106,Hunter Valley exc Newcastle,Female,20-24,2,705,6732,7437,9.48
+106,Hunter Valley exc Newcastle,Female,25-34,3,1744,15757,17501,9.97
+106,Hunter Valley exc Newcastle,Female,35-44,4,2944,13993,16937,17.38
+106,Hunter Valley exc Newcastle,Female,45-54,5,2696,14963,17659,15.27
+106,Hunter Valley exc Newcastle,Female,55-64,6,2809,15298,18107,15.51
+106,Hunter Valley exc Newcastle,Female,65-74,7,3155,12625,15780,19.99
+106,Hunter Valley exc Newcastle,Female,75-84,8,1392,7028,8420,16.53
+106,Hunter Valley exc Newcastle,Female,85+,9,192,2958,3150,6.1
+107,Illawarra,Male,15-19,1,1205,8008,9213,13.08
+107,Illawarra,Male,20-24,2,1097,9188,10285,10.67
+107,Illawarra,Male,25-34,3,1719,17161,18880,9.1
+107,Illawarra,Male,35-44,4,2256,15645,17901,12.6
+107,Illawarra,Male,45-54,5,2646,15606,18252,14.5
+107,Illawarra,Male,55-64,6,2409,15862,18271,13.18
+107,Illawarra,Male,65-74,7,2630,12136,14766,17.81
+107,Illawarra,Male,75-84,8,1206,7281,8487,14.21
+107,Illawarra,Male,85+,9,168,2503,2671,6.29
+107,Illawarra,Female,15-19,1,1354,7576,8930,15.16
+107,Illawarra,Female,20-24,2,1473,8517,9990,14.74
+107,Illawarra,Female,25-34,3,2099,17024,19123,10.98
+107,Illawarra,Female,35-44,4,3013,15906,18919,15.93
+107,Illawarra,Female,45-54,5,2945,16478,19423,15.16
+107,Illawarra,Female,55-64,6,2729,16769,19498,14.0
+107,Illawarra,Female,65-74,7,2908,13208,16116,18.04
+107,Illawarra,Female,75-84,8,1294,8523,9817,13.18
+107,Illawarra,Female,85+,9,205,3966,4171,4.91
+108,Mid North Coast,Male,15-19,1,690,4960,5650,12.21
+108,Mid North Coast,Male,20-24,2,454,3886,4340,10.46
+108,Mid North Coast,Male,25-34,3,874,7640,8514,10.27
+108,Mid North Coast,Male,35-44,4,1457,7897,9354,15.58
+108,Mid North Coast,Male,45-54,5,1923,9935,11858,16.22
+108,Mid North Coast,Male,55-64,6,2588,12742,15330,16.88
+108,Mid North Coast,Male,65-74,7,3614,13869,17483,20.67
+108,Mid North Coast,Male,75-84,8,1774,8337,10111,17.55
+108,Mid North Coast,Male,85+,9,244,2701,2945,8.29
+108,Mid North Coast,Female,15-19,1,873,4558,5431,16.07
+108,Mid North Coast,Female,20-24,2,531,3673,4204,12.63
+108,Mid North Coast,Female,25-34,3,1141,8298,9439,12.09
+108,Mid North Coast,Female,35-44,4,2065,8471,10536,19.6
+108,Mid North Coast,Female,45-54,5,2423,10793,13216,18.33
+108,Mid North Coast,Female,55-64,6,3331,14115,17446,19.09
+108,Mid North Coast,Female,65-74,7,4230,13580,17810,23.75
+108,Mid North Coast,Female,75-84,8,2018,8602,10620,19.0
+108,Mid North Coast,Female,85+,9,317,4007,4324,7.33
+109,Murray,Male,15-19,1,547,2680,3227,16.95
+109,Murray,Male,20-24,2,353,2520,2873,12.29
+109,Murray,Male,25-34,3,738,5412,6150,12.0
+109,Murray,Male,35-44,4,1153,4811,5964,19.33
+109,Murray,Male,45-54,5,1450,5173,6623,21.89
+109,Murray,Male,55-64,6,1574,6069,7643,20.59
+109,Murray,Male,65-74,7,1640,5873,7513,21.83
+109,Murray,Male,75-84,8,819,3175,3994,20.51
+109,Murray,Male,85+,9,143,1041,1184,12.08
+109,Murray,Female,15-19,1,579,2571,3150,18.38
+109,Murray,Female,20-24,2,380,2461,2841,13.38
+109,Murray,Female,25-34,3,868,5543,6411,13.54
+109,Murray,Female,35-44,4,1541,4970,6511,23.67
+109,Murray,Female,45-54,5,1647,5440,7087,23.24
+109,Murray,Female,55-64,6,1848,6300,8148,22.68
+109,Murray,Female,65-74,7,1921,5541,7462,25.74
+109,Murray,Female,75-84,8,1035,3325,4360,23.74
+109,Murray,Female,85+,9,170,1602,1772,9.59
+110,New England and North West,Male,15-19,1,744,4306,5050,14.73
+110,New England and North West,Male,20-24,2,474,4009,4483,10.57
+110,New England and North West,Male,25-34,3,1192,8256,9448,12.62
+110,New England and North West,Male,35-44,4,1598,7161,8759,18.24
+110,New England and North West,Male,45-54,5,1965,7626,9591,20.49
+110,New England and North West,Male,55-64,6,2155,8757,10912,19.75
+110,New England and North West,Male,65-74,7,2352,7503,9855,23.87
+110,New England and North West,Male,75-84,8,1240,4264,5504,22.53
+110,New England and North West,Male,85+,9,201,1284,1485,13.54
+110,New England and North West,Female,15-19,1,902,4104,5006,18.02
+110,New England and North West,Female,20-24,2,579,3864,4443,13.03
+110,New England and North West,Female,25-34,3,1493,8682,10175,14.67
+110,New England and North West,Female,35-44,4,2293,7179,9472,24.21
+110,New England and North West,Female,45-54,5,2349,7898,10247,22.92
+110,New England and North West,Female,55-64,6,2527,8998,11525,21.93
+110,New England and North West,Female,65-74,7,2791,7062,9853,28.33
+110,New England and North West,Female,75-84,8,1484,4717,6201,23.93
+110,New England and North West,Female,85+,9,263,2185,2448,10.74
+111,Newcastle and Lake Macquarie,Male,15-19,1,1207,9658,10865,11.11
+111,Newcastle and Lake Macquarie,Male,20-24,2,1277,11338,12615,10.12
+111,Newcastle and Lake Macquarie,Male,25-34,3,2211,22221,24432,9.05
+111,Newcastle and Lake Macquarie,Male,35-44,4,3240,19402,22642,14.31
+111,Newcastle and Lake Macquarie,Male,45-54,5,3488,19061,22549,15.47
+111,Newcastle and Lake Macquarie,Male,55-64,6,2976,18952,21928,13.57
+111,Newcastle and Lake Macquarie,Male,65-74,7,3260,15679,18939,17.21
+111,Newcastle and Lake Macquarie,Male,75-84,8,1745,9000,10745,16.24
+111,Newcastle and Lake Macquarie,Male,85+,9,269,3183,3452,7.79
+111,Newcastle and Lake Macquarie,Female,15-19,1,1487,8959,10446,14.24
+111,Newcastle and Lake Macquarie,Female,20-24,2,1760,10610,12370,14.23
+111,Newcastle and Lake Macquarie,Female,25-34,3,2887,22143,25030,11.53
+111,Newcastle and Lake Macquarie,Female,35-44,4,4444,19327,23771,18.7
+111,Newcastle and Lake Macquarie,Female,45-54,5,3978,19768,23746,16.75
+111,Newcastle and Lake Macquarie,Female,55-64,6,3482,20243,23725,14.68
+111,Newcastle and Lake Macquarie,Female,65-74,7,3806,17022,20828,18.27
+111,Newcastle and Lake Macquarie,Female,75-84,8,1809,10855,12664,14.28
+111,Newcastle and Lake Macquarie,Female,85+,9,273,5483,5756,4.74
+112,Richmond - Tweed,Male,15-19,1,766,5624,6390,11.99
+112,Richmond - Tweed,Male,20-24,2,550,4620,5170,10.64
+112,Richmond - Tweed,Male,25-34,3,1166,9874,11040,10.56
+112,Richmond - Tweed,Male,35-44,4,2104,10801,12905,16.3
+112,Richmond - Tweed,Male,45-54,5,2563,11966,14529,17.64
+112,Richmond - Tweed,Male,55-64,6,2923,13701,16624,17.58
+112,Richmond - Tweed,Male,65-74,7,3352,12769,16121,20.79
+112,Richmond - Tweed,Male,75-84,8,1457,6814,8271,17.62
+112,Richmond - Tweed,Male,85+,9,256,2527,2783,9.2
+112,Richmond - Tweed,Female,15-19,1,866,5202,6068,14.27
+112,Richmond - Tweed,Female,20-24,2,615,4473,5088,12.09
+112,Richmond - Tweed,Female,25-34,3,1663,10693,12356,13.46
+112,Richmond - Tweed,Female,35-44,4,3034,11498,14532,20.88
+112,Richmond - Tweed,Female,45-54,5,3331,12805,16136,20.64
+112,Richmond - Tweed,Female,55-64,6,3762,14569,18331,20.52
+112,Richmond - Tweed,Female,65-74,7,4321,12513,16834,25.67
+112,Richmond - Tweed,Female,75-84,8,1931,7376,9307,20.75
+112,Richmond - Tweed,Female,85+,9,338,3965,4303,7.85
+113,Riverina,Male,15-19,1,744,4142,4886,15.23
+113,Riverina,Male,20-24,2,533,4004,4537,11.75
+113,Riverina,Male,25-34,3,1069,8387,9456,11.3
+113,Riverina,Male,35-44,4,1547,6920,8467,18.27
+113,Riverina,Male,45-54,5,1731,6929,8660,19.99
+113,Riverina,Male,55-64,6,1901,7465,9366,20.3
+113,Riverina,Male,65-74,7,1867,5977,7844,23.8
+113,Riverina,Male,75-84,8,979,3347,4326,22.63
+113,Riverina,Male,85+,9,143,1235,1378,10.38
+113,Riverina,Female,15-19,1,878,3796,4674,18.78
+113,Riverina,Female,20-24,2,668,3890,4558,14.66
+113,Riverina,Female,25-34,3,1335,8348,9683,13.79
+113,Riverina,Female,35-44,4,1960,6993,8953,21.89
+113,Riverina,Female,45-54,5,2068,7066,9134,22.64
+113,Riverina,Female,55-64,6,2022,7645,9667,20.92
+113,Riverina,Female,65-74,7,2152,5799,7951,27.07
+113,Riverina,Female,75-84,8,1194,3624,4818,24.78
+113,Riverina,Female,85+,9,210,2082,2292,9.16
+114,Southern Highlands and Shoalhaven,Male,15-19,1,457,3531,3988,11.46
+114,Southern Highlands and Shoalhaven,Male,20-24,2,301,2979,3280,9.18
+114,Southern Highlands and Shoalhaven,Male,25-34,3,694,6405,7099,9.78
+114,Southern Highlands and Shoalhaven,Male,35-44,4,1090,6246,7336,14.86
+114,Southern Highlands and Shoalhaven,Male,45-54,5,1460,7037,8497,17.18
+114,Southern Highlands and Shoalhaven,Male,55-64,6,1812,8617,10429,17.37
+114,Southern Highlands and Shoalhaven,Male,65-74,7,2470,8815,11285,21.89
+114,Southern Highlands and Shoalhaven,Male,75-84,8,1305,5496,6801,19.19
+114,Southern Highlands and Shoalhaven,Male,85+,9,211,1684,1895,11.13
+114,Southern Highlands and Shoalhaven,Female,15-19,1,568,3185,3753,15.13
+114,Southern Highlands and Shoalhaven,Female,20-24,2,328,2731,3059,10.72
+114,Southern Highlands and Shoalhaven,Female,25-34,3,849,6523,7372,11.52
+114,Southern Highlands and Shoalhaven,Female,35-44,4,1516,6356,7872,19.26
+114,Southern Highlands and Shoalhaven,Female,45-54,5,1775,7512,9287,19.11
+114,Southern Highlands and Shoalhaven,Female,55-64,6,2309,9278,11587,19.93
+114,Southern Highlands and Shoalhaven,Female,65-74,7,3067,9252,12319,24.9
+114,Southern Highlands and Shoalhaven,Female,75-84,8,1466,5686,7152,20.5
+114,Southern Highlands and Shoalhaven,Female,85+,9,226,2424,2650,8.53
+115,Sydney - Baulkham Hills and Hawkesbury,Male,15-19,1,1319,7950,9269,14.23
+115,Sydney - Baulkham Hills and Hawkesbury,Male,20-24,2,1075,6943,8018,13.41
+115,Sydney - Baulkham Hills and Hawkesbury,Male,25-34,3,1257,10914,12171,10.33
+115,Sydney - Baulkham Hills and Hawkesbury,Male,35-44,4,2198,15919,18117,12.13
+115,Sydney - Baulkham Hills and Hawkesbury,Male,45-54,5,2875,15000,17875,16.08
+115,Sydney - Baulkham Hills and Hawkesbury,Male,55-64,6,2195,12665,14860,14.77
+115,Sydney - Baulkham Hills and Hawkesbury,Male,65-74,7,1859,9513,11372,16.35
+115,Sydney - Baulkham Hills and Hawkesbury,Male,75-84,8,976,4976,5952,16.4
+115,Sydney - Baulkham Hills and Hawkesbury,Male,85+,9,155,1527,1682,9.22
+115,Sydney - Baulkham Hills and Hawkesbury,Female,15-19,1,1519,7000,8519,17.83
+115,Sydney - Baulkham Hills and Hawkesbury,Female,20-24,2,1360,5864,7224,18.83
+115,Sydney - Baulkham Hills and Hawkesbury,Female,25-34,3,1454,11289,12743,11.41
+115,Sydney - Baulkham Hills and Hawkesbury,Female,35-44,4,3037,16830,19867,15.29
+115,Sydney - Baulkham Hills and Hawkesbury,Female,45-54,5,3332,15548,18880,17.65
+115,Sydney - Baulkham Hills and Hawkesbury,Female,55-64,6,2330,13148,15478,15.05
+115,Sydney - Baulkham Hills and Hawkesbury,Female,65-74,7,1955,10222,12177,16.05
+115,Sydney - Baulkham Hills and Hawkesbury,Female,75-84,8,975,5460,6435,15.15
+115,Sydney - Baulkham Hills and Hawkesbury,Female,85+,9,156,2363,2519,6.19
+116,Sydney - Blacktown,Male,15-19,1,1141,10735,11876,9.61
+116,Sydney - Blacktown,Male,20-24,2,1116,11705,12821,8.7
+116,Sydney - Blacktown,Male,25-34,3,1993,24529,26522,7.51
+116,Sydney - Blacktown,Male,35-44,4,2947,29069,32016,9.2
+116,Sydney - Blacktown,Male,45-54,5,2418,20208,22626,10.69
+116,Sydney - Blacktown,Male,55-64,6,1541,16131,17672,8.72
+116,Sydney - Blacktown,Male,65-74,7,1048,11169,12217,8.58
+116,Sydney - Blacktown,Male,75-84,8,395,5036,5431,7.27
+116,Sydney - Blacktown,Male,85+,9,46,1338,1384,3.32
+116,Sydney - Blacktown,Female,15-19,1,1357,9734,11091,12.24
+116,Sydney - Blacktown,Female,20-24,2,1473,10377,11850,12.43
+116,Sydney - Blacktown,Female,25-34,3,2469,26387,28856,8.56
+116,Sydney - Blacktown,Female,35-44,4,3267,28683,31950,10.23
+116,Sydney - Blacktown,Female,45-54,5,2516,20071,22587,11.14
+116,Sydney - Blacktown,Female,55-64,6,1712,16825,18537,9.24
+116,Sydney - Blacktown,Female,65-74,7,1292,12357,13649,9.47
+116,Sydney - Blacktown,Female,75-84,8,416,5805,6221,6.69
+116,Sydney - Blacktown,Female,85+,9,66,2346,2412,2.74
+117,Sydney - City and Inner South,Male,15-19,1,640,4018,4658,13.74
+117,Sydney - City and Inner South,Male,20-24,2,1885,11980,13865,13.6
+117,Sydney - City and Inner South,Male,25-34,3,4566,40502,45068,10.13
+117,Sydney - City and Inner South,Male,35-44,4,3294,26290,29584,11.13
+117,Sydney - City and Inner South,Male,45-54,5,2590,16536,19126,13.54
+117,Sydney - City and Inner South,Male,55-64,6,2044,12432,14476,14.12
+117,Sydney - City and Inner South,Male,65-74,7,1349,7972,9321,14.47
+117,Sydney - City and Inner South,Male,75-84,8,545,4046,4591,11.87
+117,Sydney - City and Inner South,Male,85+,9,65,1266,1331,4.88
+117,Sydney - City and Inner South,Female,15-19,1,860,4000,4860,17.7
+117,Sydney - City and Inner South,Female,20-24,2,2574,12258,14832,17.35
+117,Sydney - City and Inner South,Female,25-34,3,5490,38392,43882,12.51
+117,Sydney - City and Inner South,Female,35-44,4,3556,22209,25765,13.8
+117,Sydney - City and Inner South,Female,45-54,5,2905,13663,16568,17.53
+117,Sydney - City and Inner South,Female,55-64,6,2179,10733,12912,16.88
+117,Sydney - City and Inner South,Female,65-74,7,1498,7990,9488,15.79
+117,Sydney - City and Inner South,Female,75-84,8,561,4497,5058,11.09
+117,Sydney - City and Inner South,Female,85+,9,80,1766,1846,4.33
+118,Sydney - Eastern Suburbs,Male,15-19,1,1325,4695,6020,22.01
+118,Sydney - Eastern Suburbs,Male,20-24,2,1198,5929,7127,16.81
+118,Sydney - Eastern Suburbs,Male,25-34,3,2409,19411,21820,11.04
+118,Sydney - Eastern Suburbs,Male,35-44,4,2444,15701,18145,13.47
+118,Sydney - Eastern Suburbs,Male,45-54,5,2906,12635,15541,18.7
+118,Sydney - Eastern Suburbs,Male,55-64,6,2274,10116,12390,18.35
+118,Sydney - Eastern Suburbs,Male,65-74,7,1637,7747,9384,17.44
+118,Sydney - Eastern Suburbs,Male,75-84,8,779,4901,5680,13.71
+118,Sydney - Eastern Suburbs,Male,85+,9,169,1890,2059,8.21
+118,Sydney - Eastern Suburbs,Female,15-19,1,1409,4347,5756,24.48
+118,Sydney - Eastern Suburbs,Female,20-24,2,1667,6211,7878,21.16
+118,Sydney - Eastern Suburbs,Female,25-34,3,3193,21843,25036,12.75
+118,Sydney - Eastern Suburbs,Female,35-44,4,3322,16084,19406,17.12
+118,Sydney - Eastern Suburbs,Female,45-54,5,3786,12939,16725,22.64
+118,Sydney - Eastern Suburbs,Female,55-64,6,2518,10667,13185,19.1
+118,Sydney - Eastern Suburbs,Female,65-74,7,1915,8792,10707,17.89
+118,Sydney - Eastern Suburbs,Female,75-84,8,956,5966,6922,13.81
+118,Sydney - Eastern Suburbs,Female,85+,9,187,2801,2988,6.26
+119,Sydney - Inner South West,Male,15-19,1,1478,14946,16424,9.0
+119,Sydney - Inner South West,Male,20-24,2,1697,18986,20683,8.2
+119,Sydney - Inner South West,Male,25-34,3,3149,41852,45001,7.0
+119,Sydney - Inner South West,Male,35-44,4,3297,35879,39176,8.42
+119,Sydney - Inner South West,Male,45-54,5,3184,30627,33811,9.42
+119,Sydney - Inner South West,Male,55-64,6,2578,29136,31714,8.13
+119,Sydney - Inner South West,Male,65-74,7,2018,20892,22910,8.81
+119,Sydney - Inner South West,Male,75-84,8,985,12033,13018,7.57
+119,Sydney - Inner South West,Male,85+,9,187,4847,5034,3.71
+119,Sydney - Inner South West,Female,15-19,1,1729,13408,15137,11.42
+119,Sydney - Inner South West,Female,20-24,2,2322,16645,18967,12.24
+119,Sydney - Inner South West,Female,25-34,3,3775,40131,43906,8.6
+119,Sydney - Inner South West,Female,35-44,4,4339,35113,39452,11.0
+119,Sydney - Inner South West,Female,45-54,5,3853,32381,36234,10.63
+119,Sydney - Inner South West,Female,55-64,6,2906,30459,33365,8.71
+119,Sydney - Inner South West,Female,65-74,7,2351,22466,24817,9.47
+119,Sydney - Inner South West,Female,75-84,8,1058,13828,14886,7.11
+119,Sydney - Inner South West,Female,85+,9,232,6825,7057,3.29
+120,Sydney - Inner West,Male,15-19,1,1102,5505,6607,16.68
+120,Sydney - Inner West,Male,20-24,2,1136,9658,10794,10.52
+120,Sydney - Inner West,Male,25-34,3,2383,24232,26615,8.95
+120,Sydney - Inner West,Male,35-44,4,2382,19465,21847,10.9
+120,Sydney - Inner West,Male,45-54,5,2703,15095,17798,15.19
+120,Sydney - Inner West,Male,55-64,6,2138,13195,15333,13.94
+120,Sydney - Inner West,Male,65-74,7,1640,9365,11005,14.9
+120,Sydney - Inner West,Male,75-84,8,695,5395,6090,11.41
+120,Sydney - Inner West,Male,85+,9,137,2261,2398,5.71
+120,Sydney - Inner West,Female,15-19,1,1196,5203,6399,18.69
+120,Sydney - Inner West,Female,20-24,2,1576,8635,10211,15.43
+120,Sydney - Inner West,Female,25-34,3,3006,24019,27025,11.12
+120,Sydney - Inner West,Female,35-44,4,3332,19062,22394,14.88
+120,Sydney - Inner West,Female,45-54,5,3731,16318,20049,18.61
+120,Sydney - Inner West,Female,55-64,6,2635,14354,16989,15.51
+120,Sydney - Inner West,Female,65-74,7,2090,10828,12918,16.18
+120,Sydney - Inner West,Female,75-84,8,800,6572,7372,10.85
+120,Sydney - Inner West,Female,85+,9,129,3515,3644,3.54
+121,Sydney - North Sydney and Hornsby,Male,15-19,1,2489,9737,12226,20.36
+121,Sydney - North Sydney and Hornsby,Male,20-24,2,1766,9215,10981,16.08
+121,Sydney - North Sydney and Hornsby,Male,25-34,3,2773,21065,23838,11.63
+121,Sydney - North Sydney and Hornsby,Male,35-44,4,4038,26212,30250,13.35
+121,Sydney - North Sydney and Hornsby,Male,45-54,5,5626,22248,27874,20.18
+121,Sydney - North Sydney and Hornsby,Male,55-64,6,4521,18064,22585,20.02
+121,Sydney - North Sydney and Hornsby,Male,65-74,7,3890,13205,17095,22.76
+121,Sydney - North Sydney and Hornsby,Male,75-84,8,2407,8107,10514,22.89
+121,Sydney - North Sydney and Hornsby,Male,85+,9,411,3383,3794,10.83
+121,Sydney - North Sydney and Hornsby,Female,15-19,1,2947,8477,11424,25.8
+121,Sydney - North Sydney and Hornsby,Female,20-24,2,2273,8298,10571,21.5
+121,Sydney - North Sydney and Hornsby,Female,25-34,3,3303,23044,26347,12.54
+121,Sydney - North Sydney and Hornsby,Female,35-44,4,6198,27756,33954,18.25
+121,Sydney - North Sydney and Hornsby,Female,45-54,5,7697,23356,31053,24.79
+121,Sydney - North Sydney and Hornsby,Female,55-64,6,5171,19404,24575,21.04
+121,Sydney - North Sydney and Hornsby,Female,65-74,7,4340,15686,20026,21.67
+121,Sydney - North Sydney and Hornsby,Female,75-84,8,2488,9920,12408,20.05
+121,Sydney - North Sydney and Hornsby,Female,85+,9,428,5387,5815,7.36
+122,Sydney - Northern Beaches,Male,15-19,1,1419,6762,8181,17.35
+122,Sydney - Northern Beaches,Male,20-24,2,856,6060,6916,12.38
+122,Sydney - Northern Beaches,Male,25-34,3,1390,12004,13394,10.38
+122,Sydney - Northern Beaches,Male,35-44,4,2414,13895,16309,14.8
+122,Sydney - Northern Beaches,Male,45-54,5,3845,14907,18752,20.5
+122,Sydney - Northern Beaches,Male,55-64,6,2991,12520,15511,19.28
+122,Sydney - Northern Beaches,Male,65-74,7,2243,8837,11080,20.24
+122,Sydney - Northern Beaches,Male,75-84,8,1337,5839,7176,18.63
+122,Sydney - Northern Beaches,Male,85+,9,238,2210,2448,9.72
+122,Sydney - Northern Beaches,Female,15-19,1,1660,5924,7584,21.89
+122,Sydney - Northern Beaches,Female,20-24,2,1027,5311,6338,16.2
+122,Sydney - Northern Beaches,Female,25-34,3,1623,12532,14155,11.47
+122,Sydney - Northern Beaches,Female,35-44,4,3319,14560,17879,18.56
+122,Sydney - Northern Beaches,Female,45-54,5,4809,15210,20019,24.02
+122,Sydney - Northern Beaches,Female,55-64,6,2996,12962,15958,18.77
+122,Sydney - Northern Beaches,Female,65-74,7,2424,9834,12258,19.77
+122,Sydney - Northern Beaches,Female,75-84,8,1447,6976,8423,17.18
+122,Sydney - Northern Beaches,Female,85+,9,257,3582,3839,6.69
+123,Sydney - Outer South West,Male,15-19,1,767,8573,9340,8.21
+123,Sydney - Outer South West,Male,20-24,2,731,8268,8999,8.12
+123,Sydney - Outer South West,Male,25-34,3,1285,17137,18422,6.98
+123,Sydney - Outer South West,Male,35-44,4,1923,18064,19987,9.62
+123,Sydney - Outer South West,Male,45-54,5,1808,15388,17196,10.51
+123,Sydney - Outer South West,Male,55-64,6,1470,13281,14751,9.97
+123,Sydney - Outer South West,Male,65-74,7,1326,9816,11142,11.9
+123,Sydney - Outer South West,Male,75-84,8,545,4374,4919,11.08
+123,Sydney - Outer South West,Male,85+,9,64,1021,1085,5.9
+123,Sydney - Outer South West,Female,15-19,1,933,7899,8832,10.56
+123,Sydney - Outer South West,Female,20-24,2,923,7620,8543,10.8
+123,Sydney - Outer South West,Female,25-34,3,1688,18655,20343,8.3
+123,Sydney - Outer South West,Female,35-44,4,2423,18497,20920,11.58
+123,Sydney - Outer South West,Female,45-54,5,2076,15630,17706,11.72
+123,Sydney - Outer South West,Female,55-64,6,1756,14352,16108,10.9
+123,Sydney - Outer South West,Female,65-74,7,1507,10584,12091,12.46
+123,Sydney - Outer South West,Female,75-84,8,551,4911,5462,10.09
+123,Sydney - Outer South West,Female,85+,9,84,1706,1790,4.69
+124,Sydney - Outer West and Blue Mountains,Male,15-19,1,1057,8845,9902,10.67
+124,Sydney - Outer West and Blue Mountains,Male,20-24,2,862,9036,9898,8.71
+124,Sydney - Outer West and Blue Mountains,Male,25-34,3,1653,18980,20633,8.01
+124,Sydney - Outer West and Blue Mountains,Male,35-44,4,2337,18595,20932,11.16
+124,Sydney - Outer West and Blue Mountains,Male,45-54,5,2378,17119,19497,12.2
+124,Sydney - Outer West and Blue Mountains,Male,55-64,6,2103,15625,17728,11.86
+124,Sydney - Outer West and Blue Mountains,Male,65-74,7,2235,11890,14125,15.82
+124,Sydney - Outer West and Blue Mountains,Male,75-84,8,985,5563,6548,15.04
+124,Sydney - Outer West and Blue Mountains,Male,85+,9,114,1500,1614,7.06
+124,Sydney - Outer West and Blue Mountains,Female,15-19,1,1255,8105,9360,13.41
+124,Sydney - Outer West and Blue Mountains,Female,20-24,2,1083,8278,9361,11.57
+124,Sydney - Outer West and Blue Mountains,Female,25-34,3,2107,19874,21981,9.59
+124,Sydney - Outer West and Blue Mountains,Female,35-44,4,3108,18883,21991,14.13
+124,Sydney - Outer West and Blue Mountains,Female,45-54,5,2874,17665,20539,13.99
+124,Sydney - Outer West and Blue Mountains,Female,55-64,6,2658,16724,19382,13.71
+124,Sydney - Outer West and Blue Mountains,Female,65-74,7,2643,12896,15539,17.01
+124,Sydney - Outer West and Blue Mountains,Female,75-84,8,1091,6530,7621,14.32
+124,Sydney - Outer West and Blue Mountains,Female,85+,9,174,2565,2739,6.35
+125,Sydney - Parramatta,Male,15-19,1,1189,10987,12176,9.77
+125,Sydney - Parramatta,Male,20-24,2,1460,16033,17493,8.35
+125,Sydney - Parramatta,Male,25-34,3,3049,40135,43184,7.06
+125,Sydney - Parramatta,Male,35-44,4,3210,35049,38259,8.39
+125,Sydney - Parramatta,Male,45-54,5,2533,23202,25735,9.84
+125,Sydney - Parramatta,Male,55-64,6,2073,20229,22302,9.3
+125,Sydney - Parramatta,Male,65-74,7,1569,14084,15653,10.02
+125,Sydney - Parramatta,Male,75-84,8,727,7543,8270,8.79
+125,Sydney - Parramatta,Male,85+,9,114,2610,2724,4.19
+125,Sydney - Parramatta,Female,15-19,1,1449,9831,11280,12.85
+125,Sydney - Parramatta,Female,20-24,2,2042,13401,15443,13.22
+125,Sydney - Parramatta,Female,25-34,3,3445,37360,40805,8.44
+125,Sydney - Parramatta,Female,35-44,4,3884,31280,35164,11.05
+125,Sydney - Parramatta,Female,45-54,5,3019,22988,26007,11.61
+125,Sydney - Parramatta,Female,55-64,6,2334,20965,23299,10.02
+125,Sydney - Parramatta,Female,65-74,7,1781,15023,16804,10.6
+125,Sydney - Parramatta,Female,75-84,8,809,8432,9241,8.75
+125,Sydney - Parramatta,Female,85+,9,154,3788,3942,3.91
+126,Sydney - Ryde,Male,15-19,1,891,4275,5166,17.25
+126,Sydney - Ryde,Male,20-24,2,927,5427,6354,14.59
+126,Sydney - Ryde,Male,25-34,3,1414,13510,14924,9.47
+126,Sydney - Ryde,Male,35-44,4,1835,13106,14941,12.28
+126,Sydney - Ryde,Male,45-54,5,2033,9549,11582,17.55
+126,Sydney - Ryde,Male,55-64,6,1734,8674,10408,16.66
+126,Sydney - Ryde,Male,65-74,7,1360,6567,7927,17.16
+126,Sydney - Ryde,Male,75-84,8,670,3435,4105,16.32
+126,Sydney - Ryde,Male,85+,9,132,1557,1689,7.82
+126,Sydney - Ryde,Female,15-19,1,1017,3859,4876,20.86
+126,Sydney - Ryde,Female,20-24,2,1169,4877,6046,19.34
+126,Sydney - Ryde,Female,25-34,3,1684,14116,15800,10.66
+126,Sydney - Ryde,Female,35-44,4,2510,13205,15715,15.97
+126,Sydney - Ryde,Female,45-54,5,2567,9939,12506,20.53
+126,Sydney - Ryde,Female,55-64,6,1937,9586,11523,16.81
+126,Sydney - Ryde,Female,65-74,7,1525,7358,8883,17.17
+126,Sydney - Ryde,Female,75-84,8,760,4254,5014,15.16
+126,Sydney - Ryde,Female,85+,9,168,2437,2605,6.45
+127,Sydney - South West,Male,15-19,1,1006,14464,15470,6.5
+127,Sydney - South West,Male,20-24,2,1044,14578,15622,6.68
+127,Sydney - South West,Male,25-34,3,1765,29107,30872,5.72
+127,Sydney - South West,Male,35-44,4,1945,27634,29579,6.58
+127,Sydney - South West,Male,45-54,5,1789,25432,27221,6.57
+127,Sydney - South West,Male,55-64,6,1460,24058,25518,5.72
+127,Sydney - South West,Male,65-74,7,1043,15792,16835,6.2
+127,Sydney - South West,Male,75-84,8,406,7485,7891,5.15
+127,Sydney - South West,Male,85+,9,50,2267,2317,2.16
+127,Sydney - South West,Female,15-19,1,1259,13342,14601,8.62
+127,Sydney - South West,Female,20-24,2,1538,13480,15018,10.24
+127,Sydney - South West,Female,25-34,3,2195,30307,32502,6.75
+127,Sydney - South West,Female,35-44,4,2580,28980,31560,8.17
+127,Sydney - South West,Female,45-54,5,2125,26789,28914,7.35
+127,Sydney - South West,Female,55-64,6,1722,24380,26102,6.6
+127,Sydney - South West,Female,65-74,7,1231,16991,18222,6.76
+127,Sydney - South West,Female,75-84,8,433,8354,8787,4.93
+127,Sydney - South West,Female,85+,9,50,3413,3463,1.44
+128,Sydney - Sutherland,Male,15-19,1,879,6138,7017,12.53
+128,Sydney - Sutherland,Male,20-24,2,694,5723,6417,10.82
+128,Sydney - Sutherland,Male,25-34,3,1135,11210,12345,9.19
+128,Sydney - Sutherland,Male,35-44,4,1874,12203,14077,13.31
+128,Sydney - Sutherland,Male,45-54,5,2437,12450,14887,16.37
+128,Sydney - Sutherland,Male,55-64,6,1915,11504,13419,14.27
+128,Sydney - Sutherland,Male,65-74,7,1702,8878,10580,16.09
+128,Sydney - Sutherland,Male,75-84,8,898,5072,5970,15.04
+128,Sydney - Sutherland,Male,85+,9,161,1982,2143,7.51
+128,Sydney - Sutherland,Female,15-19,1,1123,5466,6589,17.04
+128,Sydney - Sutherland,Female,20-24,2,903,5210,6113,14.77
+128,Sydney - Sutherland,Female,25-34,3,1295,11660,12955,10.0
+128,Sydney - Sutherland,Female,35-44,4,2532,12807,15339,16.51
+128,Sydney - Sutherland,Female,45-54,5,2800,13154,15954,17.55
+128,Sydney - Sutherland,Female,55-64,6,2054,12231,14285,14.38
+128,Sydney - Sutherland,Female,65-74,7,1825,9737,11562,15.78
+128,Sydney - Sutherland,Female,75-84,8,963,6065,7028,13.7
+128,Sydney - Sutherland,Female,85+,9,207,3010,3217,6.43
+201,Ballarat,Male,15-19,1,673,4172,4845,13.89
+201,Ballarat,Male,20-24,2,477,3983,4460,10.7
+201,Ballarat,Male,25-34,3,1037,8507,9544,10.87
+201,Ballarat,Male,35-44,4,1465,7687,9152,16.01
+201,Ballarat,Male,45-54,5,1895,8260,10155,18.66
+201,Ballarat,Male,55-64,6,1843,8525,10368,17.78
+201,Ballarat,Male,65-74,7,2146,7357,9503,22.58
+201,Ballarat,Male,75-84,8,968,3902,4870,19.88
+201,Ballarat,Male,85+,9,154,1223,1377,11.18
+201,Ballarat,Female,15-19,1,866,3692,4558,19.0
+201,Ballarat,Female,20-24,2,695,3719,4414,15.75
+201,Ballarat,Female,25-34,3,1248,8600,9848,12.67
+201,Ballarat,Female,35-44,4,1978,8149,10127,19.53
+201,Ballarat,Female,45-54,5,2221,8747,10968,20.25
+201,Ballarat,Female,55-64,6,2148,9170,11318,18.98
+201,Ballarat,Female,65-74,7,2425,7826,10251,23.66
+201,Ballarat,Female,75-84,8,1043,4291,5334,19.55
+201,Ballarat,Female,85+,9,157,2130,2287,6.86
+202,Bendigo,Male,15-19,1,591,3800,4391,13.46
+202,Bendigo,Male,20-24,2,527,3606,4133,12.75
+202,Bendigo,Male,25-34,3,958,7690,8648,11.08
+202,Bendigo,Male,35-44,4,1451,7343,8794,16.5
+202,Bendigo,Male,45-54,5,1909,7626,9535,20.02
+202,Bendigo,Male,55-64,6,1940,8028,9968,19.46
+202,Bendigo,Male,65-74,7,2321,7052,9373,24.76
+202,Bendigo,Male,75-84,8,1097,3789,4886,22.45
+202,Bendigo,Male,85+,9,181,1302,1483,12.2
+202,Bendigo,Female,15-19,1,728,3612,4340,16.77
+202,Bendigo,Female,20-24,2,615,3487,4102,14.99
+202,Bendigo,Female,25-34,3,1266,8121,9387,13.49
+202,Bendigo,Female,35-44,4,2055,7697,9752,21.07
+202,Bendigo,Female,45-54,5,2325,8074,10399,22.36
+202,Bendigo,Female,55-64,6,2243,8890,11133,20.15
+202,Bendigo,Female,65-74,7,2607,7359,9966,26.16
+202,Bendigo,Female,75-84,8,1087,4187,5274,20.61
+202,Bendigo,Female,85+,9,160,2024,2184,7.33
+203,Geelong,Male,15-19,1,1184,7693,8877,13.34
+203,Geelong,Male,20-24,2,1121,8188,9309,12.04
+203,Geelong,Male,25-34,3,1992,18256,20248,9.84
+203,Geelong,Male,35-44,4,2682,16354,19036,14.09
+203,Geelong,Male,45-54,5,3140,15375,18515,16.96
+203,Geelong,Male,55-64,6,2879,14801,17680,16.28
+203,Geelong,Male,65-74,7,3473,12968,16441,21.12
+203,Geelong,Male,75-84,8,1754,6741,8495,20.65
+203,Geelong,Male,85+,9,238,2424,2662,8.94
+203,Geelong,Female,15-19,1,1405,7069,8474,16.58
+203,Geelong,Female,20-24,2,1476,7553,9029,16.35
+203,Geelong,Female,25-34,3,2413,18360,20773,11.62
+203,Geelong,Female,35-44,4,3774,17091,20865,18.09
+203,Geelong,Female,45-54,5,3726,16420,20146,18.49
+203,Geelong,Female,55-64,6,3391,16684,20075,16.89
+203,Geelong,Female,65-74,7,3899,14310,18209,21.41
+203,Geelong,Female,75-84,8,1814,8073,9887,18.35
+203,Geelong,Female,85+,9,282,3937,4219,6.68
+204,Hume,Male,15-19,1,693,4345,5038,13.76
+204,Hume,Male,20-24,2,443,3776,4219,10.5
+204,Hume,Male,25-34,3,1066,7889,8955,11.9
+204,Hume,Male,35-44,4,1676,7407,9083,18.45
+204,Hume,Male,45-54,5,2226,8264,10490,21.22
+204,Hume,Male,55-64,6,2714,9429,12143,22.35
+204,Hume,Male,65-74,7,3099,8549,11648,26.61
+204,Hume,Male,75-84,8,1408,4615,6023,23.38
+204,Hume,Male,85+,9,198,1532,1730,11.45
+204,Hume,Female,15-19,1,753,3829,4582,16.43
+204,Hume,Female,20-24,2,469,3307,3776,12.42
+204,Hume,Female,25-34,3,1188,8007,9195,12.92
+204,Hume,Female,35-44,4,2302,7708,10010,23.0
+204,Hume,Female,45-54,5,2571,8850,11421,22.51
+204,Hume,Female,55-64,6,2947,10067,13014,22.64
+204,Hume,Female,65-74,7,3310,8336,11646,28.42
+204,Hume,Female,75-84,8,1508,4802,6310,23.9
+204,Hume,Female,85+,9,269,2380,2649,10.15
+205,Latrobe - Gippsland,Male,15-19,1,860,6510,7370,11.67
+205,Latrobe - Gippsland,Male,20-24,2,675,5811,6486,10.41
+205,Latrobe - Gippsland,Male,25-34,3,1595,12817,14412,11.07
+205,Latrobe - Gippsland,Male,35-44,4,2400,11856,14256,16.84
+205,Latrobe - Gippsland,Male,45-54,5,2940,12982,15922,18.47
+205,Latrobe - Gippsland,Male,55-64,6,3574,16141,19715,18.13
+205,Latrobe - Gippsland,Male,65-74,7,4754,15407,20161,23.58
+205,Latrobe - Gippsland,Male,75-84,8,2265,8025,10290,22.01
+205,Latrobe - Gippsland,Male,85+,9,329,2403,2732,12.04
+205,Latrobe - Gippsland,Female,15-19,1,981,6105,7086,13.84
+205,Latrobe - Gippsland,Female,20-24,2,783,5400,6183,12.66
+205,Latrobe - Gippsland,Female,25-34,3,1992,13560,15552,12.81
+205,Latrobe - Gippsland,Female,35-44,4,3292,12172,15464,21.29
+205,Latrobe - Gippsland,Female,45-54,5,3536,14091,17627,20.06
+205,Latrobe - Gippsland,Female,55-64,6,4484,17143,21627,20.73
+205,Latrobe - Gippsland,Female,65-74,7,5323,15055,20378,26.12
+205,Latrobe - Gippsland,Female,75-84,8,2456,8219,10675,23.01
+205,Latrobe - Gippsland,Female,85+,9,387,3634,4021,9.62
+206,Melbourne - Inner,Male,15-19,1,1357,9237,10594,12.81
+206,Melbourne - Inner,Male,20-24,2,3851,21031,24882,15.48
+206,Melbourne - Inner,Male,25-34,3,8942,66151,75093,11.91
+206,Melbourne - Inner,Male,35-44,4,6176,41616,47792,12.92
+206,Melbourne - Inner,Male,45-54,5,5758,27446,33204,17.34
+206,Melbourne - Inner,Male,55-64,6,4592,21702,26294,17.46
+206,Melbourne - Inner,Male,65-74,7,3607,14458,18065,19.97
+206,Melbourne - Inner,Male,75-84,8,1515,8081,9596,15.79
+206,Melbourne - Inner,Male,85+,9,250,3100,3350,7.46
+206,Melbourne - Inner,Female,15-19,1,2056,9501,11557,17.79
+206,Melbourne - Inner,Female,20-24,2,6058,22711,28769,21.06
+206,Melbourne - Inner,Female,25-34,3,11759,68336,80095,14.68
+206,Melbourne - Inner,Female,35-44,4,8102,39228,47330,17.12
+206,Melbourne - Inner,Female,45-54,5,7069,27722,34791,20.32
+206,Melbourne - Inner,Female,55-64,6,5300,22308,27608,19.2
+206,Melbourne - Inner,Female,65-74,7,4373,16086,20459,21.37
+206,Melbourne - Inner,Female,75-84,8,1644,9868,11512,14.28
+206,Melbourne - Inner,Female,85+,9,266,5064,5330,4.99
+207,Melbourne - Inner East,Male,15-19,1,1732,10017,11749,14.74
+207,Melbourne - Inner East,Male,20-24,2,2028,11384,13412,15.12
+207,Melbourne - Inner East,Male,25-34,3,2363,20756,23119,10.22
+207,Melbourne - Inner East,Male,35-44,4,2888,18933,21821,13.23
+207,Melbourne - Inner East,Male,45-54,5,4355,18463,22818,19.09
+207,Melbourne - Inner East,Male,55-64,6,3561,17002,20563,17.32
+207,Melbourne - Inner East,Male,65-74,7,3066,12506,15572,19.69
+207,Melbourne - Inner East,Male,75-84,8,2019,8346,10365,19.48
+207,Melbourne - Inner East,Male,85+,9,406,4000,4406,9.21
+207,Melbourne - Inner East,Female,15-19,1,2125,9137,11262,18.87
+207,Melbourne - Inner East,Female,20-24,2,2557,9930,12487,20.48
+207,Melbourne - Inner East,Female,25-34,3,2970,20338,23308,12.74
+207,Melbourne - Inner East,Female,35-44,4,4206,20160,24366,17.26
+207,Melbourne - Inner East,Female,45-54,5,5622,20438,26060,21.57
+207,Melbourne - Inner East,Female,55-64,6,4005,18824,22829,17.54
+207,Melbourne - Inner East,Female,65-74,7,3672,14799,18471,19.88
+207,Melbourne - Inner East,Female,75-84,8,2262,10776,13038,17.35
+207,Melbourne - Inner East,Female,85+,9,458,6350,6808,6.73
+208,Melbourne - Inner South,Male,15-19,1,1589,10787,12376,12.84
+208,Melbourne - Inner South,Male,20-24,2,1688,10275,11963,14.11
+208,Melbourne - Inner South,Male,25-34,3,2340,21941,24281,9.64
+208,Melbourne - Inner South,Male,35-44,4,3513,23113,26626,13.19
+208,Melbourne - Inner South,Male,45-54,5,5306,23189,28495,18.62
+208,Melbourne - Inner South,Male,55-64,6,3929,19693,23622,16.63
+208,Melbourne - Inner South,Male,65-74,7,3379,14443,17822,18.96
+208,Melbourne - Inner South,Male,75-84,8,1746,8329,10075,17.33
+208,Melbourne - Inner South,Male,85+,9,346,3687,4033,8.58
+208,Melbourne - Inner South,Female,15-19,1,2057,9915,11972,17.18
+208,Melbourne - Inner South,Female,20-24,2,2243,9354,11597,19.34
+208,Melbourne - Inner South,Female,25-34,3,2942,22683,25625,11.48
+208,Melbourne - Inner South,Female,35-44,4,5055,24290,29345,17.23
+208,Melbourne - Inner South,Female,45-54,5,6414,25196,31610,20.29
+208,Melbourne - Inner South,Female,55-64,6,4499,21245,25744,17.48
+208,Melbourne - Inner South,Female,65-74,7,4015,16648,20663,19.43
+208,Melbourne - Inner South,Female,75-84,8,2059,10626,12685,16.23
+208,Melbourne - Inner South,Female,85+,9,436,6642,7078,6.16
+209,Melbourne - North East,Male,15-19,1,1450,13560,15010,9.66
+209,Melbourne - North East,Male,20-24,2,1582,14800,16382,9.66
+209,Melbourne - North East,Male,25-34,3,2931,34411,37342,7.85
+209,Melbourne - North East,Male,35-44,4,3986,34760,38746,10.29
+209,Melbourne - North East,Male,45-54,5,4260,28922,33182,12.84
+209,Melbourne - North East,Male,55-64,6,2927,24414,27341,10.71
+209,Melbourne - North East,Male,65-74,7,2686,17722,20408,13.16
+209,Melbourne - North East,Male,75-84,8,1328,9601,10929,12.15
+209,Melbourne - North East,Male,85+,9,197,3412,3609,5.46
+209,Melbourne - North East,Female,15-19,1,1760,12205,13965,12.6
+209,Melbourne - North East,Female,20-24,2,2106,13048,15154,13.9
+209,Melbourne - North East,Female,25-34,3,3758,34665,38423,9.78
+209,Melbourne - North East,Female,35-44,4,5619,34301,39920,14.08
+209,Melbourne - North East,Female,45-54,5,4960,29800,34760,14.27
+209,Melbourne - North East,Female,55-64,6,3431,26425,29856,11.49
+209,Melbourne - North East,Female,65-74,7,3123,19781,22904,13.64
+209,Melbourne - North East,Female,75-84,8,1404,11338,12742,11.02
+209,Melbourne - North East,Female,85+,9,208,5444,5652,3.68
+210,Melbourne - North West,Male,15-19,1,917,11248,12165,7.54
+210,Melbourne - North West,Male,20-24,2,979,12296,13275,7.37
+210,Melbourne - North West,Male,25-34,3,2033,28766,30799,6.6
+210,Melbourne - North West,Male,35-44,4,2726,27154,29880,9.12
+210,Melbourne - North West,Male,45-54,5,2552,21572,24124,10.58
+210,Melbourne - North West,Male,55-64,6,1923,18756,20679,9.3
+210,Melbourne - North West,Male,65-74,7,1621,12358,13979,11.6
+210,Melbourne - North West,Male,75-84,8,784,7101,7885,9.94
+210,Melbourne - North West,Male,85+,9,129,2673,2802,4.6
+210,Melbourne - North West,Female,15-19,1,1172,10144,11316,10.36
+210,Melbourne - North West,Female,20-24,2,1438,10611,12049,11.93
+210,Melbourne - North West,Female,25-34,3,2493,28830,31323,7.96
+210,Melbourne - North West,Female,35-44,4,3483,26627,30110,11.57
+210,Melbourne - North West,Female,45-54,5,3099,22327,25426,12.19
+210,Melbourne - North West,Female,55-64,6,2097,19537,21634,9.69
+210,Melbourne - North West,Female,65-74,7,1749,14140,15889,11.01
+210,Melbourne - North West,Female,75-84,8,855,8551,9406,9.09
+210,Melbourne - North West,Female,85+,9,125,4077,4202,2.97
+211,Melbourne - Outer East,Male,15-19,1,1837,13745,15582,11.79
+211,Melbourne - Outer East,Male,20-24,2,1880,13206,15086,12.46
+211,Melbourne - Outer East,Male,25-34,3,3061,26959,30020,10.2
+211,Melbourne - Outer East,Male,35-44,4,4679,28571,33250,14.07
+211,Melbourne - Outer East,Male,45-54,5,5634,27390,33024,17.06
+211,Melbourne - Outer East,Male,55-64,6,4476,25798,30274,14.78
+211,Melbourne - Outer East,Male,65-74,7,4208,19237,23445,17.95
+211,Melbourne - Outer East,Male,75-84,8,2292,10651,12943,17.71
+211,Melbourne - Outer East,Male,85+,9,340,3708,4048,8.4
+211,Melbourne - Outer East,Female,15-19,1,2242,11951,14193,15.8
+211,Melbourne - Outer East,Female,20-24,2,2399,11516,13915,17.24
+211,Melbourne - Outer East,Female,25-34,3,3744,27245,30989,12.08
+211,Melbourne - Outer East,Female,35-44,4,6661,28945,35606,18.71
+211,Melbourne - Outer East,Female,45-54,5,6601,29090,35691,18.49
+211,Melbourne - Outer East,Female,55-64,6,5050,27716,32766,15.41
+211,Melbourne - Outer East,Female,65-74,7,4983,21770,26753,18.63
+211,Melbourne - Outer East,Female,75-84,8,2505,12806,15311,16.36
+211,Melbourne - Outer East,Female,85+,9,385,5918,6303,6.11
+212,Melbourne - South East,Male,15-19,1,2242,22909,25151,8.91
+212,Melbourne - South East,Male,20-24,2,3138,26763,29901,10.49
+212,Melbourne - South East,Male,25-34,3,4717,59300,64017,7.37
+212,Melbourne - South East,Male,35-44,4,5626,54986,60612,9.28
+212,Melbourne - South East,Male,45-54,5,5605,43751,49356,11.36
+212,Melbourne - South East,Male,55-64,6,4022,37083,41105,9.78
+212,Melbourne - South East,Male,65-74,7,3494,25908,29402,11.88
+212,Melbourne - South East,Male,75-84,8,1940,14874,16814,11.54
+212,Melbourne - South East,Male,85+,9,348,5375,5723,6.08
+212,Melbourne - South East,Female,15-19,1,2893,20815,23708,12.2
+212,Melbourne - South East,Female,20-24,2,4015,23156,27171,14.78
+212,Melbourne - South East,Female,25-34,3,5292,57141,62433,8.48
+212,Melbourne - South East,Female,35-44,4,6936,53963,60899,11.39
+212,Melbourne - South East,Female,45-54,5,6154,44817,50971,12.07
+212,Melbourne - South East,Female,55-64,6,4711,38085,42796,11.01
+212,Melbourne - South East,Female,65-74,7,4169,28681,32850,12.69
+212,Melbourne - South East,Female,75-84,8,2107,17287,19394,10.86
+212,Melbourne - South East,Female,85+,9,387,8291,8678,4.46
+213,Melbourne - West,Male,15-19,1,1758,20829,22587,7.78
+213,Melbourne - West,Male,20-24,2,2136,23562,25698,8.31
+213,Melbourne - West,Male,25-34,3,4485,59641,64126,6.99
+213,Melbourne - West,Male,35-44,4,6093,61952,68045,8.95
+213,Melbourne - West,Male,45-54,5,5013,43286,48299,10.38
+213,Melbourne - West,Male,55-64,6,3446,33759,37205,9.26
+213,Melbourne - West,Male,65-74,7,2649,23639,26288,10.08
+213,Melbourne - West,Male,75-84,8,1050,10939,11989,8.76
+213,Melbourne - West,Male,85+,9,164,3245,3409,4.81
+213,Melbourne - West,Female,15-19,1,2196,19474,21670,10.13
+213,Melbourne - West,Female,20-24,2,2946,20475,23421,12.58
+213,Melbourne - West,Female,25-34,3,5719,61285,67004,8.54
+213,Melbourne - West,Female,35-44,4,7288,60163,67451,10.8
+213,Melbourne - West,Female,45-54,5,5671,43842,49513,11.45
+213,Melbourne - West,Female,55-64,6,4042,35247,39289,10.29
+213,Melbourne - West,Female,65-74,7,3095,25418,28513,10.85
+213,Melbourne - West,Female,75-84,8,1087,12567,13654,7.96
+213,Melbourne - West,Female,85+,9,157,5518,5675,2.77
+214,Mornington Peninsula,Male,15-19,1,651,7984,8635,7.54
+214,Mornington Peninsula,Male,20-24,2,621,6911,7532,8.24
+214,Mornington Peninsula,Male,25-34,3,1220,14236,15456,7.89
+214,Mornington Peninsula,Male,35-44,4,1984,14885,16869,11.76
+214,Mornington Peninsula,Male,45-54,5,2627,16144,18771,13.99
+214,Mornington Peninsula,Male,55-64,6,2373,15731,18104,13.11
+214,Mornington Peninsula,Male,65-74,7,2902,13502,16404,17.69
+214,Mornington Peninsula,Male,75-84,8,1719,8118,9837,17.47
+214,Mornington Peninsula,Male,85+,9,301,2844,3145,9.57
+214,Mornington Peninsula,Female,15-19,1,901,6816,7717,11.68
+214,Mornington Peninsula,Female,20-24,2,864,6165,7029,12.29
+214,Mornington Peninsula,Female,25-34,3,1561,14621,16182,9.65
+214,Mornington Peninsula,Female,35-44,4,2908,15651,18559,15.67
+214,Mornington Peninsula,Female,45-54,5,3197,17333,20530,15.57
+214,Mornington Peninsula,Female,55-64,6,2888,17142,20030,14.42
+214,Mornington Peninsula,Female,65-74,7,3704,14912,18616,19.9
+214,Mornington Peninsula,Female,75-84,8,1983,9388,11371,17.44
+214,Mornington Peninsula,Female,85+,9,338,4113,4451,7.59
+215,North West,Male,15-19,1,676,3241,3917,17.26
+215,North West,Male,20-24,2,530,3252,3782,14.01
+215,North West,Male,25-34,3,1153,7377,8530,13.52
+215,North West,Male,35-44,4,1526,6012,7538,20.24
+215,North West,Male,45-54,5,1906,6381,8287,23.0
+215,North West,Male,55-64,6,2293,7869,10162,22.56
+215,North West,Male,65-74,7,2270,6600,8870,25.59
+215,North West,Male,75-84,8,1210,3547,4757,25.44
+215,North West,Male,85+,9,230,1399,1629,14.12
+215,North West,Female,15-19,1,735,2851,3586,20.5
+215,North West,Female,20-24,2,508,2951,3459,14.69
+215,North West,Female,25-34,3,1301,7402,8703,14.95
+215,North West,Female,35-44,4,1924,6002,7926,24.27
+215,North West,Female,45-54,5,2173,6748,8921,24.36
+215,North West,Female,55-64,6,2409,7836,10245,23.51
+215,North West,Female,65-74,7,2443,6281,8724,28.0
+215,North West,Female,75-84,8,1386,3915,5301,26.15
+215,North West,Female,85+,9,219,2357,2576,8.5
+216,Shepparton,Male,15-19,1,538,3301,3839,14.01
+216,Shepparton,Male,20-24,2,329,2949,3278,10.04
+216,Shepparton,Male,25-34,3,798,6205,7003,11.4
+216,Shepparton,Male,35-44,4,1098,5543,6641,16.53
+216,Shepparton,Male,45-54,5,1387,6399,7786,17.81
+216,Shepparton,Male,55-64,6,1438,7047,8485,16.95
+216,Shepparton,Male,65-74,7,1714,6046,7760,22.09
+216,Shepparton,Male,75-84,8,920,3604,4524,20.34
+216,Shepparton,Male,85+,9,154,1227,1381,11.15
+216,Shepparton,Female,15-19,1,563,2857,3420,16.46
+216,Shepparton,Female,20-24,2,423,2761,3184,13.29
+216,Shepparton,Female,25-34,3,911,6538,7449,12.23
+216,Shepparton,Female,35-44,4,1347,5855,7202,18.7
+216,Shepparton,Female,45-54,5,1556,6510,8066,19.29
+216,Shepparton,Female,55-64,6,1596,7258,8854,18.03
+216,Shepparton,Female,65-74,7,1889,6071,7960,23.73
+216,Shepparton,Female,75-84,8,988,3636,4624,21.37
+216,Shepparton,Female,85+,9,168,1855,2023,8.3
+217,Warrnambool and South West,Male,15-19,1,550,2905,3455,15.92
+217,Warrnambool and South West,Male,20-24,2,383,2509,2892,13.24
+217,Warrnambool and South West,Male,25-34,3,935,5521,6456,14.48
+217,Warrnambool and South West,Male,35-44,4,1385,4843,6228,22.24
+217,Warrnambool and South West,Male,45-54,5,1795,5571,7366,24.37
+217,Warrnambool and South West,Male,55-64,6,2032,6482,8514,23.87
+217,Warrnambool and South West,Male,65-74,7,2268,5695,7963,28.48
+217,Warrnambool and South West,Male,75-84,8,1037,2974,4011,25.85
+217,Warrnambool and South West,Male,85+,9,149,1083,1232,12.09
+217,Warrnambool and South West,Female,15-19,1,597,2632,3229,18.49
+217,Warrnambool and South West,Female,20-24,2,403,2261,2664,15.13
+217,Warrnambool and South West,Female,25-34,3,1018,5507,6525,15.6
+217,Warrnambool and South West,Female,35-44,4,1727,5000,6727,25.67
+217,Warrnambool and South West,Female,45-54,5,1969,5940,7909,24.9
+217,Warrnambool and South West,Female,55-64,6,2164,6950,9114,23.74
+217,Warrnambool and South West,Female,65-74,7,2400,5617,8017,29.94
+217,Warrnambool and South West,Female,75-84,8,1081,3363,4444,24.32
+217,Warrnambool and South West,Female,85+,9,184,1868,2052,8.97
+301,Brisbane - East,Male,15-19,1,973,6628,7601,12.8
+301,Brisbane - East,Male,20-24,2,607,5714,6321,9.6
+301,Brisbane - East,Male,25-34,3,924,10726,11650,7.93
+301,Brisbane - East,Male,35-44,4,1724,12683,14407,11.97
+301,Brisbane - East,Male,45-54,5,2249,13305,15554,14.46
+301,Brisbane - East,Male,55-64,6,1893,12605,14498,13.06
+301,Brisbane - East,Male,65-74,7,2085,9846,11931,17.48
+301,Brisbane - East,Male,75-84,8,1016,5225,6241,16.28
+301,Brisbane - East,Male,85+,9,145,1567,1712,8.47
+301,Brisbane - East,Female,15-19,1,1165,5723,6888,16.91
+301,Brisbane - East,Female,20-24,2,840,4756,5596,15.01
+301,Brisbane - East,Female,25-34,3,1356,11110,12466,10.88
+301,Brisbane - East,Female,35-44,4,2846,13098,15944,17.85
+301,Brisbane - East,Female,45-54,5,3094,14054,17148,18.04
+301,Brisbane - East,Female,55-64,6,2551,13289,15840,16.1
+301,Brisbane - East,Female,65-74,7,2591,10576,13167,19.68
+301,Brisbane - East,Female,75-84,8,1183,5859,7042,16.8
+301,Brisbane - East,Female,85+,9,174,2446,2620,6.64
+302,Brisbane - North,Male,15-19,1,921,5105,6026,15.28
+302,Brisbane - North,Male,20-24,2,745,5855,6600,11.29
+302,Brisbane - North,Male,25-34,3,1490,14529,16019,9.3
+302,Brisbane - North,Male,35-44,4,2096,14028,16124,13.0
+302,Brisbane - North,Male,45-54,5,2155,11614,13769,15.65
+302,Brisbane - North,Male,55-64,6,1566,9580,11146,14.05
+302,Brisbane - North,Male,65-74,7,1427,6867,8294,17.21
+302,Brisbane - North,Male,75-84,8,764,3876,4640,16.47
+302,Brisbane - North,Male,85+,9,133,1620,1753,7.59
+302,Brisbane - North,Female,15-19,1,1050,4697,5747,18.27
+302,Brisbane - North,Female,20-24,2,1098,5722,6820,16.1
+302,Brisbane - North,Female,25-34,3,1963,15097,17060,11.51
+302,Brisbane - North,Female,35-44,4,3068,13706,16774,18.29
+302,Brisbane - North,Female,45-54,5,2817,11790,14607,19.29
+302,Brisbane - North,Female,55-64,6,1933,10124,12057,16.03
+302,Brisbane - North,Female,65-74,7,1752,7682,9434,18.57
+302,Brisbane - North,Female,75-84,8,975,5219,6194,15.74
+302,Brisbane - North,Female,85+,9,173,2943,3116,5.55
+303,Brisbane - South,Male,15-19,1,1649,8736,10385,15.88
+303,Brisbane - South,Male,20-24,2,1869,11768,13637,13.71
+303,Brisbane - South,Male,25-34,3,3047,26340,29387,10.37
+303,Brisbane - South,Male,35-44,4,3572,23832,27404,13.03
+303,Brisbane - South,Male,45-54,5,3659,17984,21643,16.91
+303,Brisbane - South,Male,55-64,6,2572,14422,16994,15.13
+303,Brisbane - South,Male,65-74,7,2065,10172,12237,16.88
+303,Brisbane - South,Male,75-84,8,956,5607,6563,14.57
+303,Brisbane - South,Male,85+,9,153,2028,2181,7.02
+303,Brisbane - South,Female,15-19,1,1956,8139,10095,19.38
+303,Brisbane - South,Female,20-24,2,2518,10937,13455,18.71
+303,Brisbane - South,Female,25-34,3,3957,25965,29922,13.22
+303,Brisbane - South,Female,35-44,4,5194,23548,28742,18.07
+303,Brisbane - South,Female,45-54,5,4677,18121,22798,20.51
+303,Brisbane - South,Female,55-64,6,3072,15384,18456,16.64
+303,Brisbane - South,Female,65-74,7,2444,11339,13783,17.73
+303,Brisbane - South,Female,75-84,8,1108,6693,7801,14.2
+303,Brisbane - South,Female,85+,9,178,3588,3766,4.73
+304,Brisbane - West,Male,15-19,1,1314,5877,7191,18.27
+304,Brisbane - West,Male,20-24,2,1184,5773,6957,17.02
+304,Brisbane - West,Male,25-34,3,1265,8761,10026,12.62
+304,Brisbane - West,Male,35-44,4,2070,10304,12374,16.73
+304,Brisbane - West,Male,45-54,5,2675,9803,12478,21.44
+304,Brisbane - West,Male,55-64,6,1756,7502,9258,18.97
+304,Brisbane - West,Male,65-74,7,1695,5658,7353,23.05
+304,Brisbane - West,Male,75-84,8,939,3331,4270,21.99
+304,Brisbane - West,Male,85+,9,140,1187,1327,10.55
+304,Brisbane - West,Female,15-19,1,1613,5202,6815,23.67
+304,Brisbane - West,Female,20-24,2,1535,4868,6403,23.97
+304,Brisbane - West,Female,25-34,3,1651,8758,10409,15.86
+304,Brisbane - West,Female,35-44,4,3367,10434,13801,24.4
+304,Brisbane - West,Female,45-54,5,3412,10150,13562,25.16
+304,Brisbane - West,Female,55-64,6,2179,7891,10070,21.64
+304,Brisbane - West,Female,65-74,7,1982,6502,8484,23.36
+304,Brisbane - West,Female,75-84,8,963,3943,4906,19.63
+304,Brisbane - West,Female,85+,9,136,2149,2285,5.95
+305,Brisbane Inner City,Male,15-19,1,1448,6045,7493,19.32
+305,Brisbane Inner City,Male,20-24,2,1919,11522,13441,14.28
+305,Brisbane Inner City,Male,25-34,3,3487,26840,30327,11.5
+305,Brisbane Inner City,Male,35-44,4,3210,18406,21616,14.85
+305,Brisbane Inner City,Male,45-54,5,3546,14360,17906,19.8
+305,Brisbane Inner City,Male,55-64,6,2471,10704,13175,18.76
+305,Brisbane Inner City,Male,65-74,7,1737,6688,8425,20.62
+305,Brisbane Inner City,Male,75-84,8,754,3161,3915,19.26
+305,Brisbane Inner City,Male,85+,9,88,1061,1149,7.66
+305,Brisbane Inner City,Female,15-19,1,1846,5812,7658,24.11
+305,Brisbane Inner City,Female,20-24,2,2980,12411,15391,19.36
+305,Brisbane Inner City,Female,25-34,3,4529,26250,30779,14.71
+305,Brisbane Inner City,Female,35-44,4,4505,16705,21210,21.24
+305,Brisbane Inner City,Female,45-54,5,4683,13495,18178,25.76
+305,Brisbane Inner City,Female,55-64,6,2836,10403,13239,21.42
+305,Brisbane Inner City,Female,65-74,7,2071,6693,8764,23.63
+305,Brisbane Inner City,Female,75-84,8,775,3598,4373,17.72
+305,Brisbane Inner City,Female,85+,9,114,1834,1948,5.85
+306,Cairns,Male,15-19,1,1019,5915,6934,14.7
+306,Cairns,Male,20-24,2,550,5143,5693,9.66
+306,Cairns,Male,25-34,3,1283,11792,13075,9.81
+306,Cairns,Male,35-44,4,1967,11509,13476,14.6
+306,Cairns,Male,45-54,5,2457,12795,15252,16.11
+306,Cairns,Male,55-64,6,2418,13183,15601,15.5
+306,Cairns,Male,65-74,7,2263,10586,12849,17.61
+306,Cairns,Male,75-84,8,980,5150,6130,15.99
+306,Cairns,Male,85+,9,144,1479,1623,8.87
+306,Cairns,Female,15-19,1,1085,5456,6541,16.59
+306,Cairns,Female,20-24,2,736,4760,5496,13.39
+306,Cairns,Female,25-34,3,2011,12406,14417,13.95
+306,Cairns,Female,35-44,4,3130,12321,15451,20.26
+306,Cairns,Female,45-54,5,3449,13109,16558,20.83
+306,Cairns,Female,55-64,6,3003,12976,15979,18.79
+306,Cairns,Female,65-74,7,2799,9588,12387,22.6
+306,Cairns,Female,75-84,8,1133,4989,6122,18.51
+306,Cairns,Female,85+,9,147,2008,2155,6.82
+307,Darling Downs - Maranoa,Male,15-19,1,604,2860,3464,17.44
+307,Darling Downs - Maranoa,Male,20-24,2,363,2644,3007,12.07
+307,Darling Downs - Maranoa,Male,25-34,3,825,5304,6129,13.46
+307,Darling Downs - Maranoa,Male,35-44,4,1344,4601,5945,22.61
+307,Darling Downs - Maranoa,Male,45-54,5,1590,5599,7189,22.12
+307,Darling Downs - Maranoa,Male,55-64,6,1669,6436,8105,20.59
+307,Darling Downs - Maranoa,Male,65-74,7,1652,5705,7357,22.45
+307,Darling Downs - Maranoa,Male,75-84,8,835,3091,3926,21.27
+307,Darling Downs - Maranoa,Male,85+,9,127,914,1041,12.2
+307,Darling Downs - Maranoa,Female,15-19,1,696,2466,3162,22.01
+307,Darling Downs - Maranoa,Female,20-24,2,393,2399,2792,14.08
+307,Darling Downs - Maranoa,Female,25-34,3,1169,5320,6489,18.02
+307,Darling Downs - Maranoa,Female,35-44,4,2034,4600,6634,30.66
+307,Darling Downs - Maranoa,Female,45-54,5,2046,5595,7641,26.78
+307,Darling Downs - Maranoa,Female,55-64,6,1982,6230,8212,24.14
+307,Darling Downs - Maranoa,Female,65-74,7,1981,4898,6879,28.8
+307,Darling Downs - Maranoa,Female,75-84,8,972,2981,3953,24.59
+307,Darling Downs - Maranoa,Female,85+,9,162,1325,1487,10.89
+308,Central Queensland,Male,15-19,1,1011,5787,6798,14.87
+308,Central Queensland,Male,20-24,2,543,5199,5742,9.46
+308,Central Queensland,Male,25-34,3,1359,11273,12632,10.76
+308,Central Queensland,Male,35-44,4,2221,10631,12852,17.28
+308,Central Queensland,Male,45-54,5,2256,10813,13069,17.26
+308,Central Queensland,Male,55-64,6,2066,11552,13618,15.17
+308,Central Queensland,Male,65-74,7,1958,8082,10040,19.5
+308,Central Queensland,Male,75-84,8,808,3843,4651,17.37
+308,Central Queensland,Male,85+,9,133,1121,1254,10.61
+308,Central Queensland,Female,15-19,1,1167,5094,6261,18.64
+308,Central Queensland,Female,20-24,2,700,5015,5715,12.25
+308,Central Queensland,Female,25-34,3,2024,11515,13539,14.95
+308,Central Queensland,Female,35-44,4,3369,10333,13702,24.59
+308,Central Queensland,Female,45-54,5,2892,10685,13577,21.3
+308,Central Queensland,Female,55-64,6,2573,10949,13522,19.03
+308,Central Queensland,Female,65-74,7,2109,7239,9348,22.56
+308,Central Queensland,Female,75-84,8,994,4070,5064,19.63
+308,Central Queensland,Female,85+,9,120,1685,1805,6.65
+309,Gold Coast,Male,15-19,1,2189,15646,17835,12.27
+309,Gold Coast,Male,20-24,2,1815,16208,18023,10.07
+309,Gold Coast,Male,25-34,3,3190,35356,38546,8.28
+309,Gold Coast,Male,35-44,4,4202,34573,38775,10.84
+309,Gold Coast,Male,45-54,5,4788,34104,38892,12.31
+309,Gold Coast,Male,55-64,6,3843,29996,33839,11.36
+309,Gold Coast,Male,65-74,7,3714,24913,28627,12.97
+309,Gold Coast,Male,75-84,8,1964,14338,16302,12.05
+309,Gold Coast,Male,85+,9,280,4135,4415,6.34
+309,Gold Coast,Female,15-19,1,2616,14670,17286,15.13
+309,Gold Coast,Female,20-24,2,2703,16299,19002,14.22
+309,Gold Coast,Female,25-34,3,4316,37698,42014,10.27
+309,Gold Coast,Female,35-44,4,6443,35944,42387,15.2
+309,Gold Coast,Female,45-54,5,6327,35934,42261,14.97
+309,Gold Coast,Female,55-64,6,5055,32561,37616,13.44
+309,Gold Coast,Female,65-74,7,4968,27033,32001,15.52
+309,Gold Coast,Female,75-84,8,2218,15404,17622,12.59
+309,Gold Coast,Female,85+,9,297,6042,6339,4.69
+310,Ipswich,Male,15-19,1,1275,10019,11294,11.29
+310,Ipswich,Male,20-24,2,970,9958,10928,8.88
+310,Ipswich,Male,25-34,3,1948,21252,23200,8.4
+310,Ipswich,Male,35-44,4,2639,20032,22671,11.64
+310,Ipswich,Male,45-54,5,2429,18266,20695,11.74
+310,Ipswich,Male,55-64,6,2205,16039,18244,12.09
+310,Ipswich,Male,65-74,7,1950,10962,12912,15.1
+310,Ipswich,Male,75-84,8,855,5465,6320,13.53
+310,Ipswich,Male,85+,9,114,1501,1615,7.06
+310,Ipswich,Female,15-19,1,1585,9385,10970,14.45
+310,Ipswich,Female,20-24,2,1294,9519,10813,11.97
+310,Ipswich,Female,25-34,3,2856,22730,25586,11.16
+310,Ipswich,Female,35-44,4,3849,20448,24297,15.84
+310,Ipswich,Female,45-54,5,3243,18827,22070,14.69
+310,Ipswich,Female,55-64,6,2733,16265,18998,14.39
+310,Ipswich,Female,65-74,7,2360,11322,13682,17.25
+310,Ipswich,Female,75-84,8,985,6164,7149,13.78
+310,Ipswich,Female,85+,9,141,2299,2440,5.78
+311,Logan - Beaudesert,Male,15-19,1,1082,10380,11462,9.44
+311,Logan - Beaudesert,Male,20-24,2,908,10053,10961,8.28
+311,Logan - Beaudesert,Male,25-34,3,1734,21103,22837,7.59
+311,Logan - Beaudesert,Male,35-44,4,2334,19551,21885,10.66
+311,Logan - Beaudesert,Male,45-54,5,2094,18122,20216,10.36
+311,Logan - Beaudesert,Male,55-64,6,1782,15578,17360,10.26
+311,Logan - Beaudesert,Male,65-74,7,1644,11890,13534,12.15
+311,Logan - Beaudesert,Male,75-84,8,763,5861,6624,11.52
+311,Logan - Beaudesert,Male,85+,9,77,1443,1520,5.07
+311,Logan - Beaudesert,Female,15-19,1,1372,9283,10655,12.88
+311,Logan - Beaudesert,Female,20-24,2,1219,9427,10646,11.45
+311,Logan - Beaudesert,Female,25-34,3,2579,21577,24156,10.68
+311,Logan - Beaudesert,Female,35-44,4,3459,19712,23171,14.93
+311,Logan - Beaudesert,Female,45-54,5,2841,18528,21369,13.29
+311,Logan - Beaudesert,Female,55-64,6,2444,16208,18652,13.1
+311,Logan - Beaudesert,Female,65-74,7,2196,12583,14779,14.86
+311,Logan - Beaudesert,Female,75-84,8,835,6239,7074,11.8
+311,Logan - Beaudesert,Female,85+,9,90,2243,2333,3.86
+312,Mackay - Isaac - Whitsunday,Male,15-19,1,631,4207,4838,13.04
+312,Mackay - Isaac - Whitsunday,Male,20-24,2,333,4168,4501,7.4
+312,Mackay - Isaac - Whitsunday,Male,25-34,3,877,9380,10257,8.55
+312,Mackay - Isaac - Whitsunday,Male,35-44,4,1493,9012,10505,14.21
+312,Mackay - Isaac - Whitsunday,Male,45-54,5,1536,9184,10720,14.33
+312,Mackay - Isaac - Whitsunday,Male,55-64,6,1369,9290,10659,12.84
+312,Mackay - Isaac - Whitsunday,Male,65-74,7,1193,6375,7568,15.76
+312,Mackay - Isaac - Whitsunday,Male,75-84,8,481,2944,3425,14.04
+312,Mackay - Isaac - Whitsunday,Male,85+,9,70,822,892,7.85
+312,Mackay - Isaac - Whitsunday,Female,15-19,1,710,3814,4524,15.69
+312,Mackay - Isaac - Whitsunday,Female,20-24,2,461,4049,4510,10.22
+312,Mackay - Isaac - Whitsunday,Female,25-34,3,1444,9679,11123,12.98
+312,Mackay - Isaac - Whitsunday,Female,35-44,4,2479,8440,10919,22.7
+312,Mackay - Isaac - Whitsunday,Female,45-54,5,2045,8658,10703,19.11
+312,Mackay - Isaac - Whitsunday,Female,55-64,6,1809,8488,10297,17.57
+312,Mackay - Isaac - Whitsunday,Female,65-74,7,1490,5463,6953,21.43
+312,Mackay - Isaac - Whitsunday,Female,75-84,8,602,2877,3479,17.3
+312,Mackay - Isaac - Whitsunday,Female,85+,9,97,1252,1349,7.19
+313,Moreton Bay - North,Male,15-19,1,705,6900,7605,9.27
+313,Moreton Bay - North,Male,20-24,2,491,6271,6762,7.26
+313,Moreton Bay - North,Male,25-34,3,921,12180,13101,7.03
+313,Moreton Bay - North,Male,35-44,4,1452,12076,13528,10.73
+313,Moreton Bay - North,Male,45-54,5,1566,13657,15223,10.29
+313,Moreton Bay - North,Male,55-64,6,1777,13219,14996,11.85
+313,Moreton Bay - North,Male,65-74,7,2240,12515,14755,15.18
+313,Moreton Bay - North,Male,75-84,8,1144,7156,8300,13.78
+313,Moreton Bay - North,Male,85+,9,163,2030,2193,7.43
+313,Moreton Bay - North,Female,15-19,1,985,6211,7196,13.69
+313,Moreton Bay - North,Female,20-24,2,697,5809,6506,10.71
+313,Moreton Bay - North,Female,25-34,3,1475,12775,14250,10.35
+313,Moreton Bay - North,Female,35-44,4,2480,12791,15271,16.24
+313,Moreton Bay - North,Female,45-54,5,2208,14530,16738,13.19
+313,Moreton Bay - North,Female,55-64,6,2462,14457,16919,14.55
+313,Moreton Bay - North,Female,65-74,7,2993,13620,16613,18.02
+313,Moreton Bay - North,Female,75-84,8,1266,7788,9054,13.98
+313,Moreton Bay - North,Female,85+,9,146,2939,3085,4.73
+314,Moreton Bay - South,Male,15-19,1,880,6271,7151,12.31
+314,Moreton Bay - South,Male,20-24,2,645,5677,6322,10.2
+314,Moreton Bay - South,Male,25-34,3,1078,12186,13264,8.13
+314,Moreton Bay - South,Male,35-44,4,1935,12881,14816,13.06
+314,Moreton Bay - South,Male,45-54,5,2021,12162,14183,14.25
+314,Moreton Bay - South,Male,55-64,6,1530,9071,10601,14.43
+314,Moreton Bay - South,Male,65-74,7,1385,6383,7768,17.83
+314,Moreton Bay - South,Male,75-84,8,608,3152,3760,16.17
+314,Moreton Bay - South,Male,85+,9,64,757,821,7.8
+314,Moreton Bay - South,Female,15-19,1,1134,5752,6886,16.47
+314,Moreton Bay - South,Female,20-24,2,890,5291,6181,14.4
+314,Moreton Bay - South,Female,25-34,3,1615,12888,14503,11.14
+314,Moreton Bay - South,Female,35-44,4,2914,13245,16159,18.03
+314,Moreton Bay - South,Female,45-54,5,2705,12446,15151,17.85
+314,Moreton Bay - South,Female,55-64,6,1807,9720,11527,15.68
+314,Moreton Bay - South,Female,65-74,7,1571,7025,8596,18.28
+314,Moreton Bay - South,Female,75-84,8,661,3556,4217,15.67
+314,Moreton Bay - South,Female,85+,9,75,1312,1387,5.41
+315,Queensland - Outback,Male,15-19,1,262,1859,2121,12.35
+315,Queensland - Outback,Male,20-24,2,249,2013,2262,11.01
+315,Queensland - Outback,Male,25-34,3,685,4302,4987,13.74
+315,Queensland - Outback,Male,35-44,4,839,3334,4173,20.11
+315,Queensland - Outback,Male,45-54,5,864,3413,4277,20.2
+315,Queensland - Outback,Male,55-64,6,874,3514,4388,19.92
+315,Queensland - Outback,Male,65-74,7,536,2313,2849,18.81
+315,Queensland - Outback,Male,75-84,8,205,1040,1245,16.47
+315,Queensland - Outback,Male,85+,9,23,251,274,8.39
+315,Queensland - Outback,Female,15-19,1,283,1640,1923,14.72
+315,Queensland - Outback,Female,20-24,2,297,2026,2323,12.79
+315,Queensland - Outback,Female,25-34,3,1007,4336,5343,18.85
+315,Queensland - Outback,Female,35-44,4,1269,3196,4465,28.42
+315,Queensland - Outback,Female,45-54,5,1051,3189,4240,24.79
+315,Queensland - Outback,Female,55-64,6,1010,3041,4051,24.93
+315,Queensland - Outback,Female,65-74,7,538,1823,2361,22.79
+315,Queensland - Outback,Female,75-84,8,225,878,1103,20.4
+315,Queensland - Outback,Female,85+,9,48,305,353,13.6
+316,Sunshine Coast,Male,15-19,1,1510,9605,11115,13.59
+316,Sunshine Coast,Male,20-24,2,910,7919,8829,10.31
+316,Sunshine Coast,Male,25-34,3,1790,16782,18572,9.64
+316,Sunshine Coast,Male,35-44,4,3038,18184,21222,14.32
+316,Sunshine Coast,Male,45-54,5,3935,20122,24057,16.36
+316,Sunshine Coast,Male,55-64,6,3820,20011,23831,16.03
+316,Sunshine Coast,Male,65-74,7,4657,17980,22637,20.57
+316,Sunshine Coast,Male,75-84,8,2437,10582,13019,18.72
+316,Sunshine Coast,Male,85+,9,318,3507,3825,8.31
+316,Sunshine Coast,Female,15-19,1,1883,8854,10737,17.54
+316,Sunshine Coast,Female,20-24,2,1261,7900,9161,13.76
+316,Sunshine Coast,Female,25-34,3,2537,17957,20494,12.38
+316,Sunshine Coast,Female,35-44,4,4783,19374,24157,19.8
+316,Sunshine Coast,Female,45-54,5,5306,21778,27084,19.59
+316,Sunshine Coast,Female,55-64,6,5317,22471,27788,19.13
+316,Sunshine Coast,Female,65-74,7,5970,19050,25020,23.86
+316,Sunshine Coast,Female,75-84,8,2669,11520,14189,18.81
+316,Sunshine Coast,Female,85+,9,362,4978,5340,6.78
+317,Toowoomba,Male,15-19,1,840,4387,5227,16.07
+317,Toowoomba,Male,20-24,2,514,4222,4736,10.85
+317,Toowoomba,Male,25-34,3,1020,8816,9836,10.37
+317,Toowoomba,Male,35-44,4,1395,7421,8816,15.82
+317,Toowoomba,Male,45-54,5,1477,7152,8629,17.12
+317,Toowoomba,Male,55-64,6,1383,6877,8260,16.74
+317,Toowoomba,Male,65-74,7,1412,5678,7090,19.92
+317,Toowoomba,Male,75-84,8,830,3318,4148,20.01
+317,Toowoomba,Male,85+,9,108,1184,1292,8.36
+317,Toowoomba,Female,15-19,1,1077,4048,5125,21.01
+317,Toowoomba,Female,20-24,2,727,4165,4892,14.86
+317,Toowoomba,Female,25-34,3,1453,9121,10574,13.74
+317,Toowoomba,Female,35-44,4,2037,7667,9704,20.99
+317,Toowoomba,Female,45-54,5,1855,7823,9678,19.17
+317,Toowoomba,Female,55-64,6,1797,7509,9306,19.31
+317,Toowoomba,Female,65-74,7,1833,6322,8155,22.48
+317,Toowoomba,Female,75-84,8,930,4152,5082,18.3
+317,Toowoomba,Female,85+,9,136,2076,2212,6.15
+318,Townsville,Male,15-19,1,975,5966,6941,14.05
+318,Townsville,Male,20-24,2,784,6815,7599,10.32
+318,Townsville,Male,25-34,3,1476,12679,14155,10.43
+318,Townsville,Male,35-44,4,1811,10718,12529,14.45
+318,Townsville,Male,45-54,5,1978,11223,13201,14.98
+318,Townsville,Male,55-64,6,1850,11078,12928,14.31
+318,Townsville,Male,65-74,7,1699,8575,10274,16.54
+318,Townsville,Male,75-84,8,763,4229,4992,15.28
+318,Townsville,Male,85+,9,109,1164,1273,8.56
+318,Townsville,Female,15-19,1,1205,5860,7065,17.06
+318,Townsville,Female,20-24,2,962,6394,7356,13.08
+318,Townsville,Female,25-34,3,1951,12496,14447,13.5
+318,Townsville,Female,35-44,4,2797,11152,13949,20.05
+318,Townsville,Female,45-54,5,2599,11587,14186,18.32
+318,Townsville,Female,55-64,6,2181,11331,13512,16.14
+318,Townsville,Female,65-74,7,2097,8187,10284,20.39
+318,Townsville,Female,75-84,8,925,4530,5455,16.96
+318,Townsville,Female,85+,9,120,1963,2083,5.76
+319,Wide Bay,Male,15-19,1,1006,6993,7999,12.58
+319,Wide Bay,Male,20-24,2,604,5632,6236,9.69
+319,Wide Bay,Male,25-34,3,1176,11410,12586,9.34
+319,Wide Bay,Male,35-44,4,1851,11106,12957,14.29
+319,Wide Bay,Male,45-54,5,2411,14025,16436,14.67
+319,Wide Bay,Male,55-64,6,3157,17519,20676,15.27
+319,Wide Bay,Male,65-74,7,3928,18725,22653,17.34
+319,Wide Bay,Male,75-84,8,1881,10756,12637,14.88
+319,Wide Bay,Male,85+,9,228,2826,3054,7.47
+319,Wide Bay,Female,15-19,1,1192,6234,7426,16.05
+319,Wide Bay,Female,20-24,2,707,5386,6093,11.6
+319,Wide Bay,Female,25-34,3,1770,11778,13548,13.06
+319,Wide Bay,Female,35-44,4,3085,11814,14899,20.71
+319,Wide Bay,Female,45-54,5,3214,15148,18362,17.5
+319,Wide Bay,Female,55-64,6,4351,18637,22988,18.93
+319,Wide Bay,Female,65-74,7,4764,18051,22815,20.88
+319,Wide Bay,Female,75-84,8,1980,10349,12329,16.06
+319,Wide Bay,Female,85+,9,270,3940,4210,6.41
+401,Adelaide - Central and Hills,Male,15-19,1,1751,7141,8892,19.69
+401,Adelaide - Central and Hills,Male,20-24,2,1890,8730,10620,17.8
+401,Adelaide - Central and Hills,Male,25-34,3,2770,16674,19444,14.25
+401,Adelaide - Central and Hills,Male,35-44,4,3463,15217,18680,18.54
+401,Adelaide - Central and Hills,Male,45-54,5,4261,14666,18927,22.51
+401,Adelaide - Central and Hills,Male,55-64,6,3670,14010,17680,20.76
+401,Adelaide - Central and Hills,Male,65-74,7,4023,11045,15068,26.7
+401,Adelaide - Central and Hills,Male,75-84,8,2091,6479,8570,24.4
+401,Adelaide - Central and Hills,Male,85+,9,352,2829,3181,11.07
+401,Adelaide - Central and Hills,Female,15-19,1,1964,6738,8702,22.57
+401,Adelaide - Central and Hills,Female,20-24,2,2305,8090,10395,22.17
+401,Adelaide - Central and Hills,Female,25-34,3,3250,16519,19769,16.44
+401,Adelaide - Central and Hills,Female,35-44,4,4639,15469,20108,23.07
+401,Adelaide - Central and Hills,Female,45-54,5,5011,15032,20043,25.0
+401,Adelaide - Central and Hills,Female,55-64,6,4287,14873,19160,22.37
+401,Adelaide - Central and Hills,Female,65-74,7,4729,12379,17108,27.64
+401,Adelaide - Central and Hills,Female,75-84,8,2397,8125,10522,22.78
+401,Adelaide - Central and Hills,Female,85+,9,371,4960,5331,6.96
+402,Adelaide - North,Male,15-19,1,1422,11713,13135,10.83
+402,Adelaide - North,Male,20-24,2,1682,13459,15141,11.11
+402,Adelaide - North,Male,25-34,3,2857,28983,31840,8.97
+402,Adelaide - North,Male,35-44,4,3404,26403,29807,11.42
+402,Adelaide - North,Male,45-54,5,3167,23054,26221,12.08
+402,Adelaide - North,Male,55-64,6,2869,21288,24157,11.88
+402,Adelaide - North,Male,65-74,7,2864,15387,18251,15.69
+402,Adelaide - North,Male,75-84,8,1504,8455,9959,15.1
+402,Adelaide - North,Male,85+,9,203,2989,3192,6.36
+402,Adelaide - North,Female,15-19,1,1591,10580,12171,13.07
+402,Adelaide - North,Female,20-24,2,1888,11856,13744,13.74
+402,Adelaide - North,Female,25-34,3,3469,28572,32041,10.83
+402,Adelaide - North,Female,35-44,4,4553,25317,29870,15.24
+402,Adelaide - North,Female,45-54,5,3844,22837,26681,14.41
+402,Adelaide - North,Female,55-64,6,3462,22316,25778,13.43
+402,Adelaide - North,Female,65-74,7,3463,16980,20443,16.94
+402,Adelaide - North,Female,75-84,8,1697,10256,11953,14.2
+402,Adelaide - North,Female,85+,9,245,4678,4923,4.98
+403,Adelaide - South,Male,15-19,1,1576,8909,10485,15.03
+403,Adelaide - South,Male,20-24,2,1456,9260,10716,13.59
+403,Adelaide - South,Male,25-34,3,2487,19571,22058,11.27
+403,Adelaide - South,Male,35-44,4,3559,19107,22666,15.7
+403,Adelaide - South,Male,45-54,5,4060,18545,22605,17.96
+403,Adelaide - South,Male,55-64,6,3607,18054,21661,16.65
+403,Adelaide - South,Male,65-74,7,4352,15095,19447,22.38
+403,Adelaide - South,Male,75-84,8,2244,8190,10434,21.51
+403,Adelaide - South,Male,85+,9,319,3270,3589,8.89
+403,Adelaide - South,Female,15-19,1,1922,8102,10024,19.17
+403,Adelaide - South,Female,20-24,2,1990,8666,10656,18.67
+403,Adelaide - South,Female,25-34,3,3129,19747,22876,13.68
+403,Adelaide - South,Female,35-44,4,5077,19446,24523,20.7
+403,Adelaide - South,Female,45-54,5,4780,19051,23831,20.06
+403,Adelaide - South,Female,55-64,6,4338,19863,24201,17.92
+403,Adelaide - South,Female,65-74,7,5067,16983,22050,22.98
+403,Adelaide - South,Female,75-84,8,2338,9772,12110,19.31
+403,Adelaide - South,Female,85+,9,375,5564,5939,6.31
+404,Adelaide - West,Male,15-19,1,731,5210,5941,12.3
+404,Adelaide - West,Male,20-24,2,964,6974,7938,12.14
+404,Adelaide - West,Male,25-34,3,1945,16310,18255,10.65
+404,Adelaide - West,Male,35-44,4,1972,13476,15448,12.77
+404,Adelaide - West,Male,45-54,5,2190,12480,14670,14.93
+404,Adelaide - West,Male,55-64,6,2035,12512,14547,13.99
+404,Adelaide - West,Male,65-74,7,1931,8914,10845,17.81
+404,Adelaide - West,Male,75-84,8,955,5037,5992,15.94
+404,Adelaide - West,Male,85+,9,157,2513,2670,5.88
+404,Adelaide - West,Female,15-19,1,908,4725,5633,16.12
+404,Adelaide - West,Female,20-24,2,1309,6558,7867,16.64
+404,Adelaide - West,Female,25-34,3,2335,15937,18272,12.78
+404,Adelaide - West,Female,35-44,4,2767,13016,15783,17.53
+404,Adelaide - West,Female,45-54,5,2577,12707,15284,16.86
+404,Adelaide - West,Female,55-64,6,2435,12881,15316,15.9
+404,Adelaide - West,Female,65-74,7,2311,10044,12355,18.7
+404,Adelaide - West,Female,75-84,8,1018,6693,7711,13.2
+404,Adelaide - West,Female,85+,9,178,4244,4422,4.03
+405,Barossa - Yorke - Mid North,Male,15-19,1,549,2299,2848,19.28
+405,Barossa - Yorke - Mid North,Male,20-24,2,412,2046,2458,16.76
+405,Barossa - Yorke - Mid North,Male,25-34,3,893,4084,4977,17.94
+405,Barossa - Yorke - Mid North,Male,35-44,4,1336,3911,5247,25.46
+405,Barossa - Yorke - Mid North,Male,45-54,5,1629,4855,6484,25.12
+405,Barossa - Yorke - Mid North,Male,55-64,6,2009,6474,8483,23.68
+405,Barossa - Yorke - Mid North,Male,65-74,7,2474,5668,8142,30.39
+405,Barossa - Yorke - Mid North,Male,75-84,8,1169,3091,4260,27.44
+405,Barossa - Yorke - Mid North,Male,85+,9,173,1014,1187,14.57
+405,Barossa - Yorke - Mid North,Female,15-19,1,545,2057,2602,20.95
+405,Barossa - Yorke - Mid North,Female,20-24,2,402,1818,2220,18.11
+405,Barossa - Yorke - Mid North,Female,25-34,3,959,4057,5016,19.12
+405,Barossa - Yorke - Mid North,Female,35-44,4,1840,3869,5709,32.23
+405,Barossa - Yorke - Mid North,Female,45-54,5,1961,4901,6862,28.58
+405,Barossa - Yorke - Mid North,Female,55-64,6,2286,6210,8496,26.91
+405,Barossa - Yorke - Mid North,Female,65-74,7,2661,5215,7876,33.79
+405,Barossa - Yorke - Mid North,Female,75-84,8,1322,3086,4408,29.99
+405,Barossa - Yorke - Mid North,Female,85+,9,201,1553,1754,11.46
+406,South Australia - Outback,Male,15-19,1,341,1776,2117,16.11
+406,South Australia - Outback,Male,20-24,2,246,1681,1927,12.77
+406,South Australia - Outback,Male,25-34,3,738,3998,4736,15.58
+406,South Australia - Outback,Male,35-44,4,994,3284,4278,23.24
+406,South Australia - Outback,Male,45-54,5,1061,3736,4797,22.12
+406,South Australia - Outback,Male,55-64,6,1166,4308,5474,21.3
+406,South Australia - Outback,Male,65-74,7,1080,3170,4250,25.41
+406,South Australia - Outback,Male,75-84,8,524,1657,2181,24.03
+406,South Australia - Outback,Male,85+,9,72,553,625,11.52
+406,South Australia - Outback,Female,15-19,1,386,1493,1879,20.54
+406,South Australia - Outback,Female,20-24,2,269,1596,1865,14.42
+406,South Australia - Outback,Female,25-34,3,914,3952,4866,18.78
+406,South Australia - Outback,Female,35-44,4,1313,3020,4333,30.3
+406,South Australia - Outback,Female,45-54,5,1221,3645,4866,25.09
+406,South Australia - Outback,Female,55-64,6,1196,3918,5114,23.39
+406,South Australia - Outback,Female,65-74,7,1157,2848,4005,28.89
+406,South Australia - Outback,Female,75-84,8,584,1736,2320,25.17
+406,South Australia - Outback,Female,85+,9,86,826,912,9.43
+407,South Australia - South East,Male,15-19,1,902,3989,4891,18.44
+407,South Australia - South East,Male,20-24,2,593,3587,4180,14.19
+407,South Australia - South East,Male,25-34,3,1319,7464,8783,15.02
+407,South Australia - South East,Male,35-44,4,2018,6896,8914,22.64
+407,South Australia - South East,Male,45-54,5,2478,8524,11002,22.52
+407,South Australia - South East,Male,55-64,6,2939,10158,13097,22.44
+407,South Australia - South East,Male,65-74,7,3788,9901,13689,27.67
+407,South Australia - South East,Male,75-84,8,2022,5460,7482,27.02
+407,South Australia - South East,Male,85+,9,296,1889,2185,13.55
+407,South Australia - South East,Female,15-19,1,939,3513,4452,21.09
+407,South Australia - South East,Female,20-24,2,603,3199,3802,15.86
+407,South Australia - South East,Female,25-34,3,1538,7414,8952,17.18
+407,South Australia - South East,Female,35-44,4,2763,6664,9427,29.31
+407,South Australia - South East,Female,45-54,5,2946,8318,11264,26.15
+407,South Australia - South East,Female,55-64,6,3483,10252,13735,25.36
+407,South Australia - South East,Female,65-74,7,4384,9315,13699,32.0
+407,South Australia - South East,Female,75-84,8,2102,5730,7832,26.84
+407,South Australia - South East,Female,85+,9,283,2857,3140,9.01
+501,Bunbury,Male,15-19,1,926,4295,5221,17.74
+501,Bunbury,Male,20-24,2,446,3407,3853,11.58
+501,Bunbury,Male,25-34,3,989,7709,8698,11.37
+501,Bunbury,Male,35-44,4,1900,8496,10396,18.28
+501,Bunbury,Male,45-54,5,2369,8956,11325,20.92
+501,Bunbury,Male,55-64,6,2289,9301,11590,19.75
+501,Bunbury,Male,65-74,7,2595,8156,10751,24.14
+501,Bunbury,Male,75-84,8,1265,3941,5206,24.3
+501,Bunbury,Male,85+,9,191,1192,1383,13.81
+501,Bunbury,Female,15-19,1,1136,3871,5007,22.69
+501,Bunbury,Female,20-24,2,521,2989,3510,14.84
+501,Bunbury,Female,25-34,3,1429,8131,9560,14.95
+501,Bunbury,Female,35-44,4,3236,8549,11785,27.46
+501,Bunbury,Female,45-54,5,3171,9155,12326,25.73
+501,Bunbury,Female,55-64,6,3021,9640,12661,23.86
+501,Bunbury,Female,65-74,7,3136,7796,10932,28.69
+501,Bunbury,Female,75-84,8,1308,4164,5472,23.9
+501,Bunbury,Female,85+,9,201,1862,2063,9.74
+502,Mandurah,Male,15-19,1,415,2417,2832,14.65
+502,Mandurah,Male,20-24,2,221,2193,2414,9.15
+502,Mandurah,Male,25-34,3,401,4298,4699,8.53
+502,Mandurah,Male,35-44,4,677,4423,5100,13.27
+502,Mandurah,Male,45-54,5,698,5054,5752,12.13
+502,Mandurah,Male,55-64,6,696,5621,6317,11.02
+502,Mandurah,Male,65-74,7,1010,5769,6779,14.9
+502,Mandurah,Male,75-84,8,646,3552,4198,15.39
+502,Mandurah,Male,85+,9,105,1036,1141,9.2
+502,Mandurah,Female,15-19,1,501,2282,2783,18.0
+502,Mandurah,Female,20-24,2,355,2158,2513,14.13
+502,Mandurah,Female,25-34,3,659,4720,5379,12.25
+502,Mandurah,Female,35-44,4,1177,4716,5893,19.97
+502,Mandurah,Female,45-54,5,1119,5347,6466,17.31
+502,Mandurah,Female,55-64,6,1175,6056,7231,16.25
+502,Mandurah,Female,65-74,7,1367,6037,7404,18.46
+502,Mandurah,Female,75-84,8,690,3668,4358,15.83
+502,Mandurah,Female,85+,9,103,1377,1480,6.96
+503,Perth - Inner,Male,15-19,1,1421,3441,4862,29.23
+503,Perth - Inner,Male,20-24,2,1391,4532,5923,23.48
+503,Perth - Inner,Male,25-34,3,2210,12018,14228,15.53
+503,Perth - Inner,Male,35-44,4,2265,10092,12357,18.33
+503,Perth - Inner,Male,45-54,5,2784,8136,10920,25.49
+503,Perth - Inner,Male,55-64,6,2195,7366,9561,22.96
+503,Perth - Inner,Male,65-74,7,1826,5726,7552,24.18
+503,Perth - Inner,Male,75-84,8,933,3160,4093,22.8
+503,Perth - Inner,Male,85+,9,177,1273,1450,12.21
+503,Perth - Inner,Female,15-19,1,1739,3207,4946,35.16
+503,Perth - Inner,Female,20-24,2,1931,4563,6494,29.74
+503,Perth - Inner,Female,25-34,3,2779,11930,14709,18.89
+503,Perth - Inner,Female,35-44,4,3195,9189,12384,25.8
+503,Perth - Inner,Female,45-54,5,3649,7699,11348,32.16
+503,Perth - Inner,Female,55-64,6,2595,7327,9922,26.15
+503,Perth - Inner,Female,65-74,7,2068,5902,7970,25.95
+503,Perth - Inner,Female,75-84,8,1058,3496,4554,23.23
+503,Perth - Inner,Female,85+,9,209,2236,2445,8.55
+504,Perth - North East,Male,15-19,1,1224,6625,7849,15.59
+504,Perth - North East,Male,20-24,2,917,7005,7922,11.58
+504,Perth - North East,Male,25-34,3,1878,16456,18334,10.24
+504,Perth - North East,Male,35-44,4,2380,16274,18654,12.76
+504,Perth - North East,Male,45-54,5,2517,13961,16478,15.27
+504,Perth - North East,Male,55-64,6,1828,12987,14815,12.34
+504,Perth - North East,Male,65-74,7,1618,9202,10820,14.95
+504,Perth - North East,Male,75-84,8,764,4612,5376,14.21
+504,Perth - North East,Male,85+,9,97,1397,1494,6.49
+504,Perth - North East,Female,15-19,1,1479,5731,7210,20.51
+504,Perth - North East,Female,20-24,2,1292,6274,7566,17.08
+504,Perth - North East,Female,25-34,3,2686,17056,19742,13.61
+504,Perth - North East,Female,35-44,4,3681,15591,19272,19.1
+504,Perth - North East,Female,45-54,5,3304,14264,17568,18.81
+504,Perth - North East,Female,55-64,6,2482,13179,15661,15.85
+504,Perth - North East,Female,65-74,7,1956,9686,11642,16.8
+504,Perth - North East,Female,75-84,8,855,5149,6004,14.24
+504,Perth - North East,Female,85+,9,116,2270,2386,4.86
+505,Perth - North West,Male,15-19,1,2615,14461,17076,15.31
+505,Perth - North West,Male,20-24,2,2142,14481,16623,12.89
+505,Perth - North West,Male,25-34,3,3465,32387,35852,9.66
+505,Perth - North West,Male,35-44,4,5235,33367,38602,13.56
+505,Perth - North West,Male,45-54,5,5787,30209,35996,16.08
+505,Perth - North West,Male,55-64,6,3717,26538,30255,12.29
+505,Perth - North West,Male,65-74,7,3479,19834,23313,14.92
+505,Perth - North West,Male,75-84,8,1763,10124,11887,14.83
+505,Perth - North West,Male,85+,9,275,3487,3762,7.31
+505,Perth - North West,Female,15-19,1,3216,12780,15996,20.11
+505,Perth - North West,Female,20-24,2,2985,13221,16206,18.42
+505,Perth - North West,Female,25-34,3,4923,34033,38956,12.64
+505,Perth - North West,Female,35-44,4,7919,33404,41323,19.16
+505,Perth - North West,Female,45-54,5,7362,30682,38044,19.35
+505,Perth - North West,Female,55-64,6,4763,28107,32870,14.49
+505,Perth - North West,Female,65-74,7,4284,21826,26110,16.41
+505,Perth - North West,Female,75-84,8,1905,12227,14132,13.48
+505,Perth - North West,Female,85+,9,309,5722,6031,5.12
+506,Perth - South East,Male,15-19,1,2571,12238,14809,17.36
+506,Perth - South East,Male,20-24,2,2466,14815,17281,14.27
+506,Perth - South East,Male,25-34,3,3951,32905,36856,10.72
+506,Perth - South East,Male,35-44,4,5055,32275,37330,13.54
+506,Perth - South East,Male,45-54,5,4712,26025,30737,15.33
+506,Perth - South East,Male,55-64,6,3344,22630,25974,12.87
+506,Perth - South East,Male,65-74,7,3286,17008,20294,16.19
+506,Perth - South East,Male,75-84,8,1528,8549,10077,15.16
+506,Perth - South East,Male,85+,9,237,2788,3025,7.83
+506,Perth - South East,Female,15-19,1,3123,11019,14142,22.08
+506,Perth - South East,Female,20-24,2,3357,13087,16444,20.41
+506,Perth - South East,Female,25-34,3,5273,32862,38135,13.83
+506,Perth - South East,Female,35-44,4,7250,30820,38070,19.04
+506,Perth - South East,Female,45-54,5,6141,24878,31019,19.8
+506,Perth - South East,Female,55-64,6,4491,22995,27486,16.34
+506,Perth - South East,Female,65-74,7,3988,18179,22167,17.99
+506,Perth - South East,Female,75-84,8,1773,9648,11421,15.52
+506,Perth - South East,Female,85+,9,300,4390,4690,6.4
+507,Perth - South West,Male,15-19,1,2070,10746,12816,16.15
+507,Perth - South West,Male,20-24,2,1638,10925,12563,13.04
+507,Perth - South West,Male,25-34,3,2722,24110,26832,10.14
+507,Perth - South West,Male,35-44,4,3937,24603,28540,13.79
+507,Perth - South West,Male,45-54,5,4321,22549,26870,16.08
+507,Perth - South West,Male,55-64,6,3105,20364,23469,13.23
+507,Perth - South West,Male,65-74,7,2827,14892,17719,15.95
+507,Perth - South West,Male,75-84,8,1398,7942,9340,14.97
+507,Perth - South West,Male,85+,9,215,2753,2968,7.24
+507,Perth - South West,Female,15-19,1,2795,9614,12409,22.52
+507,Perth - South West,Female,20-24,2,2452,10254,12706,19.3
+507,Perth - South West,Female,25-34,3,3994,25195,29189,13.68
+507,Perth - South West,Female,35-44,4,6270,24895,31165,20.12
+507,Perth - South West,Female,45-54,5,5813,22968,28781,20.2
+507,Perth - South West,Female,55-64,6,4050,21350,25400,15.94
+507,Perth - South West,Female,65-74,7,3608,16190,19798,18.22
+507,Perth - South West,Female,75-84,8,1580,8908,10488,15.06
+507,Perth - South West,Female,85+,9,240,4302,4542,5.28
+509,Western Australia - Wheat Belt,Male,15-19,1,704,2731,3435,20.49
+509,Western Australia - Wheat Belt,Male,20-24,2,471,2261,2732,17.24
+509,Western Australia - Wheat Belt,Male,25-34,3,1148,4872,6020,19.07
+509,Western Australia - Wheat Belt,Male,35-44,4,1855,4684,6539,28.37
+509,Western Australia - Wheat Belt,Male,45-54,5,2088,5876,7964,26.22
+509,Western Australia - Wheat Belt,Male,55-64,6,2392,7220,9612,24.89
+509,Western Australia - Wheat Belt,Male,65-74,7,2334,6567,8901,26.22
+509,Western Australia - Wheat Belt,Male,75-84,8,1106,3271,4377,25.27
+509,Western Australia - Wheat Belt,Male,85+,9,190,1032,1222,15.55
+509,Western Australia - Wheat Belt,Female,15-19,1,712,2381,3093,23.02
+509,Western Australia - Wheat Belt,Female,20-24,2,447,1917,2364,18.91
+509,Western Australia - Wheat Belt,Female,25-34,3,1506,4671,6177,24.38
+509,Western Australia - Wheat Belt,Female,35-44,4,2750,4277,7027,39.13
+509,Western Australia - Wheat Belt,Female,45-54,5,2660,5647,8307,32.02
+509,Western Australia - Wheat Belt,Female,55-64,6,2852,6872,9724,29.33
+509,Western Australia - Wheat Belt,Female,65-74,7,2637,5642,8279,31.85
+509,Western Australia - Wheat Belt,Female,75-84,8,1168,3127,4295,27.19
+509,Western Australia - Wheat Belt,Female,85+,9,236,1362,1598,14.77
+510,Western Australia - Outback (North),Male,15-19,1,226,1840,2066,10.94
+510,Western Australia - Outback (North),Male,20-24,2,195,1917,2112,9.23
+510,Western Australia - Outback (North),Male,25-34,3,900,5817,6717,13.4
+510,Western Australia - Outback (North),Male,35-44,4,1225,5585,6810,17.99
+510,Western Australia - Outback (North),Male,45-54,5,973,4444,5417,17.96
+510,Western Australia - Outback (North),Male,55-64,6,618,3463,4081,15.14
+510,Western Australia - Outback (North),Male,65-74,7,252,1313,1565,16.1
+510,Western Australia - Outback (North),Male,75-84,8,61,348,409,14.91
+510,Western Australia - Outback (North),Male,85+,9,4,67,71,5.63
+510,Western Australia - Outback (North),Female,15-19,1,293,1632,1925,15.22
+510,Western Australia - Outback (North),Female,20-24,2,265,1811,2076,12.76
+510,Western Australia - Outback (North),Female,25-34,3,1234,5691,6925,17.82
+510,Western Australia - Outback (North),Female,35-44,4,1618,4536,6154,26.29
+510,Western Australia - Outback (North),Female,45-54,5,1047,3465,4512,23.2
+510,Western Australia - Outback (North),Female,55-64,6,687,2544,3231,21.26
+510,Western Australia - Outback (North),Female,65-74,7,257,1024,1281,20.06
+510,Western Australia - Outback (North),Female,75-84,8,69,289,358,19.27
+510,Western Australia - Outback (North),Female,85+,9,4,75,79,5.06
+511,Western Australia - Outback (South),Male,15-19,1,444,2532,2976,14.92
+511,Western Australia - Outback (South),Male,20-24,2,323,2549,2872,11.25
+511,Western Australia - Outback (South),Male,25-34,3,879,5837,6716,13.09
+511,Western Australia - Outback (South),Male,35-44,4,1270,5318,6588,19.28
+511,Western Australia - Outback (South),Male,45-54,5,1366,5779,7145,19.12
+511,Western Australia - Outback (South),Male,55-64,6,1294,6044,7338,17.63
+511,Western Australia - Outback (South),Male,65-74,7,1083,4212,5295,20.45
+511,Western Australia - Outback (South),Male,75-84,8,470,1956,2426,19.37
+511,Western Australia - Outback (South),Male,85+,9,87,535,622,13.99
+511,Western Australia - Outback (South),Female,15-19,1,463,2235,2698,17.16
+511,Western Australia - Outback (South),Female,20-24,2,364,2367,2731,13.33
+511,Western Australia - Outback (South),Female,25-34,3,1184,5562,6746,17.55
+511,Western Australia - Outback (South),Female,35-44,4,1842,4804,6646,27.72
+511,Western Australia - Outback (South),Female,45-54,5,1711,5226,6937,24.66
+511,Western Australia - Outback (South),Female,55-64,6,1488,5244,6732,22.1
+511,Western Australia - Outback (South),Female,65-74,7,1213,3594,4807,25.23
+511,Western Australia - Outback (South),Female,75-84,8,558,1843,2401,23.24
+511,Western Australia - Outback (South),Female,85+,9,90,751,841,10.7
+601,Hobart,Male,15-19,1,1036,5473,6509,15.92
+601,Hobart,Male,20-24,2,1096,5980,7076,15.49
+601,Hobart,Male,25-34,3,3119,15617,18736,16.65
+601,Hobart,Male,35-44,4,2618,11894,14512,18.04
+601,Hobart,Male,45-54,5,2719,10790,13509,20.13
+601,Hobart,Male,55-64,6,2546,11073,13619,18.69
+601,Hobart,Male,65-74,7,2697,9052,11749,22.96
+601,Hobart,Male,75-84,8,1186,4930,6116,19.39
+601,Hobart,Male,85+,9,158,1760,1918,8.24
+601,Hobart,Female,15-19,1,1329,4777,6106,21.77
+601,Hobart,Female,20-24,2,1401,5591,6992,20.04
+601,Hobart,Female,25-34,3,3713,15140,18853,19.69
+601,Hobart,Female,35-44,4,3508,12032,15540,22.57
+601,Hobart,Female,45-54,5,3408,11452,14860,22.93
+601,Hobart,Female,55-64,6,2995,12101,15096,19.84
+601,Hobart,Female,65-74,7,3214,9954,13168,24.41
+601,Hobart,Female,75-84,8,1379,6099,7478,18.44
+601,Hobart,Female,85+,9,203,2977,3180,6.38
+602,Launceston and North East,Male,15-19,1,529,3406,3935,13.44
+602,Launceston and North East,Male,20-24,2,490,3565,4055,12.08
+602,Launceston and North East,Male,25-34,3,1264,7889,9153,13.81
+602,Launceston and North East,Male,35-44,4,1338,6348,7686,17.41
+602,Launceston and North East,Male,45-54,5,1595,6969,8564,18.62
+602,Launceston and North East,Male,55-64,6,1845,7724,9569,19.28
+602,Launceston and North East,Male,65-74,7,1931,6837,8768,22.02
+602,Launceston and North East,Male,75-84,8,896,3748,4644,19.29
+602,Launceston and North East,Male,85+,9,114,1191,1305,8.74
+602,Launceston and North East,Female,15-19,1,697,3065,3762,18.53
+602,Launceston and North East,Female,20-24,2,604,3251,3855,15.67
+602,Launceston and North East,Female,25-34,3,1410,7624,9034,15.61
+602,Launceston and North East,Female,35-44,4,1908,6490,8398,22.72
+602,Launceston and North East,Female,45-54,5,2010,7466,9476,21.21
+602,Launceston and North East,Female,55-64,6,2176,8146,10322,21.08
+602,Launceston and North East,Female,65-74,7,2249,6861,9110,24.69
+602,Launceston and North East,Female,75-84,8,913,4246,5159,17.7
+602,Launceston and North East,Female,85+,9,118,1870,1988,5.94
+603,South East,Male,15-19,1,131,881,1012,12.94
+603,South East,Male,20-24,2,100,760,860,11.63
+603,South East,Male,25-34,3,232,1576,1808,12.83
+603,South East,Male,35-44,4,370,1732,2102,17.6
+603,South East,Male,45-54,5,458,2115,2573,17.8
+603,South East,Male,55-64,6,696,2664,3360,20.71
+603,South East,Male,65-74,7,764,2412,3176,24.06
+603,South East,Male,75-84,8,308,1115,1423,21.64
+603,South East,Male,85+,9,24,253,277,8.66
+603,South East,Female,15-19,1,152,696,848,17.92
+603,South East,Female,20-24,2,108,635,743,14.54
+603,South East,Female,25-34,3,305,1554,1859,16.41
+603,South East,Female,35-44,4,573,1654,2227,25.73
+603,South East,Female,45-54,5,602,1950,2552,23.59
+603,South East,Female,55-64,6,826,2540,3366,24.54
+603,South East,Female,65-74,7,784,2050,2834,27.66
+603,South East,Female,75-84,8,229,934,1163,19.69
+603,South East,Female,85+,9,34,295,329,10.33
+604,West and North West,Male,15-19,1,420,2570,2990,14.05
+604,West and North West,Male,20-24,2,327,2447,2774,11.79
+604,West and North West,Male,25-34,3,796,5350,6146,12.95
+604,West and North West,Male,35-44,4,961,4574,5535,17.36
+604,West and North West,Male,45-54,5,1172,5524,6696,17.5
+604,West and North West,Male,55-64,6,1331,6456,7787,17.09
+604,West and North West,Male,65-74,7,1541,5465,7006,22.0
+604,West and North West,Male,75-84,8,694,3090,3784,18.34
+604,West and North West,Male,85+,9,77,914,991,7.77
+604,West and North West,Female,15-19,1,478,2392,2870,16.66
+604,West and North West,Female,20-24,2,384,2366,2750,13.96
+604,West and North West,Female,25-34,3,979,5412,6391,15.32
+604,West and North West,Female,35-44,4,1403,4733,6136,22.87
+604,West and North West,Female,45-54,5,1428,5883,7311,19.53
+604,West and North West,Female,55-64,6,1752,6637,8389,20.88
+604,West and North West,Female,65-74,7,1838,5506,7344,25.03
+604,West and North West,Female,75-84,8,717,3358,4075,17.6
+604,West and North West,Female,85+,9,85,1486,1571,5.41
+701,Darwin,Male,15-19,1,524,2983,3507,14.94
+701,Darwin,Male,20-24,2,533,3668,4201,12.69
+701,Darwin,Male,25-34,3,1413,9630,11043,12.8
+701,Darwin,Male,35-44,4,1643,7819,9462,17.36
+701,Darwin,Male,45-54,5,1491,6737,8228,18.12
+701,Darwin,Male,55-64,6,1184,5543,6727,17.6
+701,Darwin,Male,65-74,7,801,3571,4372,18.32
+701,Darwin,Male,75-84,8,243,1400,1643,14.79
+701,Darwin,Male,85+,9,28,287,315,8.89
+701,Darwin,Female,15-19,1,672,2711,3383,19.86
+701,Darwin,Female,20-24,2,547,3185,3732,14.66
+701,Darwin,Female,25-34,3,1981,9974,11955,16.57
+701,Darwin,Female,35-44,4,2209,8070,10279,21.49
+701,Darwin,Female,45-54,5,1919,6349,8268,23.21
+701,Darwin,Female,55-64,6,1326,5227,6553,20.24
+701,Darwin,Female,65-74,7,898,3231,4129,21.75
+701,Darwin,Female,75-84,8,288,1314,1602,17.98
+701,Darwin,Female,85+,9,24,360,384,6.25
+702,Northern Territory - Outback,Male,15-19,1,224,2709,2933,7.64
+702,Northern Territory - Outback,Male,20-24,2,187,2659,2846,6.57
+702,Northern Territory - Outback,Male,25-34,3,672,5989,6661,10.09
+702,Northern Territory - Outback,Male,35-44,4,746,4770,5516,13.52
+702,Northern Territory - Outback,Male,45-54,5,685,3907,4592,14.92
+702,Northern Territory - Outback,Male,55-64,6,624,3226,3850,16.21
+702,Northern Territory - Outback,Male,65-74,7,356,1813,2169,16.41
+702,Northern Territory - Outback,Male,75-84,8,99,557,656,15.09
+702,Northern Territory - Outback,Male,85+,9,4,101,105,3.81
+702,Northern Territory - Outback,Female,15-19,1,218,2439,2657,8.2
+702,Northern Territory - Outback,Female,20-24,2,213,2683,2896,7.35
+702,Northern Territory - Outback,Female,25-34,3,892,6568,7460,11.96
+702,Northern Territory - Outback,Female,35-44,4,926,4947,5873,15.77
+702,Northern Territory - Outback,Female,45-54,5,841,4142,4983,16.88
+702,Northern Territory - Outback,Female,55-64,6,745,3257,4002,18.62
+702,Northern Territory - Outback,Female,65-74,7,388,1648,2036,19.06
+702,Northern Territory - Outback,Female,75-84,8,110,527,637,17.27
+702,Northern Territory - Outback,Female,85+,9,16,158,174,9.2
+801,Australian Capital Territory,Male,15-19,1,2437,10293,12730,19.14
+801,Australian Capital Territory,Male,20-24,2,2637,13299,15936,16.55
+801,Australian Capital Territory,Male,25-34,3,4349,32038,36387,11.95
+801,Australian Capital Territory,Male,35-44,4,5258,27433,32691,16.08
+801,Australian Capital Territory,Male,45-54,5,5456,21211,26667,20.46
+801,Australian Capital Territory,Male,55-64,6,4339,16653,20992,20.67
+801,Australian Capital Territory,Male,65-74,7,4073,11889,15962,25.52
+801,Australian Capital Territory,Male,75-84,8,2010,6271,8281,24.27
+801,Australian Capital Territory,Male,85+,9,310,2289,2599,11.93
+801,Australian Capital Territory,Female,15-19,1,3059,9202,12261,24.95
+801,Australian Capital Territory,Female,20-24,2,3545,12594,16139,21.97
+801,Australian Capital Territory,Female,25-34,3,5506,31665,37171,14.81
+801,Australian Capital Territory,Female,35-44,4,7128,26629,33757,21.12
+801,Australian Capital Territory,Female,45-54,5,6359,21069,27428,23.18
+801,Australian Capital Territory,Female,55-64,6,4899,17869,22768,21.52
+801,Australian Capital Territory,Female,65-74,7,4594,13689,18283,25.13
+801,Australian Capital Territory,Female,75-84,8,2093,7876,9969,21.0
+801,Australian Capital Territory,Female,85+,9,331,3502,3833,8.64
+901,Other Territories,Male,15-19,1,11,61,72,15.28
+901,Other Territories,Male,20-24,2,17,55,72,23.61
+901,Other Territories,Male,25-34,3,36,143,179,20.11
+901,Other Territories,Male,35-44,4,68,157,225,30.22
+901,Other Territories,Male,45-54,5,83,177,260,31.92
+901,Other Territories,Male,55-64,6,89,231,320,27.81
+901,Other Territories,Male,65-74,7,79,200,279,28.32
+901,Other Territories,Male,75-84,8,29,76,105,27.62
+901,Other Territories,Male,85+,9,9,21,30,30.0
+901,Other Territories,Female,15-19,1,21,68,89,23.6
+901,Other Territories,Female,20-24,2,24,62,86,27.91
+901,Other Territories,Female,25-34,3,34,155,189,17.99
+901,Other Territories,Female,35-44,4,84,183,267,31.46
+901,Other Territories,Female,45-54,5,84,191,275,30.55
+901,Other Territories,Female,55-64,6,101,230,331,30.51
+901,Other Territories,Female,65-74,7,71,165,236,30.08
+901,Other Territories,Female,75-84,8,28,81,109,25.69
+901,Other Territories,Female,85+,9,4,18,22,18.18
