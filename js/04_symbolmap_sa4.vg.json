@@ -1,0 +1,167 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 460,
+  "projection": {
+    "type": "mercator"
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/au_sa4_2021.topo.json",
+        "format": {
+          "type": "topojson",
+          "feature": "sa4"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#1B4342",
+        "stroke": "#255150",
+        "strokeWidth": 0.4
+      }
+    },
+    {
+      "data": {
+        "url": "data/au_sa4_2021.topo.json",
+        "format": {
+          "type": "topojson",
+          "feature": "states"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": null,
+        "stroke": "#3A6B65",
+        "strokeWidth": 0.9
+      }
+    },
+    {
+      "data": {
+        "url": "data/sa4_centroids_2021.csv",
+        "format": {
+          "type": "csv",
+          "parse": {
+            "sa4_code": "string"
+          }
+        }
+      },
+      "transform": [
+        {
+          "lookup": "sa4_code",
+          "from": {
+            "data": {
+              "url": "data/volunteer_sa4_2021.csv",
+              "format": {
+                "type": "csv",
+                "parse": {
+                  "sa4_code": "string"
+                }
+              }
+            },
+            "key": "sa4_code",
+            "fields": [
+              "volunteers",
+              "rate_pop15plus",
+              "region_type",
+              "state_abbr"
+            ]
+          }
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "opacity": 0.65,
+        "stroke": "#0c2426",
+        "strokeWidth": 1.1
+      },
+      "encoding": {
+        "longitude": {
+          "field": "lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        },
+        "size": {
+          "field": "volunteers",
+          "type": "quantitative",
+          "title": "Volunteers in the region",
+          "scale": {
+            "type": "sqrt",
+            "range": [
+              6,
+              185
+            ]
+          },
+          "legend": {
+            "orient": "top",
+            "direction": "horizontal",
+            "format": "~s",
+            "titleLimit": 320,
+            "values": [
+              20000,
+              60000,
+              100000
+            ],
+            "symbolFillColor": "#9FC9B4",
+            "symbolStrokeColor": "#9FC9B4",
+            "symbolOpacity": 0.75,
+            "symbolType": "circle"
+          }
+        },
+        "color": {
+          "field": "region_type",
+          "type": "nominal",
+          "title": null,
+          "scale": {
+            "domain": [
+              "Greater capital city",
+              "Rest of state"
+            ],
+            "range": [
+              "#D99A2B",
+              "#A5D8BC"
+            ]
+          },
+          "legend": {
+            "orient": "top",
+            "direction": "horizontal",
+            "symbolType": "circle",
+            "symbolSize": 150
+          }
+        },
+        "tooltip": [
+          {
+            "field": "sa4_name",
+            "type": "nominal",
+            "title": "Region"
+          },
+          {
+            "field": "state_abbr",
+            "type": "nominal",
+            "title": "State"
+          },
+          {
+            "field": "volunteers",
+            "type": "quantitative",
+            "title": "Volunteers",
+            "format": ","
+          },
+          {
+            "field": "rate_pop15plus",
+            "type": "quantitative",
+            "title": "% of people aged 15+",
+            "format": ".1f"
+          }
+        ]
+      }
+    }
+  ],
+  "resolve": {
+    "scale": {
+      "color": "independent"
+    }
+  }
+}

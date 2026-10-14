@@ -1,0 +1,202 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 430,
+  "data": {
+    "url": "data/acnc_purpose_split_2024.csv"
+  },
+  "encoding": {
+    "y": {
+      "field": "sector",
+      "type": "nominal",
+      "title": null,
+      "sort": {
+        "field": "order",
+        "op": "min"
+      },
+      "axis": {
+        "labelFontSize": 14,
+        "labelColor": "#DCEBE0",
+        "labelLimit": 190,
+        "domain": false,
+        "ticks": false,
+        "labelPadding": 10
+      }
+    },
+    "x": {
+      "field": "share_pct",
+      "type": "quantitative",
+      "title": "Share of all 4.42 million reported volunteer roles",
+      "stack": "zero",
+      "scale": {
+        "domain": [
+          0,
+          32
+        ],
+        "nice": false
+      },
+      "axis": {
+        "values": [
+          0,
+          5,
+          10,
+          15,
+          20,
+          25,
+          30
+        ],
+        "labelExpr": "datum.value + '%'",
+        "grid": true,
+        "labelFontSize": 13,
+        "titleFontSize": 13
+      }
+    }
+  },
+  "layer": [
+    {
+      "params": [
+        {
+          "name": "segPick",
+          "select": {
+            "type": "point",
+            "fields": [
+              "segment"
+            ]
+          },
+          "bind": "legend"
+        }
+      ],
+      "mark": {
+        "type": "bar",
+        "height": {
+          "band": 0.66
+        },
+        "cornerRadiusEnd": 2
+      },
+      "encoding": {
+        "color": {
+          "field": "segment",
+          "type": "nominal",
+          "title": null,
+          "scale": {
+            "domain": [
+              "Largest single charity",
+              "All other charities"
+            ],
+            "range": [
+              "#D99A2B",
+              "#A5D8BC"
+            ]
+          },
+          "legend": {
+            "orient": "top",
+            "direction": "horizontal",
+            "symbolType": "square",
+            "symbolSize": 150,
+            "labelFontSize": 14
+          }
+        },
+        "opacity": {
+          "condition": {
+            "param": "segPick",
+            "value": 1
+          },
+          "value": 0.18
+        },
+        "tooltip": [
+          {
+            "field": "sector",
+            "type": "nominal",
+            "title": "Charitable purpose"
+          },
+          {
+            "field": "segment",
+            "type": "nominal",
+            "title": "Part of the bar"
+          },
+          {
+            "field": "charity",
+            "type": "nominal",
+            "title": "Who"
+          },
+          {
+            "field": "volunteers",
+            "type": "quantitative",
+            "title": "Volunteer roles",
+            "format": ","
+          },
+          {
+            "field": "seg_share_of_purpose",
+            "type": "quantitative",
+            "title": "Share of this purpose (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "purpose_share",
+            "type": "quantitative",
+            "title": "Purpose share of all roles (%)",
+            "format": ".1f"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.segment === 'All other charities'"
+        },
+        {
+          "calculate": "format(datum.purpose_share,'.1f') + '%'",
+          "as": "lbl"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 7,
+        "fontSize": 13,
+        "fontWeight": 600,
+        "color": "#DCEBE0"
+      },
+      "encoding": {
+        "x": {
+          "field": "purpose_share",
+          "type": "quantitative",
+          "stack": null
+        },
+        "text": {
+          "field": "lbl",
+          "type": "nominal"
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.segment === 'Largest single charity' && datum.seg_share_of_purpose >= 40"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "dx": -9,
+        "fontSize": 12,
+        "fontWeight": 600,
+        "color": "#2A1B06",
+        "baseline": "middle"
+      },
+      "encoding": {
+        "x": {
+          "field": "share_pct",
+          "type": "quantitative",
+          "stack": null,
+          "bandPosition": 0
+        },
+        "text": {
+          "field": "charity",
+          "type": "nominal"
+        }
+      }
+    }
+  ]
+}

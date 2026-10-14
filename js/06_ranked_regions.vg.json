@@ -1,0 +1,301 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 460,
+  "data": {
+    "url": "data/volunteer_sa4_2021.csv"
+  },
+  "transform": [
+    {
+      "filter": {
+        "field": "sa4_name",
+        "oneOf": [
+          "Sydney - South West",
+          "Sydney - Inner South West",
+          "Sydney - Parramatta",
+          "Sydney - Blacktown",
+          "Melbourne - West",
+          "Melbourne - North West",
+          "Sydney - Outer South West",
+          "Melbourne - South East",
+          "Logan - Beaudesert",
+          "Melbourne - North East",
+          "Brisbane - West",
+          "Bunbury",
+          "Darling Downs - Maranoa",
+          "South Australia - Outback",
+          "Adelaide - Central and Hills",
+          "Warrnambool and South West",
+          "South Australia - South East",
+          "Perth - Inner",
+          "Barossa - Yorke - Mid North",
+          "Western Australia - Wheat Belt"
+        ]
+      }
+    },
+    {
+      "calculate": "indexof([\"Sydney - South West\", \"Sydney - Inner South West\", \"Sydney - Parramatta\", \"Sydney - Blacktown\", \"Melbourne - West\", \"Melbourne - North West\", \"Sydney - Outer South West\", \"Melbourne - South East\", \"Logan - Beaudesert\", \"Melbourne - North East\"], datum.sa4_name) >= 0 ? 'Ten lowest' : 'Ten highest'",
+      "as": "band"
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "rule",
+        "color": "#2F5C58",
+        "strokeWidth": 1.4
+      },
+      "encoding": {
+        "y": {
+          "field": "sa4_name",
+          "type": "nominal",
+          "title": null,
+          "sort": [
+            "Western Australia - Wheat Belt",
+            "Barossa - Yorke - Mid North",
+            "Perth - Inner",
+            "South Australia - South East",
+            "Warrnambool and South West",
+            "Adelaide - Central and Hills",
+            "South Australia - Outback",
+            "Darling Downs - Maranoa",
+            "Bunbury",
+            "Brisbane - West",
+            "Melbourne - North East",
+            "Logan - Beaudesert",
+            "Melbourne - South East",
+            "Sydney - Outer South West",
+            "Melbourne - North West",
+            "Melbourne - West",
+            "Sydney - Blacktown",
+            "Sydney - Parramatta",
+            "Sydney - Inner South West",
+            "Sydney - South West"
+          ],
+          "axis": {
+            "labelFontSize": 12,
+            "labelLimit": 260,
+            "domain": false,
+            "ticks": false
+          }
+        },
+        "x": {
+          "field": "rate_pop15plus",
+          "type": "quantitative",
+          "title": "% of all people aged 15+ who volunteered",
+          "scale": {
+            "domain": [
+              0,
+              26
+            ]
+          },
+          "axis": {
+            "grid": true,
+            "tickCount": 6,
+            "format": ".0f"
+          }
+        },
+        "x2": {
+          "datum": 0
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 140,
+        "opacity": 1,
+        "stroke": "#14383A",
+        "strokeWidth": 1.2
+      },
+      "encoding": {
+        "y": {
+          "field": "sa4_name",
+          "type": "nominal",
+          "title": null,
+          "sort": [
+            "Western Australia - Wheat Belt",
+            "Barossa - Yorke - Mid North",
+            "Perth - Inner",
+            "South Australia - South East",
+            "Warrnambool and South West",
+            "Adelaide - Central and Hills",
+            "South Australia - Outback",
+            "Darling Downs - Maranoa",
+            "Bunbury",
+            "Brisbane - West",
+            "Melbourne - North East",
+            "Logan - Beaudesert",
+            "Melbourne - South East",
+            "Sydney - Outer South West",
+            "Melbourne - North West",
+            "Melbourne - West",
+            "Sydney - Blacktown",
+            "Sydney - Parramatta",
+            "Sydney - Inner South West",
+            "Sydney - South West"
+          ]
+        },
+        "x": {
+          "field": "rate_pop15plus",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "region_type",
+          "type": "nominal",
+          "title": null,
+          "scale": {
+            "domain": [
+              "Greater capital city",
+              "Rest of state"
+            ],
+            "range": [
+              "#D99A2B",
+              "#A5D8BC"
+            ]
+          },
+          "legend": {
+            "orient": "top",
+            "direction": "horizontal"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "sa4_name",
+            "type": "nominal",
+            "title": "Region"
+          },
+          {
+            "field": "state_abbr",
+            "type": "nominal",
+            "title": "State"
+          },
+          {
+            "field": "region_type",
+            "type": "nominal",
+            "title": "Type"
+          },
+          {
+            "field": "band",
+            "type": "nominal",
+            "title": "Group"
+          },
+          {
+            "field": "rate_pop15plus",
+            "type": "quantitative",
+            "title": "% of people aged 15+",
+            "format": ".1f"
+          },
+          {
+            "field": "volunteers",
+            "type": "quantitative",
+            "title": "Volunteers",
+            "format": ","
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 13,
+        "fontSize": 11.5,
+        "fontWeight": 600,
+        "color": "#C2DAC9"
+      },
+      "encoding": {
+        "y": {
+          "field": "sa4_name",
+          "type": "nominal",
+          "sort": [
+            "Western Australia - Wheat Belt",
+            "Barossa - Yorke - Mid North",
+            "Perth - Inner",
+            "South Australia - South East",
+            "Warrnambool and South West",
+            "Adelaide - Central and Hills",
+            "South Australia - Outback",
+            "Darling Downs - Maranoa",
+            "Bunbury",
+            "Brisbane - West",
+            "Melbourne - North East",
+            "Logan - Beaudesert",
+            "Melbourne - South East",
+            "Sydney - Outer South West",
+            "Melbourne - North West",
+            "Melbourne - West",
+            "Sydney - Blacktown",
+            "Sydney - Parramatta",
+            "Sydney - Inner South West",
+            "Sydney - South West"
+          ]
+        },
+        "x": {
+          "field": "rate_pop15plus",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "rate_pop15plus",
+          "type": "quantitative",
+          "format": ".1f"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "r": 14.13
+          }
+        ]
+      },
+      "mark": {
+        "type": "rule",
+        "color": "#E9B55A",
+        "strokeWidth": 1.3,
+        "strokeDash": [
+          4,
+          3
+        ]
+      },
+      "encoding": {
+        "x": {
+          "field": "r",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "r": 14.13,
+            "t": "national 14.1%"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 6,
+        "dy": -6,
+        "baseline": "top",
+        "fontSize": 11.5,
+        "fontWeight": 600,
+        "color": "#E9B55A"
+      },
+      "encoding": {
+        "x": {
+          "field": "r",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "t",
+          "type": "nominal"
+        }
+      }
+    }
+  ]
+}

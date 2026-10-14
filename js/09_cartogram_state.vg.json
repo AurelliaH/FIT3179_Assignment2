@@ -1,0 +1,151 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 400,
+  "data": {
+    "url": "data/volunteer_state_2021.csv"
+  },
+  "transform": [
+    {
+      "calculate": "{'WA':0,'NT':1,'Qld':2,'SA':1,'NSW':2,'ACT':3,'Vic':2,'Tas':2,'OT':0}[datum.state_abbr]",
+      "as": "col"
+    },
+    {
+      "calculate": "{'NT':0,'Qld':0,'WA':1,'SA':1,'NSW':1,'ACT':1,'Vic':2,'Tas':3,'OT':3}[datum.state_abbr]",
+      "as": "row"
+    },
+    {
+      "calculate": "format(datum.rate_pop15plus,'.1f') + '%'",
+      "as": "label"
+    },
+    {
+      "calculate": "datum.state_abbr === 'OT' ? 'Other Territories' : datum.state",
+      "as": "fullname"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "col",
+      "type": "ordinal",
+      "axis": null,
+      "scale": {
+        "paddingInner": 0.035,
+        "paddingOuter": 0.02
+      }
+    },
+    "y": {
+      "field": "row",
+      "type": "ordinal",
+      "axis": null,
+      "scale": {
+        "paddingInner": 0.035,
+        "paddingOuter": 0.02
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rect",
+        "cornerRadius": 0,
+        "stroke": "#14383A",
+        "strokeWidth": 3
+      },
+      "encoding": {
+        "color": {
+          "field": "rate_pop15plus",
+          "type": "quantitative",
+          "title": "% of people aged 15+",
+          "scale": {
+            "domain": [
+              13,
+              22
+            ],
+            "range": [
+              "#3A7A72",
+              "#4E9185",
+              "#66A897",
+              "#82BFAA",
+              "#A2D6BF",
+              "#C6EBD4"
+            ]
+          },
+          "legend": {
+            "orient": "top",
+            "direction": "horizontal",
+            "gradientLength": 230,
+            "format": ".0f",
+            "titleLimit": 320
+          }
+        },
+        "tooltip": [
+          {
+            "field": "fullname",
+            "type": "nominal",
+            "title": "State or territory"
+          },
+          {
+            "field": "rate_pop15plus",
+            "type": "quantitative",
+            "title": "% of people aged 15+",
+            "format": ".1f"
+          },
+          {
+            "field": "volunteers",
+            "type": "quantitative",
+            "title": "Volunteers",
+            "format": ","
+          },
+          {
+            "field": "population_15plus",
+            "type": "quantitative",
+            "title": "People aged 15+",
+            "format": ","
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "dy": -9,
+        "fontSize": 17,
+        "fontWeight": 700
+      },
+      "encoding": {
+        "text": {
+          "field": "state_abbr",
+          "type": "nominal"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.rate_pop15plus >= 17",
+            "value": "#0E2A2B"
+          },
+          "value": "#DCEBE0"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "dy": 12,
+        "fontSize": 13,
+        "fontWeight": 500
+      },
+      "encoding": {
+        "text": {
+          "field": "label",
+          "type": "nominal"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.rate_pop15plus >= 17",
+            "value": "#1E4A49"
+          },
+          "value": "#A9C8BA"
+        }
+      }
+    }
+  ]
+}

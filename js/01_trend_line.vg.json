@@ -1,0 +1,294 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 310,
+  "data": {
+    "url": "data/national_trend_gss.csv"
+  },
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "quantitative",
+      "title": null,
+      "scale": {
+        "domain": [
+          2004,
+          2023
+        ],
+        "nice": false
+      },
+      "axis": {
+        "format": "d",
+        "values": [
+          2006,
+          2010,
+          2014,
+          2019,
+          2020
+        ],
+        "grid": false,
+        "labelFontSize": 12,
+        "tickSize": 5
+      }
+    },
+    "y": {
+      "field": "volunteer_rate",
+      "type": "quantitative",
+      "title": null,
+      "scale": {
+        "domain": [
+          0,
+          42
+        ]
+      },
+      "axis": {
+        "format": ".0f",
+        "values": [
+          10,
+          20,
+          30,
+          40
+        ],
+        "labelExpr": "datum.value + '%'",
+        "domain": false,
+        "ticks": false,
+        "labelFontSize": 11
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "area",
+        "color": "#6FB8AE",
+        "opacity": 0.13,
+        "line": false
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "color": "#6FB8AE",
+        "strokeWidth": 3,
+        "strokeCap": "round",
+        "strokeJoin": "round"
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year !== 2020"
+        }
+      ],
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 70,
+        "opacity": 1,
+        "color": "#6FB8AE",
+        "stroke": "#14383A",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year",
+            "format": "d"
+          },
+          {
+            "field": "volunteer_rate",
+            "type": "quantitative",
+            "title": "Volunteering rate",
+            "format": ".1f"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year === 2020"
+        }
+      ],
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 260,
+        "opacity": 1,
+        "color": "#E9B55A",
+        "stroke": "#14383A",
+        "strokeWidth": 3
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year",
+            "format": "d"
+          },
+          {
+            "field": "volunteer_rate",
+            "type": "quantitative",
+            "title": "Volunteering rate",
+            "format": ".1f"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year === 2010"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "dy": -34,
+        "fontSize": 25,
+        "fontWeight": 700,
+        "color": "#9ED8C4",
+        "font": "Archivo, system-ui, sans-serif"
+      },
+      "encoding": {
+        "text": {
+          "field": "volunteer_rate",
+          "type": "quantitative",
+          "format": ".1f"
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year === 2010"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "dy": -12,
+        "fontSize": 12,
+        "color": "#C2DAC9"
+      },
+      "encoding": {
+        "text": {
+          "value": "peak, 2010"
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year === 2020"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "dy": -30,
+        "fontSize": 25,
+        "fontWeight": 700,
+        "color": "#E9B55A",
+        "font": "Archivo, system-ui, sans-serif",
+        "dx": 26,
+        "align": "left"
+      },
+      "encoding": {
+        "text": {
+          "field": "volunteer_rate",
+          "type": "quantitative",
+          "format": ".1f"
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year === 2020"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "dy": -11,
+        "fontSize": 12,
+        "color": "#E9B55A",
+        "dx": 26,
+        "align": "left"
+      },
+      "encoding": {
+        "text": {
+          "value": "2020"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x1": 2010,
+            "x2": 2020,
+            "y": 36.2
+          }
+        ]
+      },
+      "mark": {
+        "type": "rule",
+        "color": "#8FAEA0",
+        "strokeWidth": 1.1,
+        "strokeDash": [
+          5,
+          4
+        ],
+        "opacity": 0.75
+      },
+      "encoding": {
+        "x": {
+          "field": "x1",
+          "type": "quantitative"
+        },
+        "x2": {
+          "field": "x2"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": 2020,
+            "y": 24.8,
+            "t": "Lowest on record \u2014 11.4 points below the 2010 peak"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "dx": -2,
+        "fontSize": 12.5,
+        "fontWeight": 600,
+        "color": "#E9B55A",
+        "dy": 20
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "t",
+          "type": "nominal"
+        }
+      }
+    }
+  ]
+}

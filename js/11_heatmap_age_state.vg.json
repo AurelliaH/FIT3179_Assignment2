@@ -1,0 +1,123 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 330,
+  "data": {
+    "url": "data/volunteer_age_state_2021.csv"
+  },
+  "encoding": {
+    "x": {
+      "field": "age_group",
+      "type": "nominal",
+      "title": null,
+      "sort": {
+        "field": "age_order"
+      },
+      "axis": {
+        "labelAngle": 0,
+        "labelFontSize": 11,
+        "domain": false,
+        "ticks": false
+      }
+    },
+    "y": {
+      "field": "state_abbr",
+      "type": "nominal",
+      "title": null,
+      "sort": [
+        "ACT",
+        "Tas",
+        "SA",
+        "WA",
+        "NT",
+        "Qld",
+        "Vic",
+        "NSW"
+      ],
+      "axis": {
+        "labelFontSize": 11.5,
+        "labelFontWeight": 500,
+        "domain": false,
+        "ticks": false
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rect",
+        "cornerRadius": 2,
+        "stroke": "#14383A",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "color": {
+          "field": "rate_respondents",
+          "type": "quantitative",
+          "title": "% of people who answered",
+          "scale": {
+            "range": [
+              "#1A796E",
+              "#3E8A7E",
+              "#5A9D8E",
+              "#74AF9F",
+              "#8EC2B1",
+              "#A7D4C3",
+              "#C1E7D7",
+              "#DAFBEB"
+            ]
+          },
+          "legend": {
+            "gradientLength": 140,
+            "format": ".0f",
+            "titleLimit": 320
+          }
+        },
+        "tooltip": [
+          {
+            "field": "state_abbr",
+            "type": "nominal",
+            "title": "State"
+          },
+          {
+            "field": "age_group",
+            "type": "nominal",
+            "title": "Age"
+          },
+          {
+            "field": "rate_respondents",
+            "type": "quantitative",
+            "title": "Volunteering rate (%)",
+            "format": ".1f"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.rate_respondents >= 22 || datum.rate_respondents <= 8"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "fontSize": 10,
+        "fontWeight": 600
+      },
+      "encoding": {
+        "text": {
+          "field": "rate_respondents",
+          "type": "quantitative",
+          "format": ".0f"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.rate_respondents >= 22",
+            "value": "#0E2A2B"
+          },
+          "value": "#DCEBE0"
+        }
+      }
+    }
+  ]
+}
