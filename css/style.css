@@ -1,0 +1,211 @@
+/* ============================================================
+   WHERE PEOPLE STILL SHOW UP — volunteering in Australia
+   FIT3179 Data Visualisation 2 · Aurellia Hendriks · 33812101
+
+   Type scale (the page is dark, so body copy runs slightly larger
+   and looser than it would on white):
+     body / figcaption / chart notes  14.5–16.5px, line-height 1.6+
+     chart titles                     19–23px serif
+     section titles                   28–40px serif
+     labels and eyebrows              11.5px, tracked
+   Nothing that a reader has to read sits below 12.5px.
+   ============================================================ */
+:root{
+  --page:#0c2426; --panel:#14383a; --panel2:#173b3b;
+  --cream:#f3efdf; --muted:#c1cfc4;
+  --sage:#a5d8bc; --teal:#6fb8ae; --ochre:#d99a2b;
+  --line:rgba(198,235,212,.19);
+  --serif:'Fraunces',Georgia,serif; --sans:'Public Sans',Arial,sans-serif;
+  --wrap:1230px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--page);color:var(--cream);font:16.5px/1.62 var(--sans)}
+
+/* ---------- hero ---------- */
+.hero{min-height:470px;position:relative;display:flex;align-items:center;overflow:hidden;
+      background:linear-gradient(90deg,rgba(6,29,31,.97),rgba(6,29,31,.86) 31%,rgba(6,29,31,.36) 72%,rgba(6,29,31,.10)),
+                 url('../img/hero-coast.png') center 53%/cover}
+.hero:after{content:"";height:5px;position:absolute;bottom:0;left:0;right:0;
+            background:linear-gradient(90deg,var(--ochre) 0 84px,transparent 84px)}
+.heroInner{max-width:1400px;width:100%;margin:auto;padding:66px clamp(24px,5vw,76px) 72px;position:relative;z-index:1}
+.eyebrow,.figureNo{margin:0 0 13px;color:var(--sage);font-size:11.5px;letter-spacing:.15em;
+                   font-weight:700;text-transform:uppercase;line-height:1.3}
+.hero h1{font:600 clamp(42px,5.4vw,74px)/1.02 var(--serif);letter-spacing:-.032em;max-width:900px;margin:0;color:#fff8e8}
+.hero h1 em{font-style:normal;color:var(--cream)}
+.heroLead{max-width:590px;margin:24px 0 0;color:#e4ece2;font-size:18px;line-height:1.62}
+.heroRule{display:flex;align-items:center;gap:14px;margin-top:26px;color:#fff4dc;
+          font-size:13px;letter-spacing:.06em;font-weight:600}
+.heroRule span{height:3px;width:46px;background:var(--ochre);flex:none}
+.heroNote{position:absolute;right:5%;bottom:30px;color:#fff5dc;font:italic 19px/1.2 var(--serif);
+          transform:rotate(-7deg);text-shadow:0 2px 12px #071a1b;margin:0}
+
+/* ---------- headline figures ---------- */
+.statStrip{max-width:var(--wrap);margin:auto;padding:28px 28px;display:grid;
+           grid-template-columns:repeat(3,1fr);background:#123638;border-bottom:1px solid var(--line)}
+.statStrip>div{padding:4px 28px;border-right:1px solid var(--line);display:flex;flex-direction:column;gap:6px}
+.statStrip>div:first-child{padding-left:8px}
+.statStrip>div:last-child{border:0}
+.statStrip strong{font:600 40px/1.05 var(--serif);color:var(--sage);letter-spacing:-.02em}
+.statStrip .statWarm strong{color:var(--ochre)}
+.statStrip span{font-size:13.5px;line-height:1.5;color:#c9d7cd;max-width:290px}
+
+/* ---------- sections ---------- */
+.storySection{padding:48px max(22px,calc((100vw - var(--wrap))/2)) 54px;
+              border-top:8px solid rgba(111,184,174,.11)}
+.sectionOne{border-top:0}
+.sectionTwo,.sectionThree{background:#102e30}
+.sectionHead{display:flex;align-items:center;gap:16px;margin-bottom:26px;padding-bottom:14px;
+             border-bottom:1px solid var(--line);position:relative}
+.sectionHead:after{content:"";height:2px;width:26%;position:absolute;right:0;bottom:-1px;
+                   background:linear-gradient(90deg,transparent,var(--teal))}
+.sectionNo{height:40px;width:40px;flex:none;border-radius:50%;display:grid;place-items:center;
+           background:#377a6e;color:#fff6df;font:600 21px/1 var(--serif)}
+h2{font:600 clamp(28px,3vw,40px)/1.14 var(--serif);margin:0;letter-spacing:-.02em}
+/* the section standfirst runs full width under the heading rule, with the
+   charts below it — no narrow side column, so no dead space beside the text */
+.sectionGrid{display:block}
+.sectionIntro{font:17px/1.65 var(--sans);color:#dde7db;max-width:74ch;margin:0 0 30px;padding:0}
+.sectionIntro p{margin:0 0 13px}
+.sectionIntro p:last-child{margin-bottom:0}
+.sideNote{font:14px/1.62 var(--sans);color:#b2cbbe;border-left:2px solid var(--ochre);
+          padding-left:15px;margin:18px 0 0!important;max-width:68ch}
+
+/* ---------- chart cards ---------- */
+.chartGrid{min-width:0;display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:16px}
+.chartCard{grid-column:span 6;min-width:0;margin:0;padding:20px 20px 16px;background:var(--panel);
+           border:1px solid rgba(165,216,188,.18);border-radius:2px;display:flex;flex-direction:column}
+.chartCard.chartWide{grid-column:span 12}
+.twoCharts .chartWide{grid-column:span 6}
+.twoCharts .chartCard:not(.chartWide){grid-column:span 6}
+.chartHead{min-height:104px}
+.figureNo{font-size:11px;margin-bottom:7px;color:#9dd3ba}
+.chartCard h3{font:600 clamp(19px,1.7vw,23px)/1.18 var(--serif);margin:0 0 7px;color:#f7f2e5;letter-spacing:-.012em}
+.chartSub{margin:0;color:#c3d2c8;font-size:13.5px;line-height:1.55}
+.vis{width:100%;min-height:270px;display:flex;align-items:center;justify-content:center;margin-top:16px}
+.chartWide .vis{min-height:290px}
+figcaption{margin-top:auto;padding-top:14px;border-top:1px solid rgba(198,235,212,.15);
+           color:#cbd8ce;font-size:13.5px;line-height:1.62}
+figcaption b{color:#f5ead0;font-weight:600}
+.mapGrid .chartCard:nth-child(-n+2) .vis{min-height:320px}
+.mapGrid .chartCard:nth-child(3) .vis{min-height:300px}
+.mapGrid .chartCard:nth-child(4) .vis,.mapGrid .chartCard:nth-child(5) .vis{min-height:280px}
+.changeGrid .chartWide{grid-column:span 6}
+.changeGrid .chartCard:not(.chartWide){grid-column:span 6}
+.changeGrid .vis{min-height:300px}
+.peopleGrid .chartCard{grid-column:span 6}
+.peopleGrid .chartCard:nth-child(-n+2) .vis{min-height:310px}
+.peopleGrid .chartCard.chartWide{grid-column:span 12}
+.peopleGrid .chartCard.chartWide .vis{min-height:290px}
+
+/* ---------- key finding band ---------- */
+.quoteBand{padding:44px 24px 48px;background:linear-gradient(110deg,#214f4a,#367a6e);
+           border-block:1px solid rgba(198,235,212,.16)}
+.quoteBand>div{max-width:900px;margin:auto;position:relative;padding-left:26px;
+               border-left:3px solid var(--ochre)}
+.quoteBand .statLabel{font:600 12px/1 var(--sans);letter-spacing:.18em;text-transform:uppercase;
+           color:var(--ochre);margin:0 0 14px}
+.quoteBand p{font:600 clamp(24px,3vw,36px)/1.2 var(--serif);margin:0 0 12px;color:#fff5df;letter-spacing:-.015em}
+.quoteBand small{font-size:15px;line-height:1.6;color:#d9e8dc;display:block;max-width:60ch}
+
+/* ---------- method note ---------- */
+.methodBox{display:flex;gap:18px;max-width:1000px;margin:32px 0 0;padding:22px 24px;
+           background:var(--panel2);border-left:3px solid var(--ochre);color:#d3e0d6}
+.methodIcon{height:28px;width:28px;flex:none;border:1px solid var(--sage);border-radius:50%;
+            display:grid;place-items:center;color:var(--sage);font:600 15px/1 var(--serif)}
+.methodBox h3{font:600 20px/1.25 var(--serif);margin:0 0 10px;color:#fff3dd}
+.methodBox p{margin:8px 0;font-size:14.5px;line-height:1.62}
+.methodBox b{color:#f1dfb8;font-weight:600}
+
+/* the story's sign-off, closing section 5 */
+.closing{margin:46px 0 0;padding:30px 0 0;border-top:1px solid var(--line);max-width:860px}
+.closingLead{font:600 clamp(23px,2.4vw,31px)/1.2 var(--serif);color:#fff2d8;
+             margin:0 0 12px;letter-spacing:-.015em}
+.closingText{color:#cfdfd3;margin:0;font:16.5px/1.65 var(--sans)}
+
+/* the closing rule under the last section, so the footer reads as its own block */
+.sectionEnd{border:0;height:1px;background:var(--line);margin:40px 0 0;position:relative}
+.sectionEnd:after{content:"";position:absolute;right:0;top:-1px;height:2px;width:26%;
+                  background:linear-gradient(90deg,transparent,var(--teal))}
+
+/* ---------- footer ---------- */
+.footer{position:relative;overflow:hidden;background:#091d1f;
+        padding:42px max(22px,calc((100vw - var(--wrap))/2)) 24px;border-top:1px solid var(--line)}
+.footerInner{position:relative;z-index:1}
+.footerSign{font:600 30px/1.18 var(--serif);color:#fff2d8;margin:0 0 10px;letter-spacing:-.015em}
+.footerText{color:#c8d7cb;max-width:680px;margin:0 0 30px;font:16px/1.6 var(--sans)}
+.footerCols{display:grid;grid-template-columns:1.5fr 1fr;gap:54px;align-items:start}
+.footer h3{font:600 17px/1.3 var(--serif);margin:0 0 10px;color:#d8eadb}
+.footer p,.footer li{font-size:13.5px;line-height:1.62;color:#b4c5ba}
+.footer ul{padding-left:17px;margin:0}
+.footer li{margin-bottom:6px}
+
+.footer .credits{color:#cfe0d4;margin:26px 0 0;padding-top:16px;font-size:14px;
+                 border-top:1px solid var(--line)}
+.sourceLine{margin:26px 0 0;border-top:1px solid var(--line);padding-top:14px;color:#8ba597;font-size:12.5px}
+.sourceLine code{color:#b8d7c2}
+
+/* ---------- vega-embed ---------- */
+.vega-embed{width:100%;display:flex;justify-content:center}
+.vega-embed summary,.vega-embed details{display:none}
+.vis svg{max-width:100%;height:auto}
+
+/* ---------- tablet ---------- */
+@media(max-width:980px){
+  .sectionIntro{font-size:16.5px;margin-bottom:24px}
+}
+@media(max-width:850px){
+  .hero{min-height:420px}
+  .heroNote{right:4%;bottom:22px;font-size:16px}
+  .twoCharts .chartWide,.changeGrid .chartWide{grid-column:span 12}
+  .twoCharts .chartCard:not(.chartWide),.changeGrid .chartCard:not(.chartWide){grid-column:span 12}
+  .chartCard{padding:16px}
+  .chartHead{min-height:0}
+}
+
+/* ---------- phone ---------- */
+@media(max-width:620px){
+  body{font-size:16px}
+  .hero{min-height:460px;background-position:58% center}
+  .heroInner{padding:48px 20px 74px}
+  .hero h1{font-size:clamp(34px,9.6vw,50px)}
+  .heroLead{font-size:16.5px;max-width:none}
+  .heroRule{font-size:12px}
+  .heroNote{bottom:18px;right:18px;font-size:14px}
+  .statStrip{padding:18px 14px;grid-template-columns:1fr;gap:4px}
+  .statStrip>div{padding:12px 4px;border-right:0;border-bottom:1px solid var(--line)}
+  .statStrip>div:last-child{border-bottom:0}
+  .statStrip strong{font-size:32px}
+  .statStrip span{font-size:13.5px;max-width:none}
+  .storySection{padding:34px 16px 38px;border-top-width:6px}
+  .sectionHead{margin-bottom:18px;gap:12px}
+  .sectionNo{width:34px;height:34px;font-size:18px}
+  h2{font-size:26px}
+  .sectionIntro{font-size:16px;margin-bottom:20px}
+  .chartGrid{gap:12px}
+  .chartCard,.chartCard.chartWide,.twoCharts .chartWide,.twoCharts .chartCard:not(.chartWide),
+  .mapGrid .chartCard,.changeGrid .chartWide,.changeGrid .chartCard:not(.chartWide),
+  .peopleGrid .chartCard,.peopleGrid .chartCard.chartWide{grid-column:span 12}
+  .chartCard{padding:16px 13px 13px}
+  .chartHead{min-height:0;margin-bottom:0}
+  .chartCard h3{font-size:19.5px}
+  .chartSub{font-size:13.5px}
+  .vis,.chartWide .vis,.mapGrid .chartCard .vis,.changeGrid .vis,
+  .peopleGrid .chartCard .vis,.peopleGrid .chartCard.chartWide .vis{min-height:240px}
+  .quoteBand{padding:32px 18px 34px}
+  .quoteBand>div{padding-left:18px}
+  .quoteBand .statLabel{font-size:11px;margin-bottom:11px}
+  .quoteBand p{font-size:24px}
+  .quoteBand small{font-size:14px}
+  .methodBox{margin-top:20px;padding:16px;gap:13px}
+  .methodBox h3{font-size:18px}
+  .methodBox p{font-size:14px}
+  .footer{padding:38px 17px 24px}
+  .footerSign{font-size:25px}
+  .footerText{font-size:15px}
+  .closing{margin-top:30px;padding-top:22px}
+  .closingText{font-size:15.5px}
+  .footerCols{grid-template-columns:1fr;gap:26px}
+        .footer h3{font-size:16px}
+  .footer p,.footer li{font-size:13.5px}
+}
