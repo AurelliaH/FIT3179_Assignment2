@@ -1,0 +1,12 @@
+# Raw ACNC downloads — 52 MB, and the page never loads them.
+# scripts/build_acnc.py turns them into data/acnc_purpose_split_2024.csv.
+data/datadotgov_ais24.csv
+data/datadotgov_main.csv
+
+# Design reference image (2.5 MB) — not part of the deliverable
+reference/
+
+# Working folders and OS clutter
+_superseded/
+.DS_Store
+**/.DS_Store
