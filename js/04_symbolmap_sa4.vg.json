@@ -89,11 +89,16 @@
           "type": "quantitative",
           "title": "Volunteers in the region",
           "scale": {
-            "type": "sqrt",
+            "type": "linear",
+            "domain": [
+              0,
+              83000
+            ],
             "range": [
-              6,
-              185
-            ]
+              0,
+              900
+            ],
+            "nice": false
           },
           "legend": {
             "orient": "top",
@@ -101,14 +106,15 @@
             "format": "~s",
             "titleLimit": 320,
             "values": [
-              20000,
-              60000,
-              100000
+              10000,
+              40000,
+              80000
             ],
             "symbolFillColor": "#9FC9B4",
             "symbolStrokeColor": "#9FC9B4",
             "symbolOpacity": 0.75,
-            "symbolType": "circle"
+            "symbolType": "circle",
+            "clipHeight": 34
           }
         },
         "color": {
