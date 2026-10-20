@@ -47,7 +47,7 @@
       "mark": {
         "type": "rect",
         "cornerRadius": 2,
-        "stroke": "#14383A",
+        "stroke": "#1A4244",
         "strokeWidth": 2
       },
       "encoding": {

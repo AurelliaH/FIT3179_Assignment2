@@ -16,8 +16,8 @@
       },
       "mark": {
         "type": "geoshape",
-        "fill": "#1B4342",
-        "stroke": "#255150",
+        "fill": "#214D4C",
+        "stroke": "#2B5B5A",
         "strokeWidth": 0.4
       }
     },
@@ -71,9 +71,9 @@
       ],
       "mark": {
         "type": "circle",
-        "opacity": 0.65,
-        "stroke": "#0c2426",
-        "strokeWidth": 1.1
+        "fillOpacity": 0.3,
+        "strokeOpacity": 0.95,
+        "strokeWidth": 1.7
       },
       "encoding": {
         "longitude": {
@@ -161,7 +161,27 @@
             "title": "% of people aged 15+",
             "format": ".1f"
           }
-        ]
+        ],
+        "order": {
+          "field": "volunteers",
+          "type": "quantitative",
+          "sort": "descending"
+        },
+        "stroke": {
+          "field": "region_type",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Greater capital city",
+              "Rest of state"
+            ],
+            "range": [
+              "#D99A2B",
+              "#A5D8BC"
+            ]
+          },
+          "legend": null
+        }
       }
     }
   ],

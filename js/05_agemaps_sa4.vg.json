@@ -66,7 +66,7 @@
     },
     "mark": {
       "type": "geoshape",
-      "stroke": "#14383A",
+      "stroke": "#1A4244",
       "strokeWidth": 0.22
     },
     "encoding": {
@@ -100,7 +100,7 @@
           "direction": "horizontal",
           "gradientLength": 260,
           "gradientThickness": 13,
-          "gradientStrokeColor": "#14383A",
+          "gradientStrokeColor": "#1A4244",
           "gradientStrokeWidth": 0,
           "values": [
             6,

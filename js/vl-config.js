@@ -1,5 +1,5 @@
 /* Shared Vega-Lite config — one place for every chart's typography and axis colour.
-   Tuned for the dark page: charts sit on the --panel surface (#14383A), so axis
+   Tuned for the dark page: charts sit on the --panel surface (#1A4244), so axis
    furniture is light-on-dark and grid lines are only just visible. */
 const VL_CONFIG = {
   "background": "transparent",

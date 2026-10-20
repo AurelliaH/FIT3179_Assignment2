@@ -169,34 +169,6 @@
           "type": "nominal"
         }
       }
-    },
-    {
-      "transform": [
-        {
-          "filter": "datum.segment === 'Largest single charity' && datum.seg_share_of_purpose >= 40"
-        }
-      ],
-      "mark": {
-        "type": "text",
-        "align": "right",
-        "dx": -9,
-        "fontSize": 12,
-        "fontWeight": 600,
-        "color": "#2A1B06",
-        "baseline": "middle"
-      },
-      "encoding": {
-        "x": {
-          "field": "share_pct",
-          "type": "quantitative",
-          "stack": null,
-          "bandPosition": 0
-        },
-        "text": {
-          "field": "charity",
-          "type": "nominal"
-        }
-      }
     }
   ]
 }

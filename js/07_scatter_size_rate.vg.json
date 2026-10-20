@@ -15,7 +15,7 @@
       "mark": {
         "type": "circle",
         "size": 150,
-        "stroke": "#14383A",
+        "stroke": "#1A4244",
         "strokeWidth": 1.1
       },
       "encoding": {
