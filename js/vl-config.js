@@ -1,5 +1,5 @@
 /* Shared Vega-Lite config — one place for every chart's typography and axis colour.
-   Tuned for the dark page: charts sit on the --panel surface (#1A4244), so axis
+   Tuned for the dark page: charts sit on the --panel surface (#1E5551), so axis
    furniture is light-on-dark and grid lines are only just visible. */
 const VL_CONFIG = {
   "background": "transparent",
@@ -10,9 +10,9 @@ const VL_CONFIG = {
     "titleFontSize": 14,
     "titleFontWeight": 500,
     "titleColor": "#93B2A4",
-    "gridColor": "#27504E",
-    "domainColor": "#34635E",
-    "tickColor": "#34635E",
+    "gridColor": "#3E6B66",
+    "domainColor": "#4A7873",
+    "tickColor": "#4A7873",
     "labelPadding": 8,
     "titlePadding": 13
   },
