@@ -24,7 +24,7 @@ body{margin:0;background:var(--page);color:var(--cream);font:16.5px/1.62 var(--s
 
 /* ---------- hero ---------- */
 .hero{min-height:470px;position:relative;display:flex;align-items:center;overflow:hidden;
-      background:linear-gradient(90deg,rgba(6,29,31,.97),rgba(6,29,31,.86) 31%,rgba(6,29,31,.36) 72%,rgba(6,29,31,.10)),
+      background:linear-gradient(90deg,rgba(13,64,62,.97),rgba(13,64,62,.86) 31%,rgba(13,64,62,.36) 72%,rgba(13,64,62,.10)),
                  url('../img/hero-coast.png') center 53%/cover}
 .hero:after{content:"";height:5px;position:absolute;bottom:0;left:0;right:0;
             background:linear-gradient(90deg,var(--ochre) 0 84px,transparent 84px)}
