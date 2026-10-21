@@ -25,8 +25,8 @@
       },
       "mark": {
         "type": "geoshape",
-        "fill": "#2A615E",
-        "stroke": "#427A76",
+        "fill": "#486F6B",
+        "stroke": "#719692",
         "strokeWidth": 0.9
       }
     },
@@ -69,7 +69,7 @@
             "shape": "M0,-1 L0.866,-0.5 L0.866,0.5 L0,1 L-0.866,0.5 L-0.866,-0.5 Z",
             "filled": true,
             "size": 3800,
-            "stroke": "#08413E",
+            "stroke": "#18514E",
             "strokeWidth": 1.6,
             "opacity": 0.97
           },
@@ -84,12 +84,12 @@
                   22
                 ],
                 "range": [
-                  "#2D8B80",
-                  "#55A193",
-                  "#78B7A7",
-                  "#99CDBC",
-                  "#B9E4D2",
-                  "#D9FBEA"
+                  "#3E9F93",
+                  "#62B1A2",
+                  "#81C4B2",
+                  "#9FD7C4",
+                  "#BCE9D7",
+                  "#D9FCEB"
                 ]
               },
               "legend": {

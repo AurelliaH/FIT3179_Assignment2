@@ -47,7 +47,7 @@
       "mark": {
         "type": "rect",
         "cornerRadius": 2,
-        "stroke": "#1E5551",
+        "stroke": "#2D6661",
         "strokeWidth": 2
       },
       "encoding": {
@@ -57,14 +57,14 @@
           "title": "% of people who answered",
           "scale": {
             "range": [
-              "#2D8B80",
-              "#4B9B8D",
-              "#64AA9B",
-              "#7DBAAA",
-              "#94CAB9",
-              "#ABDAC8",
-              "#C2EBD9",
-              "#D9FBEA"
+              "#3E9F93",
+              "#58AC9E",
+              "#6FB9A9",
+              "#85C7B5",
+              "#9BD4C1",
+              "#B0E1CE",
+              "#C4EFDC",
+              "#D9FCEB"
             ]
           },
           "legend": {

@@ -16,8 +16,8 @@
       },
       "mark": {
         "type": "geoshape",
-        "fill": "#2A6360",
-        "stroke": "#376F6C",
+        "fill": "#4A726E",
+        "stroke": "#658885",
         "strokeWidth": 0.4
       }
     },
@@ -127,7 +127,7 @@
               "Rest of state"
             ],
             "range": [
-              "#D99A2B",
+              "#F9AD26",
               "#A5D8BC"
             ]
           },
@@ -176,7 +176,7 @@
               "Rest of state"
             ],
             "range": [
-              "#D99A2B",
+              "#F9AD26",
               "#A5D8BC"
             ]
           },

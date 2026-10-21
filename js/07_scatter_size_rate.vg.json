@@ -15,7 +15,7 @@
       "mark": {
         "type": "circle",
         "size": 150,
-        "stroke": "#1E5551",
+        "stroke": "#2D6661",
         "strokeWidth": 1.1
       },
       "encoding": {
@@ -72,7 +72,7 @@
               "Rest of state"
             ],
             "range": [
-              "#D99A2B",
+              "#F9AD26",
               "#A5D8BC"
             ]
           },
