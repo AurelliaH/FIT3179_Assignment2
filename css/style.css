@@ -11,9 +11,9 @@
    Nothing that a reader has to read sits below 12.5px.
    ============================================================ */
 :root{
-  --page:#08413e; --panel:#1e5551; --panel2:#255853;
+  --page:#18514e; --panel:#2d6661; --panel2:#336964;
   --cream:#f3efdf; --muted:#c1cfc4;
-  --sage:#a5d8bc; --teal:#6fb8ae; --ochre:#d99a2b;
+  --sage:#a5d8bc; --teal:#6fb8ae; --ochre:#f9ad26;
   --line:rgba(198,235,212,.19);
   --serif:'Fraunces',Georgia,serif; --sans:'Public Sans',Arial,sans-serif;
   --wrap:1230px;
@@ -54,7 +54,7 @@ body{margin:0;background:var(--page);color:var(--cream);font:16.5px/1.62 var(--s
 .storySection{padding:48px max(22px,calc((100vw - var(--wrap))/2)) 54px;
               border-top:8px solid rgba(111,184,174,.11)}
 .sectionOne{border-top:0}
-.sectionTwo,.sectionThree{background:#144b48}
+.sectionTwo,.sectionThree{background:#255b58}
 .sectionHead{display:flex;align-items:center;gap:16px;margin-bottom:26px;padding-bottom:14px;
              border-bottom:1px solid var(--line);position:relative}
 .sectionHead:after{content:"";height:2px;width:26%;position:absolute;right:0;bottom:-1px;
@@ -129,7 +129,7 @@ figcaption b{color:#f5ead0;font-weight:600}
                   background:linear-gradient(90deg,transparent,var(--teal))}
 
 /* ---------- footer ---------- */
-.footer{position:relative;overflow:hidden;background:#043a38;
+.footer{position:relative;overflow:hidden;background:#144947;
         padding:42px max(22px,calc((100vw - var(--wrap))/2)) 24px;border-top:1px solid var(--line)}
 .footerInner{position:relative;z-index:1}
 .footerSign{font:600 30px/1.18 var(--serif);color:#fff2d8;margin:0 0 10px;letter-spacing:-.015em}
