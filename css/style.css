@@ -11,9 +11,9 @@
    Nothing that a reader has to read sits below 12.5px.
    ============================================================ */
 :root{
-  --page:#18514e; --panel:#2d6661; --panel2:#336964;
+  --page:#08413e; --panel:#1e5551; --panel2:#255853;
   --cream:#f3efdf; --muted:#c1cfc4;
-  --sage:#a5d8bc; --teal:#6fb8ae; --ochre:#f9ad26;
+  --sage:#a5d8bc; --teal:#6fb8ae; --ochre:#d99a2b;
   --line:rgba(198,235,212,.19);
   --serif:'Fraunces',Georgia,serif; --sans:'Public Sans',Arial,sans-serif;
   --wrap:1230px;
@@ -24,7 +24,7 @@ body{margin:0;background:var(--page);color:var(--cream);font:16.5px/1.62 var(--s
 
 /* ---------- hero ---------- */
 .hero{min-height:470px;position:relative;display:flex;align-items:center;overflow:hidden;
-      background:linear-gradient(90deg,rgba(13,64,62,.97),rgba(13,64,62,.86) 31%,rgba(13,64,62,.36) 72%,rgba(13,64,62,.10)),
+      background:linear-gradient(90deg,rgba(10,52,50,.97),rgba(10,52,50,.86) 31%,rgba(10,52,50,.36) 72%,rgba(10,52,50,.10)),
                  url('../img/hero-coast.png') center 53%/cover}
 .hero:after{content:"";height:5px;position:absolute;bottom:0;left:0;right:0;
             background:linear-gradient(90deg,var(--ochre) 0 84px,transparent 84px)}
@@ -32,13 +32,12 @@ body{margin:0;background:var(--page);color:var(--cream);font:16.5px/1.62 var(--s
 .eyebrow,.figureNo{margin:0 0 13px;color:var(--sage);font-size:11.5px;letter-spacing:.15em;
                    font-weight:700;text-transform:uppercase;line-height:1.3}
 .hero h1{font:600 clamp(38px,4.5vw,60px)/1.06 var(--serif);letter-spacing:-.032em;max-width:900px;margin:0;color:#fff8e8}
-.hero h1 em{font-style:normal;color:var(--cream)}
+.hero h1 em{display:block;margin-top:9px;font-style:normal;font-weight:500;
+            font-size:.58em;line-height:1.14;letter-spacing:-.018em;color:#dfe9dc}
 .heroLead{max-width:590px;margin:24px 0 0;color:#e4ece2;font-size:18px;line-height:1.62}
 .heroRule{display:flex;align-items:center;gap:14px;margin-top:26px;color:#fff4dc;
           font-size:13px;letter-spacing:.06em;font-weight:600}
 .heroRule span{height:3px;width:46px;background:var(--ochre);flex:none}
-.heroNote{position:absolute;right:5%;bottom:30px;color:#fff5dc;font:italic 19px/1.2 var(--serif);
-          transform:rotate(-7deg);text-shadow:0 2px 12px #071a1b;margin:0}
 
 /* ---------- headline figures ---------- */
 .statStrip{max-width:var(--wrap);margin:auto;padding:28px 28px;display:grid;
@@ -54,7 +53,7 @@ body{margin:0;background:var(--page);color:var(--cream);font:16.5px/1.62 var(--s
 .storySection{padding:48px max(22px,calc((100vw - var(--wrap))/2)) 54px;
               border-top:8px solid rgba(111,184,174,.11)}
 .sectionOne{border-top:0}
-.sectionTwo,.sectionThree{background:#255b58}
+.sectionTwo,.sectionThree{background:#144b48}
 .sectionHead{display:flex;align-items:center;gap:16px;margin-bottom:26px;padding-bottom:14px;
              border-bottom:1px solid var(--line);position:relative}
 .sectionHead:after{content:"";height:2px;width:26%;position:absolute;right:0;bottom:-1px;
@@ -84,9 +83,17 @@ h2{font:600 clamp(28px,3vw,40px)/1.14 var(--serif);margin:0;letter-spacing:-.02e
 .chartSub{margin:0;color:#c3d2c8;font-size:13.5px;line-height:1.55}
 .vis{width:100%;min-height:270px;display:flex;align-items:center;justify-content:center;margin-top:16px}
 .chartWide .vis{min-height:290px}
-figcaption{margin-top:auto;padding-top:14px;border-top:1px solid rgba(198,235,212,.15);
-           color:#cbd8ce;font-size:13.5px;line-height:1.62}
+figcaption{margin-top:auto;padding-top:17px;border-top:1px solid rgba(198,235,212,.15);
+           display:flex;gap:13px;align-items:flex-start;
+           color:#b8cbbe;font-size:13px;line-height:1.66}
 figcaption b{color:#f5ead0;font-weight:600}
+.tkMark{flex:none;width:26px;height:26px;margin-top:2px;border-radius:50%;
+        background:rgba(165,216,188,.09);border:1px solid rgba(165,216,188,.26);
+        display:grid;place-items:center}
+.tkMark:before{content:"";width:7px;height:7px;background:var(--ochre);transform:rotate(45deg)}
+.tkBody{min-width:0}
+.tkLead{display:block;margin:0 0 6px;color:#f2ecda;font-size:14.5px;line-height:1.5;
+        font-weight:600;letter-spacing:-.004em}
 .mapGrid .chartCard:nth-child(-n+2) .vis{min-height:320px}
 .mapGrid .chartCard:nth-child(3) .vis{min-height:300px}
 .mapGrid .chartCard:nth-child(4) .vis,.mapGrid .chartCard:nth-child(5) .vis{min-height:280px}
@@ -129,7 +136,7 @@ figcaption b{color:#f5ead0;font-weight:600}
                   background:linear-gradient(90deg,transparent,var(--teal))}
 
 /* ---------- footer ---------- */
-.footer{position:relative;overflow:hidden;background:#144947;
+.footer{position:relative;overflow:hidden;background:#043a38;
         padding:42px max(22px,calc((100vw - var(--wrap))/2)) 24px;border-top:1px solid var(--line)}
 .footerInner{position:relative;z-index:1}
 .footerSign{font:600 30px/1.18 var(--serif);color:#fff2d8;margin:0 0 10px;letter-spacing:-.015em}
@@ -156,7 +163,6 @@ figcaption b{color:#f5ead0;font-weight:600}
 }
 @media(max-width:850px){
   .hero{min-height:420px}
-  .heroNote{right:4%;bottom:22px;font-size:16px}
   .twoCharts .chartWide,.changeGrid .chartWide{grid-column:span 12}
   .twoCharts .chartCard:not(.chartWide),.changeGrid .chartCard:not(.chartWide){grid-column:span 12}
   .chartCard{padding:16px}
@@ -171,7 +177,6 @@ figcaption b{color:#f5ead0;font-weight:600}
   .hero h1{font-size:clamp(31px,8.4vw,44px)}
   .heroLead{font-size:16.5px;max-width:none}
   .heroRule{font-size:12px}
-  .heroNote{bottom:18px;right:18px;font-size:14px}
   .statStrip{padding:18px 14px;grid-template-columns:1fr;gap:4px}
   .statStrip>div{padding:12px 4px;border-right:0;border-bottom:1px solid var(--line)}
   .statStrip>div:last-child{border-bottom:0}
@@ -209,3 +214,11 @@ figcaption b{color:#f5ead0;font-weight:600}
         .footer h3{font-size:16px}
   .footer p,.footer li{font-size:13.5px}
 }
+
+/* ---------- Vega interactive controls (the ridgeline's region menu) ---------- */
+.vis .vega-bindings{margin-top:12px;font:13.5px/1.4 var(--sans);color:#c3d2c8}
+.vis .vega-bind{display:inline-flex;align-items:center;gap:9px}
+.vis .vega-bind label{display:inline-flex;align-items:center;gap:9px;letter-spacing:.01em}
+.vis .vega-bind select{background:#245c57;color:#eef5ec;font:13.5px var(--sans);
+  border:1px solid rgba(165,216,188,.38);border-radius:2px;padding:5px 10px;cursor:pointer}
+.vis .vega-bind select:focus{outline:2px solid var(--sage);outline-offset:1px}
