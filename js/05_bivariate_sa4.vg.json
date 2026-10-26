@@ -1,0 +1,327 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "hconcat": [
+    {
+      "width": 800,
+      "height": 560,
+      "projection": {
+        "type": "mercator"
+      },
+      "layer": [
+        {
+          "data": {
+            "url": "data/au_sa4_2021.topo.json",
+            "format": {
+              "type": "topojson",
+              "feature": "states"
+            }
+          },
+          "mark": {
+            "type": "geoshape",
+            "fill": "#245854",
+            "stroke": "#2E5C58",
+            "strokeWidth": 0.6
+          }
+        },
+        {
+          "data": {
+            "url": "data/au_sa4_2021.topo.json",
+            "format": {
+              "type": "topojson",
+              "feature": "sa4"
+            }
+          },
+          "transform": [
+            {
+              "lookup": "properties.sa4_code",
+              "from": {
+                "data": {
+                  "url": "data/bivariate_sa4_2021.csv",
+                  "format": {
+                    "type": "csv",
+                    "parse": {
+                      "sa4_code": "string"
+                    }
+                  }
+                },
+                "key": "sa4_code",
+                "fields": [
+                  "sa4_name",
+                  "state_abbr",
+                  "rate_pop15plus",
+                  "volunteers",
+                  "bicls",
+                  "readout"
+                ]
+              }
+            }
+          ],
+          "mark": {
+            "type": "geoshape",
+            "stroke": "#1E5551",
+            "strokeWidth": 0.35
+          },
+          "encoding": {
+            "color": {
+              "field": "bicls",
+              "type": "nominal",
+              "scale": {
+                "domain": [
+                  "r1_v1",
+                  "r1_v2",
+                  "r1_v3",
+                  "r2_v1",
+                  "r2_v2",
+                  "r2_v3",
+                  "r3_v1",
+                  "r3_v2",
+                  "r3_v3"
+                ],
+                "range": [
+                  "#009382",
+                  "#70894C",
+                  "#AB7100",
+                  "#49BEAB",
+                  "#98B374",
+                  "#D79A3F",
+                  "#79EAD7",
+                  "#C2DE9E",
+                  "#FFC66D"
+                ]
+              },
+              "legend": null
+            },
+            "tooltip": [
+              {
+                "field": "sa4_name",
+                "type": "nominal",
+                "title": "Region"
+              },
+              {
+                "field": "state_abbr",
+                "type": "nominal",
+                "title": "State"
+              },
+              {
+                "field": "rate_pop15plus",
+                "type": "quantitative",
+                "title": "% of people aged 15+",
+                "format": ".1f"
+              },
+              {
+                "field": "volunteers",
+                "type": "quantitative",
+                "title": "Volunteers",
+                "format": ","
+              },
+              {
+                "field": "readout",
+                "type": "nominal",
+                "title": "Reads as"
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "values": [
+              {
+                "lon": 141.0,
+                "lat": -40.9,
+                "lon2": 144.55,
+                "lat2": -37.88
+              }
+            ]
+          },
+          "mark": {
+            "type": "rule",
+            "stroke": "#F3EFDF",
+            "strokeWidth": 1.2,
+            "opacity": 0.75
+          },
+          "encoding": {
+            "longitude": {
+              "field": "lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "lat",
+              "type": "quantitative"
+            },
+            "longitude2": {
+              "field": "lon2"
+            },
+            "latitude2": {
+              "field": "lat2"
+            }
+          }
+        },
+        {
+          "data": {
+            "values": [
+              {
+                "lon": 140.4,
+                "lat": -41.4,
+                "t": "Melbourne – West"
+              }
+            ]
+          },
+          "mark": {
+            "type": "text",
+            "align": "right",
+            "baseline": "top",
+            "lineBreak": "|",
+            "dx": -6,
+            "fontSize": 11.5,
+            "lineHeight": 15.5,
+            "fontWeight": 700,
+            "color": "#F3EFDF"
+          },
+          "encoding": {
+            "longitude": {
+              "field": "lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "lat",
+              "type": "quantitative"
+            },
+            "text": {
+              "field": "t",
+              "type": "nominal"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "width": 128,
+      "height": 128,
+      "data": {
+        "values": [
+          {
+            "rc": 1,
+            "vc": 1,
+            "bicls": "r1_v1"
+          },
+          {
+            "rc": 1,
+            "vc": 2,
+            "bicls": "r1_v2"
+          },
+          {
+            "rc": 1,
+            "vc": 3,
+            "bicls": "r1_v3"
+          },
+          {
+            "rc": 2,
+            "vc": 1,
+            "bicls": "r2_v1"
+          },
+          {
+            "rc": 2,
+            "vc": 2,
+            "bicls": "r2_v2"
+          },
+          {
+            "rc": 2,
+            "vc": 3,
+            "bicls": "r2_v3"
+          },
+          {
+            "rc": 3,
+            "vc": 1,
+            "bicls": "r3_v1"
+          },
+          {
+            "rc": 3,
+            "vc": 2,
+            "bicls": "r3_v2"
+          },
+          {
+            "rc": 3,
+            "vc": 3,
+            "bicls": "r3_v3"
+          }
+        ]
+      },
+      "mark": {
+        "type": "rect",
+        "stroke": "#1E5551",
+        "strokeWidth": 1.6
+      },
+      "encoding": {
+        "x": {
+          "field": "vc",
+          "type": "ordinal",
+          "title": "More volunteers →",
+          "axis": {
+            "labels": false,
+            "ticks": false,
+            "domain": false,
+            "titleFontSize": 11.5,
+            "titlePadding": 8,
+            "titleColor": "#C3D2C8",
+            "titleFontWeight": 600
+          }
+        },
+        "y": {
+          "field": "rc",
+          "type": "ordinal",
+          "sort": "descending",
+          "title": "Higher rate →",
+          "axis": {
+            "labels": false,
+            "ticks": false,
+            "domain": false,
+            "titleFontSize": 11.5,
+            "titlePadding": 8,
+            "titleColor": "#C3D2C8",
+            "titleFontWeight": 600
+          }
+        },
+        "color": {
+          "field": "bicls",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "r1_v1",
+              "r1_v2",
+              "r1_v3",
+              "r2_v1",
+              "r2_v2",
+              "r2_v3",
+              "r3_v1",
+              "r3_v2",
+              "r3_v3"
+            ],
+            "range": [
+              "#009382",
+              "#70894C",
+              "#AB7100",
+              "#49BEAB",
+              "#98B374",
+              "#D79A3F",
+              "#79EAD7",
+              "#C2DE9E",
+              "#FFC66D"
+            ]
+          },
+          "legend": null
+        }
+      }
+    }
+  ],
+  "spacing": 36,
+  "resolve": {
+    "scale": {
+      "color": "shared"
+    }
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}

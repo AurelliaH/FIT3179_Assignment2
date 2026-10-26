@@ -6,16 +6,17 @@ const CHARTS = [
   { id: "vis-trend",      spec: "js/01_trend_line.vg.json" },
   { id: "vis-waffle",     spec: "js/02_waffle.vg.json" },
   { id: "vis-choropleth", spec: "js/03_choropleth_sa4.vg.json" },
-  { id: "vis-symbolmap",  spec: "js/04_symbolmap_sa4.vg.json" },
-  { id: "vis-agemaps",    spec: "js/05_agemaps_sa4.vg.json" },
-  { id: "vis-ranked",     spec: "js/06_ranked_regions.vg.json" },
-  { id: "vis-scatter",    spec: "js/07_scatter_size_rate.vg.json" },
-  { id: "vis-dumbbell",   spec: "js/08_dumbbell_state.vg.json" },
-  { id: "vis-cartogram",  spec: "js/09_cartogram_state.vg.json" },
-  { id: "vis-pyramid",    spec: "js/10_pyramid.vg.json" },
-  { id: "vis-heatmap",    spec: "js/11_heatmap_age_state.vg.json" },
-  { id: "vis-beeswarm",   spec: "js/12_beeswarm_ageband.vg.json" },
-  { id: "vis-purposebars",spec: "js/13_purpose_bars.vg.json" }
+  { id: "vis-dotmap",     spec: "js/04_dotdensity_sa4.vg.json" },
+  { id: "vis-bivariate",  spec: "js/05_bivariate_sa4.vg.json" },
+  { id: "vis-agemaps",    spec: "js/06_agemaps_sa4.vg.json" },
+  { id: "vis-ranked",     spec: "js/07_ranked_regions.vg.json" },
+  { id: "vis-scatter",    spec: "js/08_scatter_size_rate.vg.json" },
+  { id: "vis-dumbbell",   spec: "js/09_dumbbell_state.vg.json" },
+  { id: "vis-cartogram",  spec: "js/10_cartogram_state.vg.json" },
+  { id: "vis-pyramid",    spec: "js/11_pyramid.vg.json" },
+  { id: "vis-heatmap",    spec: "js/12_heatmap_age_state.vg.json" },
+  { id: "vis-ridgeline",  spec: "js/13_ridgeline_ageband.vg.json" },
+  { id: "vis-purposebars",spec: "js/14_purpose_bars.vg.json" }
 ];
 
 const EMBED_OPTIONS = { actions: false, renderer: "svg", config: VL_CONFIG };

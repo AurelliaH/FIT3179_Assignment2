@@ -1,0 +1,175 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 440,
+  "projection": {
+    "type": "mercator",
+    "center": [
+      134,
+      -27.5
+    ],
+    "scale": 560,
+    "translate": [
+      272,
+      182
+    ]
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/au_sa4_2021.topo.json",
+        "format": {
+          "type": "topojson",
+          "feature": "states"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#2A615E",
+        "stroke": "#427A76",
+        "strokeWidth": 0.9
+      }
+    },
+    {
+      "data": {
+        "url": "data/volunteer_state_2021.csv"
+      },
+      "transform": [
+        {
+          "calculate": "{\"WA\": 120.5, \"NT\": 133.0, \"SA\": 135.0, \"Qld\": 145.0, \"NSW\": 146.5, \"Vic\": 143.5, \"Tas\": 147.0, \"ACT\": 152.6, \"OT\": 116.0}[datum.state_abbr]",
+          "as": "lon"
+        },
+        {
+          "calculate": "{\"WA\": -26.0, \"NT\": -19.5, \"SA\": -30.5, \"Qld\": -22.0, \"NSW\": -32.5, \"Vic\": -37.5, \"Tas\": -42.0, \"ACT\": -35.3, \"OT\": -41.5}[datum.state_abbr]",
+          "as": "lat"
+        },
+        {
+          "calculate": "format(datum.rate_pop15plus,'.1f') + '%'",
+          "as": "label"
+        },
+        {
+          "calculate": "datum.state_abbr === 'OT' ? 'Other Territories' : datum.state",
+          "as": "fullname"
+        }
+      ],
+      "encoding": {
+        "longitude": {
+          "field": "lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        }
+      },
+      "layer": [
+        {
+          "mark": {
+            "type": "point",
+            "shape": "M0,-1 L0.866,-0.5 L0.866,0.5 L0,1 L-0.866,0.5 L-0.866,-0.5 Z",
+            "filled": true,
+            "size": 3800,
+            "stroke": "#08413E",
+            "strokeWidth": 1.6,
+            "opacity": 0.97
+          },
+          "encoding": {
+            "color": {
+              "field": "rate_pop15plus",
+              "type": "quantitative",
+              "title": "% of people aged 15+",
+              "scale": {
+                "domain": [
+                  13,
+                  22
+                ],
+                "range": [
+                  "#2D8B80",
+                  "#55A193",
+                  "#78B7A7",
+                  "#99CDBC",
+                  "#B9E4D2",
+                  "#D9FBEA"
+                ]
+              },
+              "legend": {
+                "orient": "top",
+                "direction": "horizontal",
+                "gradientLength": 230,
+                "format": ".0f",
+                "titleLimit": 320
+              }
+            },
+            "tooltip": [
+              {
+                "field": "fullname",
+                "type": "nominal",
+                "title": "State or territory"
+              },
+              {
+                "field": "rate_pop15plus",
+                "type": "quantitative",
+                "title": "% of people aged 15+",
+                "format": ".1f"
+              },
+              {
+                "field": "volunteers",
+                "type": "quantitative",
+                "title": "Volunteers",
+                "format": ","
+              },
+              {
+                "field": "population_15plus",
+                "type": "quantitative",
+                "title": "People aged 15+",
+                "format": ","
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "dy": -7,
+            "fontSize": 13.5,
+            "fontWeight": 700
+          },
+          "encoding": {
+            "text": {
+              "field": "state_abbr",
+              "type": "nominal"
+            },
+            "color": {
+              "condition": {
+                "test": "datum.rate_pop15plus >= 17",
+                "value": "#0E2A2B"
+              },
+              "value": "#E6F2E8"
+            }
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "dy": 8,
+            "fontSize": 11.5,
+            "fontWeight": 500
+          },
+          "encoding": {
+            "text": {
+              "field": "label",
+              "type": "nominal"
+            },
+            "color": {
+              "condition": {
+                "test": "datum.rate_pop15plus >= 17",
+                "value": "#1B4440"
+              },
+              "value": "#C6DACB"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

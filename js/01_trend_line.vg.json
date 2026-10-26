@@ -86,7 +86,7 @@
         "size": 70,
         "opacity": 1,
         "color": "#6FB8AE",
-        "stroke": "#2D6661",
+        "stroke": "#1E5551",
         "strokeWidth": 2
       },
       "encoding": {
@@ -118,7 +118,7 @@
         "size": 260,
         "opacity": 1,
         "color": "#E9B55A",
-        "stroke": "#2D6661",
+        "stroke": "#1E5551",
         "strokeWidth": 3
       },
       "encoding": {
@@ -253,40 +253,6 @@
         "y": {
           "field": "y",
           "type": "quantitative"
-        }
-      }
-    },
-    {
-      "data": {
-        "values": [
-          {
-            "x": 2020,
-            "y": 24.8,
-            "t": "Lowest on record \u2014 11.4 points below the 2010 peak"
-          }
-        ]
-      },
-      "mark": {
-        "type": "text",
-        "align": "right",
-        "dx": -2,
-        "fontSize": 12.5,
-        "fontWeight": 600,
-        "color": "#E9B55A",
-        "dy": 20
-      },
-      "encoding": {
-        "x": {
-          "field": "x",
-          "type": "quantitative"
-        },
-        "y": {
-          "field": "y",
-          "type": "quantitative"
-        },
-        "text": {
-          "field": "t",
-          "type": "nominal"
         }
       }
     }

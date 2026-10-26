@@ -1,0 +1,148 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 350,
+  "data": {
+    "url": "data/volunteer_age_sex_national_2021.csv"
+  },
+  "transform": [
+    {
+      "calculate": "datum.sex === 'Male' ? -datum.rate_respondents : datum.rate_respondents",
+      "as": "signed_rate"
+    },
+    {
+      "calculate": "datum.age_group === '65-74' ? 'Peak — late sixties' : (datum.age_group === '25-34' ? 'Lowest — mid-career' : '')",
+      "as": "note"
+    }
+  ],
+  "encoding": {
+    "y": {
+      "field": "age_group",
+      "type": "nominal",
+      "title": null,
+      "sort": [
+        "85+",
+        "75-84",
+        "65-74",
+        "55-64",
+        "45-54",
+        "35-44",
+        "25-34",
+        "20-24",
+        "15-19"
+      ],
+      "axis": {
+        "labelFontSize": 11.5,
+        "domain": false,
+        "ticks": false,
+        "labelPadding": 8
+      }
+    },
+    "x": {
+      "field": "signed_rate",
+      "type": "quantitative",
+      "title": "% of people who answered the question, by age",
+      "scale": {
+        "domain": [
+          -24,
+          42
+        ]
+      },
+      "axis": {
+        "labelExpr": "abs(datum.value) + '%'",
+        "values": [
+          -20,
+          -10,
+          0,
+          10,
+          20
+        ],
+        "grid": true
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "height": 18,
+        "cornerRadius": 2
+      },
+      "encoding": {
+        "color": {
+          "field": "sex",
+          "type": "nominal",
+          "title": null,
+          "scale": {
+            "domain": [
+              "Male",
+              "Female"
+            ],
+            "range": [
+              "#6FB8AE",
+              "#D99A2B"
+            ]
+          },
+          "legend": {
+            "labelLimit": 160
+          }
+        },
+        "tooltip": [
+          {
+            "field": "sex",
+            "type": "nominal",
+            "title": "Sex"
+          },
+          {
+            "field": "age_group",
+            "type": "nominal",
+            "title": "Age"
+          },
+          {
+            "field": "rate_respondents",
+            "type": "quantitative",
+            "title": "Volunteering rate (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "volunteers",
+            "type": "quantitative",
+            "title": "Volunteers",
+            "format": ","
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.sex === 'Female' && datum.note !== ''"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 8,
+        "fontSize": 11.5,
+        "fontWeight": 600
+      },
+      "encoding": {
+        "text": {
+          "field": "note",
+          "type": "nominal"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.age_group === '25-34'",
+            "value": "#E9B55A"
+          },
+          "value": "#9ED8C4"
+        },
+        "x": {
+          "field": "signed_rate",
+          "type": "quantitative"
+        }
+      }
+    }
+  ]
+}

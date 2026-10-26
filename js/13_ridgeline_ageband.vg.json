@@ -1,0 +1,204 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "data/volunteer_sa4_ageband_2021.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "band_order": "number"
+      }
+    }
+  },
+  "params": [
+    {
+      "name": "regionSel",
+      "value": "All regions",
+      "bind": {
+        "input": "select",
+        "options": [
+          "All regions",
+          "Greater capital city",
+          "Rest of state"
+        ],
+        "name": "Show  "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.region_type !== 'Other Territories'"
+    },
+    {
+      "filter": "regionSel === 'All regions' || datum.region_type === regionSel"
+    }
+  ],
+  "spacing": 0,
+  "bounds": "flush",
+  "facet": {
+    "row": {
+      "field": "age_band",
+      "type": "nominal",
+      "sort": {
+        "field": "band_order"
+      },
+      "title": null,
+      "header": {
+        "labelAngle": 0,
+        "labelAlign": "left",
+        "labelOrient": "left",
+        "labelFontSize": 15,
+        "labelFontWeight": 600,
+        "labelColor": "#DCEBE0",
+        "labelPadding": 10
+      }
+    }
+  },
+  "spec": {
+    "height": 78,
+    "view": {
+      "stroke": null
+    },
+    "layer": [
+      {
+        "mark": {
+          "type": "area",
+          "interpolate": "monotone",
+          "fillOpacity": 0.92,
+          "stroke": "#123F3D",
+          "strokeWidth": 0.9
+        },
+        "encoding": {
+          "x": {
+            "field": "value",
+            "type": "quantitative",
+            "title": "% of people who answered the question and volunteered",
+            "scale": {
+              "domain": [
+                2,
+                38
+              ],
+              "nice": false
+            },
+            "axis": {
+              "labelExpr": "datum.value + '%'",
+              "values": [
+                5,
+                10,
+                15,
+                20,
+                25,
+                30,
+                35
+              ],
+              "labelFontSize": 13,
+              "titleFontSize": 13,
+              "grid": true
+            }
+          },
+          "y": {
+            "field": "density",
+            "type": "quantitative",
+            "scale": {
+              "range": [
+                78,
+                -30
+              ]
+            },
+            "axis": null
+          },
+          "fill": {
+            "field": "age_band",
+            "type": "nominal",
+            "legend": null,
+            "scale": {
+              "domain": [
+                "15–24",
+                "25–44",
+                "45–64",
+                "65+"
+              ],
+              "range": [
+                "#2F7F76",
+                "#5FA99C",
+                "#92CCB4",
+                "#C9EFD8"
+              ]
+            }
+          }
+        },
+        "transform": [
+          {
+            "density": "rate_respondents",
+            "groupby": [
+              "age_band"
+            ],
+            "extent": [
+              2,
+              38
+            ],
+            "steps": 180,
+            "bandwidth": 1.3,
+            "counts": false
+          }
+        ]
+      },
+      {
+        "transform": [
+          {
+            "aggregate": [
+              {
+                "op": "median",
+                "field": "rate_respondents",
+                "as": "med"
+              },
+              {
+                "op": "count",
+                "as": "n"
+              }
+            ],
+            "groupby": [
+              "age_band"
+            ]
+          }
+        ],
+        "mark": {
+          "type": "rule",
+          "color": "#F3EFDF",
+          "strokeWidth": 1.6,
+          "opacity": 0.85
+        },
+        "encoding": {
+          "x": {
+            "field": "med",
+            "type": "quantitative"
+          },
+          "tooltip": [
+            {
+              "field": "age_band",
+              "type": "nominal",
+              "title": "Age band"
+            },
+            {
+              "field": "med",
+              "type": "quantitative",
+              "title": "Middle region (%)",
+              "format": ".1f"
+            },
+            {
+              "field": "n",
+              "type": "quantitative",
+              "title": "Regions shown"
+            }
+          ]
+        }
+      }
+    ],
+    "width": "container"
+  },
+  "padding": {
+    "top": 38,
+    "left": 5,
+    "right": 5,
+    "bottom": 5
+  }
+}

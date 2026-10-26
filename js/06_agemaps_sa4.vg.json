@@ -1,0 +1,141 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "data/volunteer_sa4_ageband_2021.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "sa4_code": "string"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": "datum.region_type !== 'Other Territories'"
+    },
+    {
+      "lookup": "sa4_code",
+      "from": {
+        "data": {
+          "url": "data/au_sa4_2021.topo.json",
+          "format": {
+            "type": "topojson",
+            "feature": "sa4"
+          }
+        },
+        "key": "properties.sa4_code",
+        "fields": [
+          "type",
+          "geometry",
+          "properties"
+        ]
+      }
+    }
+  ],
+  "columns": 4,
+  "spacing": 14,
+  "facet": {
+    "field": "age_band",
+    "type": "nominal",
+    "title": null,
+    "sort": {
+      "field": "band_order"
+    },
+    "header": {
+      "labelFontSize": 15,
+      "labelFontWeight": 600,
+      "labelColor": "#DCEBE0",
+      "labelAnchor": "start",
+      "labelPadding": 4
+    }
+  },
+  "spec": {
+    "width": 285,
+    "height": 250,
+    "projection": {
+      "type": "mercator",
+      "scale": 350,
+      "center": [
+        133.5,
+        -27.4
+      ],
+      "translate": [
+        142,
+        124
+      ]
+    },
+    "mark": {
+      "type": "geoshape",
+      "stroke": "#1E5551",
+      "strokeWidth": 0.22
+    },
+    "encoding": {
+      "shape": {
+        "field": "geometry",
+        "type": "geojson"
+      },
+      "color": {
+        "field": "rate_respondents",
+        "type": "quantitative",
+        "title": "% of people who answered",
+        "scale": {
+          "type": "quantize",
+          "nice": false,
+          "domain": [
+            6,
+            30
+          ],
+          "range": [
+            "#2D8B80",
+            "#55A193",
+            "#78B7A7",
+            "#99CDBC",
+            "#B9E4D2",
+            "#D9FBEA"
+          ]
+        },
+        "legend": {
+          "type": "gradient",
+          "orient": "top",
+          "direction": "horizontal",
+          "gradientLength": 260,
+          "gradientThickness": 13,
+          "gradientStrokeColor": "#1E5551",
+          "gradientStrokeWidth": 0,
+          "values": [
+            6,
+            10,
+            14,
+            18,
+            22,
+            26,
+            30
+          ],
+          "format": ".0f",
+          "labelFontSize": 12.5,
+          "labelOverlap": false,
+          "titleLimit": 320,
+          "labelOffset": 4
+        }
+      },
+      "tooltip": [
+        {
+          "field": "sa4_name",
+          "type": "nominal",
+          "title": "Region"
+        },
+        {
+          "field": "age_band",
+          "type": "nominal",
+          "title": "Age"
+        },
+        {
+          "field": "rate_respondents",
+          "type": "quantitative",
+          "title": "% who answered",
+          "format": ".1f"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 470,
+  "projection": {
+    "type": "mercator"
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/au_sa4_2021.topo.json",
+        "format": {
+          "type": "topojson",
+          "feature": "states"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#235753",
+        "stroke": "#35706A",
+        "strokeWidth": 0.8
+      }
+    },
+    {
+      "data": {
+        "url": "data/dotdensity_sa4_2021.csv",
+        "format": {
+          "type": "csv",
+          "parse": {
+            "lon": "number",
+            "lat": "number",
+            "volunteers": "number",
+            "rate_pop15plus": "number"
+          }
+        }
+      },
+      "params": [
+        {
+          "name": "placePick",
+          "select": {
+            "type": "point",
+            "fields": [
+              "region_type"
+            ]
+          },
+          "bind": "legend"
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "size": 13,
+        "stroke": null
+      },
+      "encoding": {
+        "longitude": {
+          "field": "lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "region_type",
+          "type": "nominal",
+          "title": "One dot = 4,000 volunteers",
+          "scale": {
+            "domain": [
+              "Greater capital city",
+              "Rest of state"
+            ],
+            "range": [
+              "#E9A93A",
+              "#A5D8BC"
+            ]
+          },
+          "legend": {
+            "orient": "top",
+            "direction": "horizontal",
+            "symbolType": "circle",
+            "symbolSize": 110,
+            "labelFontSize": 13,
+            "titleFontSize": 12.5,
+            "titleColor": "#C3D2C8",
+            "titleLimit": 320,
+            "titleFontWeight": 600
+          }
+        },
+        "opacity": {
+          "condition": {
+            "param": "placePick",
+            "value": 0.82
+          },
+          "value": 0.05
+        },
+        "tooltip": [
+          {
+            "field": "sa4_name",
+            "type": "nominal",
+            "title": "Region"
+          },
+          {
+            "field": "state_abbr",
+            "type": "nominal",
+            "title": "State"
+          },
+          {
+            "field": "region_type",
+            "type": "nominal",
+            "title": "Type"
+          },
+          {
+            "field": "volunteers",
+            "type": "quantitative",
+            "title": "Volunteers in this region",
+            "format": ","
+          },
+          {
+            "field": "rate_pop15plus",
+            "type": "quantitative",
+            "title": "% of people aged 15+",
+            "format": ".1f"
+          }
+        ]
+      }
+    }
+  ]
+}

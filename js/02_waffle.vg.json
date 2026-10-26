@@ -48,52 +48,112 @@
     }
   },
   "spec": {
-    "width": 265,
-    "height": 265,
-    "mark": {
-      "type": "square",
-      "size": 460,
-      "cornerRadius": 2.5,
-      "opacity": 1
-    },
-    "encoding": {
-      "x": {
-        "field": "col",
-        "type": "ordinal",
-        "axis": null
-      },
-      "y": {
-        "field": "row",
-        "type": "ordinal",
-        "axis": null
-      },
-      "color": {
-        "field": "status",
-        "type": "nominal",
-        "title": null,
-        "scale": {
-          "domain": [
-            "Volunteered",
-            "Did not volunteer"
-          ],
-          "range": [
-            "#6FB8AE",
-            "#305C59"
+    "layer": [
+      {
+        "mark": {
+          "type": "square",
+          "size": 460,
+          "cornerRadius": 2.5,
+          "opacity": 1
+        },
+        "encoding": {
+          "x": {
+            "field": "col",
+            "type": "ordinal",
+            "axis": null,
+            "scale": {
+              "domain": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            }
+          },
+          "y": {
+            "field": "row",
+            "type": "ordinal",
+            "axis": null,
+            "scale": {
+              "domain": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            }
+          },
+          "color": {
+            "field": "status",
+            "type": "nominal",
+            "title": null,
+            "scale": {
+              "domain": [
+                "Volunteered",
+                "Did not volunteer"
+              ],
+              "range": [
+                "#C6EBD4",
+                "#4F817B"
+              ]
+            }
+          },
+          "tooltip": [
+            {
+              "field": "census",
+              "type": "nominal",
+              "title": "Census"
+            },
+            {
+              "field": "status",
+              "type": "nominal",
+              "title": "Status"
+            }
           ]
         }
       },
-      "tooltip": [
-        {
-          "field": "census",
-          "type": "nominal",
-          "title": "Census"
+      {
+        "transform": [
+          {
+            "filter": "indexof(datum.census,'2021') === 0 && datum.row === 1 && datum.col >= 4 && datum.col <= 8"
+          }
+        ],
+        "mark": {
+          "type": "square",
+          "size": 460,
+          "cornerRadius": 2.5,
+          "fill": null,
+          "stroke": "#F3EFDF",
+          "strokeWidth": 1.6,
+          "opacity": 0.95
         },
-        {
-          "field": "status",
-          "type": "nominal",
-          "title": "Status"
+        "encoding": {
+          "x": {
+            "field": "col",
+            "type": "ordinal",
+            "axis": null
+          },
+          "y": {
+            "field": "row",
+            "type": "ordinal",
+            "axis": null
+          }
         }
-      ]
-    }
+      }
+    ],
+    "width": 265,
+    "height": 265
   }
 }
