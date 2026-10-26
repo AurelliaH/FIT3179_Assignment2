@@ -1,0 +1,737 @@
+lon,lat,sa4_code,sa4_name,state_abbr,region_type,volunteers,rate_pop15plus
+149.2741,-34.9582,101,Capital Region,NSW,Rest of state,35980,18.21
+148.5893,-36.835,101,Capital Region,NSW,Rest of state,35980,18.21
+149.865,-34.7809,101,Capital Region,NSW,Rest of state,35980,18.21
+149.4314,-34.5263,101,Capital Region,NSW,Rest of state,35980,18.21
+149.904,-36.568,101,Capital Region,NSW,Rest of state,35980,18.21
+149.2665,-35.7416,101,Capital Region,NSW,Rest of state,35980,18.21
+150.0629,-35.6019,101,Capital Region,NSW,Rest of state,35980,18.21
+149.07,-33.9284,101,Capital Region,NSW,Rest of state,35980,18.21
+149.6148,-34.9353,101,Capital Region,NSW,Rest of state,35980,18.21
+151.271,-33.3637,102,Central Coast,NSW,Greater capital city,34473,12.13
+151.4891,-33.2551,102,Central Coast,NSW,Greater capital city,34473,12.13
+151.2149,-33.4186,102,Central Coast,NSW,Greater capital city,34473,12.13
+151.1486,-33.3766,102,Central Coast,NSW,Greater capital city,34473,12.13
+151.1948,-33.323,102,Central Coast,NSW,Greater capital city,34473,12.13
+151.1875,-33.2984,102,Central Coast,NSW,Greater capital city,34473,12.13
+151.32,-33.3251,102,Central Coast,NSW,Greater capital city,34473,12.13
+151.1527,-33.1538,102,Central Coast,NSW,Greater capital city,34473,12.13
+151.4315,-33.2983,102,Central Coast,NSW,Greater capital city,34473,12.13
+149.9486,-33.9383,103,Central West,NSW,Rest of state,28900,16.84
+147.2563,-34.1611,103,Central West,NSW,Rest of state,28900,16.84
+150.2173,-33.0625,103,Central West,NSW,Rest of state,28900,16.84
+148.6041,-32.9333,103,Central West,NSW,Rest of state,28900,16.84
+147.1765,-32.1397,103,Central West,NSW,Rest of state,28900,16.84
+150.3767,-33.4427,103,Central West,NSW,Rest of state,28900,16.84
+148.1937,-33.1672,103,Central West,NSW,Rest of state,28900,16.84
+153.1551,-29.6174,104,Coffs Harbour - Grafton,NSW,Rest of state,19378,15.98
+152.5319,-30.092,104,Coffs Harbour - Grafton,NSW,Rest of state,19378,15.98
+152.6947,-29.7504,104,Coffs Harbour - Grafton,NSW,Rest of state,19378,15.98
+153.0875,-30.2788,104,Coffs Harbour - Grafton,NSW,Rest of state,19378,15.98
+153.0569,-29.4875,104,Coffs Harbour - Grafton,NSW,Rest of state,19378,15.98
+143.2952,-31.4574,105,Far West and Orana,NSW,Rest of state,14485,15.63
+145.8677,-32.2294,105,Far West and Orana,NSW,Rest of state,14485,15.63
+146.3765,-29.9833,105,Far West and Orana,NSW,Rest of state,14485,15.63
+148.3367,-31.5686,105,Far West and Orana,NSW,Rest of state,14485,15.63
+150.9919,-32.225,106,Hunter Valley exc Newcastle,NSW,Rest of state,29544,12.57
+151.0639,-32.74,106,Hunter Valley exc Newcastle,NSW,Rest of state,29544,12.57
+151.2008,-31.9382,106,Hunter Valley exc Newcastle,NSW,Rest of state,29544,12.57
+150.8962,-32.9686,106,Hunter Valley exc Newcastle,NSW,Rest of state,29544,12.57
+151.5221,-32.3445,106,Hunter Valley exc Newcastle,NSW,Rest of state,29544,12.57
+150.3139,-31.9954,106,Hunter Valley exc Newcastle,NSW,Rest of state,29544,12.57
+150.5286,-32.656,106,Hunter Valley exc Newcastle,NSW,Rest of state,29544,12.57
+150.9439,-34.1694,107,Illawarra,NSW,Rest of state,33351,12.94
+150.7614,-34.4105,107,Illawarra,NSW,Rest of state,33351,12.94
+150.8224,-34.7397,107,Illawarra,NSW,Rest of state,33351,12.94
+150.7047,-34.4432,107,Illawarra,NSW,Rest of state,33351,12.94
+150.6253,-34.2927,107,Illawarra,NSW,Rest of state,33351,12.94
+150.8334,-34.3041,107,Illawarra,NSW,Rest of state,33351,12.94
+150.7546,-34.4205,107,Illawarra,NSW,Rest of state,33351,12.94
+150.9375,-34.2494,107,Illawarra,NSW,Rest of state,33351,12.94
+152.0052,-31.7993,108,Mid North Coast,NSW,Rest of state,30558,15.82
+151.8801,-32.5978,108,Mid North Coast,NSW,Rest of state,30558,15.82
+152.4356,-31.3617,108,Mid North Coast,NSW,Rest of state,30558,15.82
+152.1083,-32.4314,108,Mid North Coast,NSW,Rest of state,30558,15.82
+152.6352,-31.4721,108,Mid North Coast,NSW,Rest of state,30558,15.82
+152.0086,-32.3458,108,Mid North Coast,NSW,Rest of state,30558,15.82
+152.2456,-32.3624,108,Mid North Coast,NSW,Rest of state,30558,15.82
+151.7813,-31.7126,108,Mid North Coast,NSW,Rest of state,30558,15.82
+145.1772,-34.9493,109,Murray,NSW,Rest of state,18410,18.18
+145.9875,-35.6049,109,Murray,NSW,Rest of state,18410,18.18
+144.3815,-34.9979,109,Murray,NSW,Rest of state,18410,18.18
+145.7341,-35.3662,109,Murray,NSW,Rest of state,18410,18.18
+143.9426,-33.3838,109,Murray,NSW,Rest of state,18410,18.18
+150.2487,-28.7711,110,New England and North West,NSW,Rest of state,26609,17.73
+151.9424,-31.4301,110,New England and North West,NSW,Rest of state,26609,17.73
+150.5224,-29.1893,110,New England and North West,NSW,Rest of state,26609,17.73
+150.8271,-29.5746,110,New England and North West,NSW,Rest of state,26609,17.73
+149.9723,-31.7038,110,New England and North West,NSW,Rest of state,26609,17.73
+152.0361,-30.8756,110,New England and North West,NSW,Rest of state,26609,17.73
+150.9355,-30.1227,110,New England and North West,NSW,Rest of state,26609,17.73
+151.4435,-33.0827,111,Newcastle and Lake Macquarie,NSW,Rest of state,43589,13.5
+151.6671,-32.8327,111,Newcastle and Lake Macquarie,NSW,Rest of state,43589,13.5
+151.8175,-32.824,111,Newcastle and Lake Macquarie,NSW,Rest of state,43589,13.5
+151.6168,-33.1352,111,Newcastle and Lake Macquarie,NSW,Rest of state,43589,13.5
+151.6032,-32.9439,111,Newcastle and Lake Macquarie,NSW,Rest of state,43589,13.5
+151.4216,-33.046,111,Newcastle and Lake Macquarie,NSW,Rest of state,43589,13.5
+151.4599,-33.1513,111,Newcastle and Lake Macquarie,NSW,Rest of state,43589,13.5
+151.3977,-33.1355,111,Newcastle and Lake Macquarie,NSW,Rest of state,43589,13.5
+151.4312,-33.065,111,Newcastle and Lake Macquarie,NSW,Rest of state,43589,13.5
+151.4095,-33.1761,111,Newcastle and Lake Macquarie,NSW,Rest of state,43589,13.5
+151.6699,-32.8154,111,Newcastle and Lake Macquarie,NSW,Rest of state,43589,13.5
+153.2379,-28.4131,112,Richmond - Tweed,NSW,Rest of state,35004,16.34
+152.9182,-28.6626,112,Richmond - Tweed,NSW,Rest of state,35004,16.34
+153.536,-28.8969,112,Richmond - Tweed,NSW,Rest of state,35004,16.34
+152.4733,-28.6099,112,Richmond - Tweed,NSW,Rest of state,35004,16.34
+152.9798,-28.6641,112,Richmond - Tweed,NSW,Rest of state,35004,16.34
+152.8586,-28.6711,112,Richmond - Tweed,NSW,Rest of state,35004,16.34
+153.353,-28.3074,112,Richmond - Tweed,NSW,Rest of state,35004,16.34
+153.5365,-28.7497,112,Richmond - Tweed,NSW,Rest of state,35004,16.34
+152.9636,-28.8833,112,Richmond - Tweed,NSW,Rest of state,35004,16.34
+147.0545,-34.7878,113,Riverina,NSW,Rest of state,22986,17.46
+146.6572,-35.1485,113,Riverina,NSW,Rest of state,22986,17.46
+146.1182,-34.8362,113,Riverina,NSW,Rest of state,22986,17.46
+145.8692,-34.3113,113,Riverina,NSW,Rest of state,22986,17.46
+148.6186,-35.2727,113,Riverina,NSW,Rest of state,22986,17.46
+146.4257,-35.1361,113,Riverina,NSW,Rest of state,22986,17.46
+150.3099,-35.3108,114,Southern Highlands and Shoalhaven,NSW,Rest of state,21891,16.23
+150.464,-34.2881,114,Southern Highlands and Shoalhaven,NSW,Rest of state,21891,16.23
+150.4252,-34.4153,114,Southern Highlands and Shoalhaven,NSW,Rest of state,21891,16.23
+150.4357,-34.8072,114,Southern Highlands and Shoalhaven,NSW,Rest of state,21891,16.23
+150.0652,-35.3832,114,Southern Highlands and Shoalhaven,NSW,Rest of state,21891,16.23
+150.6771,-33.4789,115,Sydney - Baulkham Hills and Hawkesbury,NSW,Greater capital city,30023,14.27
+151.0715,-33.6779,115,Sydney - Baulkham Hills and Hawkesbury,NSW,Greater capital city,30023,14.27
+150.9794,-33.3098,115,Sydney - Baulkham Hills and Hawkesbury,NSW,Greater capital city,30023,14.27
+151.0601,-33.2331,115,Sydney - Baulkham Hills and Hawkesbury,NSW,Greater capital city,30023,14.27
+151.0783,-33.5294,115,Sydney - Baulkham Hills and Hawkesbury,NSW,Greater capital city,30023,14.27
+150.7417,-33.5044,115,Sydney - Baulkham Hills and Hawkesbury,NSW,Greater capital city,30023,14.27
+151.0295,-33.4301,115,Sydney - Baulkham Hills and Hawkesbury,NSW,Greater capital city,30023,14.27
+151.0711,-33.6367,115,Sydney - Baulkham Hills and Hawkesbury,NSW,Greater capital city,30023,14.27
+150.9125,-33.7431,116,Sydney - Blacktown,NSW,Greater capital city,27214,8.78
+150.8903,-33.7216,116,Sydney - Blacktown,NSW,Greater capital city,27214,8.78
+150.8903,-33.8029,116,Sydney - Blacktown,NSW,Greater capital city,27214,8.78
+150.8304,-33.6689,116,Sydney - Blacktown,NSW,Greater capital city,27214,8.78
+150.8674,-33.7069,116,Sydney - Blacktown,NSW,Greater capital city,27214,8.78
+150.856,-33.7118,116,Sydney - Blacktown,NSW,Greater capital city,27214,8.78
+150.8688,-33.7307,116,Sydney - Blacktown,NSW,Greater capital city,27214,8.78
+151.1585,-33.9015,117,Sydney - City and Inner South,NSW,Greater capital city,36687,12.29
+151.1968,-33.8993,117,Sydney - City and Inner South,NSW,Greater capital city,36687,12.29
+151.2185,-33.964,117,Sydney - City and Inner South,NSW,Greater capital city,36687,12.29
+151.151,-33.9201,117,Sydney - City and Inner South,NSW,Greater capital city,36687,12.29
+151.2114,-33.8671,117,Sydney - City and Inner South,NSW,Greater capital city,36687,12.29
+151.2024,-33.9166,117,Sydney - City and Inner South,NSW,Greater capital city,36687,12.29
+151.1796,-33.9077,117,Sydney - City and Inner South,NSW,Greater capital city,36687,12.29
+151.1886,-33.9289,117,Sydney - City and Inner South,NSW,Greater capital city,36687,12.29
+151.2122,-33.8877,117,Sydney - City and Inner South,NSW,Greater capital city,36687,12.29
+151.2199,-33.9172,118,Sydney - Eastern Suburbs,NSW,Greater capital city,34093,15.4
+151.2733,-33.8547,118,Sydney - Eastern Suburbs,NSW,Greater capital city,34093,15.4
+151.249,-33.9875,118,Sydney - Eastern Suburbs,NSW,Greater capital city,34093,15.4
+151.2174,-33.9105,118,Sydney - Eastern Suburbs,NSW,Greater capital city,34093,15.4
+151.2411,-33.9001,118,Sydney - Eastern Suburbs,NSW,Greater capital city,34093,15.4
+151.2518,-33.8976,118,Sydney - Eastern Suburbs,NSW,Greater capital city,34093,15.4
+151.2729,-33.884,118,Sydney - Eastern Suburbs,NSW,Greater capital city,34093,15.4
+151.2277,-33.9111,118,Sydney - Eastern Suburbs,NSW,Greater capital city,34093,15.4
+151.2394,-33.8885,118,Sydney - Eastern Suburbs,NSW,Greater capital city,34093,15.4
+150.9761,-33.9442,119,Sydney - Inner South West,NSW,Greater capital city,41134,8.29
+151.1135,-33.9687,119,Sydney - Inner South West,NSW,Greater capital city,41134,8.29
+151.0766,-33.9728,119,Sydney - Inner South West,NSW,Greater capital city,41134,8.29
+151.0528,-33.9556,119,Sydney - Inner South West,NSW,Greater capital city,41134,8.29
+151.0462,-33.9375,119,Sydney - Inner South West,NSW,Greater capital city,41134,8.29
+151.0873,-33.9484,119,Sydney - Inner South West,NSW,Greater capital city,41134,8.29
+151.1286,-33.9614,119,Sydney - Inner South West,NSW,Greater capital city,41134,8.29
+151.1292,-33.9245,119,Sydney - Inner South West,NSW,Greater capital city,41134,8.29
+151.128,-33.941,119,Sydney - Inner South West,NSW,Greater capital city,41134,8.29
+151.1202,-33.949,119,Sydney - Inner South West,NSW,Greater capital city,41134,8.29
+151.1405,-33.8542,120,Sydney - Inner West,NSW,Greater capital city,32816,12.67
+151.1263,-33.851,120,Sydney - Inner West,NSW,Greater capital city,32816,12.67
+151.1502,-33.8588,120,Sydney - Inner West,NSW,Greater capital city,32816,12.67
+151.1507,-33.8841,120,Sydney - Inner West,NSW,Greater capital city,32816,12.67
+151.1648,-33.8752,120,Sydney - Inner West,NSW,Greater capital city,32816,12.67
+151.0917,-33.8471,120,Sydney - Inner West,NSW,Greater capital city,32816,12.67
+151.1342,-33.8655,120,Sydney - Inner West,NSW,Greater capital city,32816,12.67
+151.0959,-33.8719,120,Sydney - Inner West,NSW,Greater capital city,32816,12.67
+151.1884,-33.794,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.1986,-33.7805,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.1713,-33.5639,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.2089,-33.5996,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.2308,-33.5673,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.1697,-33.745,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.1146,-33.6538,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.1995,-33.6027,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.1295,-33.6909,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.1405,-33.6337,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.1883,-33.7846,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.0858,-33.6614,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.1619,-33.7224,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.1631,-33.7263,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.1377,-33.7033,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.1898,-33.814,121,Sydney - North Sydney and Hornsby,NSW,Greater capital city,62768,18.04
+151.2758,-33.5988,122,Sydney - Northern Beaches,NSW,Greater capital city,36295,16.9
+151.2848,-33.7933,122,Sydney - Northern Beaches,NSW,Greater capital city,36295,16.9
+151.2925,-33.6812,122,Sydney - Northern Beaches,NSW,Greater capital city,36295,16.9
+151.2225,-33.6572,122,Sydney - Northern Beaches,NSW,Greater capital city,36295,16.9
+151.2497,-33.7357,122,Sydney - Northern Beaches,NSW,Greater capital city,36295,16.9
+151.2906,-33.7093,122,Sydney - Northern Beaches,NSW,Greater capital city,36295,16.9
+151.2837,-33.584,122,Sydney - Northern Beaches,NSW,Greater capital city,36295,16.9
+151.3116,-33.6736,122,Sydney - Northern Beaches,NSW,Greater capital city,36295,16.9
+151.2407,-33.7436,122,Sydney - Northern Beaches,NSW,Greater capital city,36295,16.9
+150.9569,-34.0751,123,Sydney - Outer South West,NSW,Greater capital city,21856,9.46
+150.4939,-34.1333,123,Sydney - Outer South West,NSW,Greater capital city,21856,9.46
+150.7179,-34.1642,123,Sydney - Outer South West,NSW,Greater capital city,21856,9.46
+150.8387,-34.2376,123,Sydney - Outer South West,NSW,Greater capital city,21856,9.46
+150.9069,-34.003,123,Sydney - Outer South West,NSW,Greater capital city,21856,9.46
+150.3548,-33.6591,124,Sydney - Outer West and Blue Mountains,NSW,Greater capital city,30703,11.57
+150.2691,-33.794,124,Sydney - Outer West and Blue Mountains,NSW,Greater capital city,30703,11.57
+150.6908,-33.6196,124,Sydney - Outer West and Blue Mountains,NSW,Greater capital city,30703,11.57
+150.4274,-34.244,124,Sydney - Outer West and Blue Mountains,NSW,Greater capital city,30703,11.57
+150.2214,-33.9736,124,Sydney - Outer West and Blue Mountains,NSW,Greater capital city,30703,11.57
+150.3856,-33.5981,124,Sydney - Outer West and Blue Mountains,NSW,Greater capital city,30703,11.57
+150.4144,-33.5023,124,Sydney - Outer West and Blue Mountains,NSW,Greater capital city,30703,11.57
+150.5745,-33.7535,124,Sydney - Outer West and Blue Mountains,NSW,Greater capital city,30703,11.57
+151.0468,-33.8185,125,Sydney - Parramatta,NSW,Greater capital city,34838,8.73
+151.0493,-33.7977,125,Sydney - Parramatta,NSW,Greater capital city,34838,8.73
+151.0372,-33.8582,125,Sydney - Parramatta,NSW,Greater capital city,34838,8.73
+151.0381,-33.8523,125,Sydney - Parramatta,NSW,Greater capital city,34838,8.73
+151.0386,-33.8258,125,Sydney - Parramatta,NSW,Greater capital city,34838,8.73
+151.0384,-33.8312,125,Sydney - Parramatta,NSW,Greater capital city,34838,8.73
+150.9753,-33.831,125,Sydney - Parramatta,NSW,Greater capital city,34838,8.73
+150.9761,-33.7957,125,Sydney - Parramatta,NSW,Greater capital city,34838,8.73
+151.0517,-33.7695,125,Sydney - Parramatta,NSW,Greater capital city,34838,8.73
+151.1213,-33.7782,126,Sydney - Ryde,NSW,Greater capital city,24332,14.52
+151.1274,-33.7755,126,Sydney - Ryde,NSW,Greater capital city,24332,14.52
+151.0961,-33.8059,126,Sydney - Ryde,NSW,Greater capital city,24332,14.52
+151.1353,-33.8212,126,Sydney - Ryde,NSW,Greater capital city,24332,14.52
+151.0659,-33.7533,126,Sydney - Ryde,NSW,Greater capital city,24332,14.52
+151.1022,-33.763,126,Sydney - Ryde,NSW,Greater capital city,24332,14.52
+150.9676,-33.9845,127,Sydney - South West,NSW,Greater capital city,23674,6.31
+150.7799,-33.9271,127,Sydney - South West,NSW,Greater capital city,23674,6.31
+150.8465,-33.966,127,Sydney - South West,NSW,Greater capital city,23674,6.31
+150.8977,-33.8357,127,Sydney - South West,NSW,Greater capital city,23674,6.31
+150.9235,-33.9666,127,Sydney - South West,NSW,Greater capital city,23674,6.31
+150.8606,-33.8426,127,Sydney - South West,NSW,Greater capital city,23674,6.31
+151.0465,-34.0151,128,Sydney - Sutherland,NSW,Greater capital city,25398,13.57
+150.9755,-34.1241,128,Sydney - Sutherland,NSW,Greater capital city,25398,13.57
+151.0243,-34.0524,128,Sydney - Sutherland,NSW,Greater capital city,25398,13.57
+151.0826,-34.0284,128,Sydney - Sutherland,NSW,Greater capital city,25398,13.57
+151.1165,-34.0362,128,Sydney - Sutherland,NSW,Greater capital city,25398,13.57
+151.0437,-34.0023,128,Sydney - Sutherland,NSW,Greater capital city,25398,13.57
+143.6386,-36.8901,201,Ballarat,Vic,Rest of state,23430,16.4
+143.5252,-37.6921,201,Ballarat,Vic,Rest of state,23430,16.4
+143.3936,-36.9862,201,Ballarat,Vic,Rest of state,23430,16.4
+143.5505,-37.1151,201,Ballarat,Vic,Rest of state,23430,16.4
+143.7127,-36.911,201,Ballarat,Vic,Rest of state,23430,16.4
+144.3186,-37.5128,201,Ballarat,Vic,Rest of state,23430,16.4
+144.1282,-36.7082,202,Bendigo,Vic,Rest of state,24055,17.47
+143.6015,-36.1821,202,Bendigo,Vic,Rest of state,24055,17.47
+144.0128,-36.0171,202,Bendigo,Vic,Rest of state,24055,17.47
+144.0487,-37.1654,202,Bendigo,Vic,Rest of state,24055,17.47
+144.3915,-37.1723,202,Bendigo,Vic,Rest of state,24055,17.47
+144.1975,-36.8098,202,Bendigo,Vic,Rest of state,24055,17.47
+144.5534,-37.9928,203,Geelong,Vic,Rest of state,40648,15.13
+144.0402,-37.8299,203,Geelong,Vic,Rest of state,40648,15.13
+144.439,-38.2535,203,Geelong,Vic,Rest of state,40648,15.13
+144.3814,-37.9882,203,Geelong,Vic,Rest of state,40648,15.13
+144.3358,-38.2263,203,Geelong,Vic,Rest of state,40648,15.13
+144.2746,-38.17,203,Geelong,Vic,Rest of state,40648,15.13
+143.8309,-38.0043,203,Geelong,Vic,Rest of state,40648,15.13
+144.364,-38.0204,203,Geelong,Vic,Rest of state,40648,15.13
+143.9171,-38.2341,203,Geelong,Vic,Rest of state,40648,15.13
+144.591,-38.2735,203,Geelong,Vic,Rest of state,40648,15.13
+146.4893,-36.9078,204,Hume,Vic,Rest of state,28844,18.82
+147.7897,-36.5334,204,Hume,Vic,Rest of state,28844,18.82
+147.2168,-36.4383,204,Hume,Vic,Rest of state,28844,18.82
+144.8405,-37.1225,204,Hume,Vic,Rest of state,28844,18.82
+145.9256,-37.5268,204,Hume,Vic,Rest of state,28844,18.82
+146.6885,-36.6474,204,Hume,Vic,Rest of state,28844,18.82
+146.5017,-36.6174,204,Hume,Vic,Rest of state,28844,18.82
+146.2056,-38.29,205,Latrobe - Gippsland,Vic,Rest of state,42633,17.07
+146.462,-38.261,205,Latrobe - Gippsland,Vic,Rest of state,42633,17.07
+148.295,-37.1933,205,Latrobe - Gippsland,Vic,Rest of state,42633,17.07
+146.9377,-37.4793,205,Latrobe - Gippsland,Vic,Rest of state,42633,17.07
+146.0916,-37.7734,205,Latrobe - Gippsland,Vic,Rest of state,42633,17.07
+146.9731,-37.348,205,Latrobe - Gippsland,Vic,Rest of state,42633,17.07
+148.2711,-37.5298,205,Latrobe - Gippsland,Vic,Rest of state,42633,17.07
+146.1419,-38.2981,205,Latrobe - Gippsland,Vic,Rest of state,42633,17.07
+149.602,-37.5706,205,Latrobe - Gippsland,Vic,Rest of state,42633,17.07
+147.5245,-38.0816,205,Latrobe - Gippsland,Vic,Rest of state,42633,17.07
+145.1881,-38.4617,205,Latrobe - Gippsland,Vic,Rest of state,42633,17.07
+145.0266,-37.8371,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9273,-37.8358,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9782,-37.7955,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9935,-37.7517,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9586,-37.8265,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+145.0235,-37.8361,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9253,-37.7476,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9161,-37.7878,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9683,-37.7559,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9718,-37.7673,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9496,-37.7972,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9398,-37.8375,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9947,-37.8753,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9981,-37.8558,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.965,-37.7634,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9537,-37.747,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+145.0134,-37.7905,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9048,-37.7568,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9595,-37.7428,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9936,-37.8658,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+144.9578,-37.7964,206,Melbourne - Inner,Vic,Greater capital city,82664,15.03
+145.0956,-37.8241,207,Melbourne - Inner East,Vic,Greater capital city,50290,15.98
+145.0709,-37.8136,207,Melbourne - Inner East,Vic,Greater capital city,50290,15.98
+145.1538,-37.8267,207,Melbourne - Inner East,Vic,Greater capital city,50290,15.98
+145.1218,-37.7897,207,Melbourne - Inner East,Vic,Greater capital city,50290,15.98
+145.1307,-37.8037,207,Melbourne - Inner East,Vic,Greater capital city,50290,15.98
+145.1387,-37.8186,207,Melbourne - Inner East,Vic,Greater capital city,50290,15.98
+145.1443,-37.8307,207,Melbourne - Inner East,Vic,Greater capital city,50290,15.98
+145.0644,-37.7896,207,Melbourne - Inner East,Vic,Greater capital city,50290,15.98
+145.144,-37.779,207,Melbourne - Inner East,Vic,Greater capital city,50290,15.98
+145.0414,-37.8326,207,Melbourne - Inner East,Vic,Greater capital city,50290,15.98
+145.1081,-37.8115,207,Melbourne - Inner East,Vic,Greater capital city,50290,15.98
+145.1681,-37.7359,207,Melbourne - Inner East,Vic,Greater capital city,50290,15.98
+145.0672,-37.8132,207,Melbourne - Inner East,Vic,Greater capital city,50290,15.98
+145.0198,-37.8923,208,Melbourne - Inner South,Vic,Greater capital city,53550,15.32
+145.1357,-38.0709,208,Melbourne - Inner South,Vic,Greater capital city,53550,15.32
+145.0719,-37.8924,208,Melbourne - Inner South,Vic,Greater capital city,53550,15.32
+145.0179,-37.8778,208,Melbourne - Inner South,Vic,Greater capital city,53550,15.32
+145.1495,-38.073,208,Melbourne - Inner South,Vic,Greater capital city,53550,15.32
+145.0478,-37.8503,208,Melbourne - Inner South,Vic,Greater capital city,53550,15.32
+145.1049,-37.9796,208,Melbourne - Inner South,Vic,Greater capital city,53550,15.32
+145.0156,-37.9367,208,Melbourne - Inner South,Vic,Greater capital city,53550,15.32
+145.0379,-37.9002,208,Melbourne - Inner South,Vic,Greater capital city,53550,15.32
+145.1342,-38.0369,208,Melbourne - Inner South,Vic,Greater capital city,53550,15.32
+144.9977,-37.9147,208,Melbourne - Inner South,Vic,Greater capital city,53550,15.32
+145.017,-37.875,208,Melbourne - Inner South,Vic,Greater capital city,53550,15.32
+145.1316,-38.0334,208,Melbourne - Inner South,Vic,Greater capital city,53550,15.32
+145.0501,-37.7179,209,Melbourne - North East,Vic,Greater capital city,47718,10.92
+145.2189,-37.454,209,Melbourne - North East,Vic,Greater capital city,47718,10.92
+145.1912,-37.6524,209,Melbourne - North East,Vic,Greater capital city,47718,10.92
+145.2324,-37.4902,209,Melbourne - North East,Vic,Greater capital city,47718,10.92
+145.3352,-37.5323,209,Melbourne - North East,Vic,Greater capital city,47718,10.92
+145.2349,-37.4876,209,Melbourne - North East,Vic,Greater capital city,47718,10.92
+145.104,-37.7342,209,Melbourne - North East,Vic,Greater capital city,47718,10.92
+145.1326,-37.4413,209,Melbourne - North East,Vic,Greater capital city,47718,10.92
+145.1463,-37.3669,209,Melbourne - North East,Vic,Greater capital city,47718,10.92
+145.1149,-37.7315,209,Melbourne - North East,Vic,Greater capital city,47718,10.92
+145.2059,-37.7242,209,Melbourne - North East,Vic,Greater capital city,47718,10.92
+145.0466,-37.4301,209,Melbourne - North East,Vic,Greater capital city,47718,10.92
+144.9527,-37.5737,210,Melbourne - North West,Vic,Greater capital city,30163,8.97
+144.5195,-37.5426,210,Melbourne - North West,Vic,Greater capital city,30163,8.97
+144.6428,-37.5374,210,Melbourne - North West,Vic,Greater capital city,30163,8.97
+144.7648,-37.5484,210,Melbourne - North West,Vic,Greater capital city,30163,8.97
+144.6935,-37.5365,210,Melbourne - North West,Vic,Greater capital city,30163,8.97
+144.7645,-37.5077,210,Melbourne - North West,Vic,Greater capital city,30163,8.97
+144.6992,-37.4604,210,Melbourne - North West,Vic,Greater capital city,30163,8.97
+144.4813,-37.4446,210,Melbourne - North West,Vic,Greater capital city,30163,8.97
+145.7625,-37.6255,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.7481,-37.5808,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.4736,-37.6788,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.2208,-37.8735,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.5103,-37.7962,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.2264,-37.8652,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.5733,-37.6922,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.7869,-37.7388,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.7487,-37.7316,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.4881,-37.7082,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.7126,-37.691,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.3545,-37.6858,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.5243,-37.7889,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.4859,-37.7552,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.4269,-37.9155,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.5248,-37.6006,211,Melbourne - Outer East,Vic,Greater capital city,62980,14.78
+145.5499,-37.8921,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.5874,-38.0774,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.4442,-38.2124,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.4618,-37.9479,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.5231,-38.2748,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.4628,-38.0267,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.4799,-38.1733,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.6628,-38.2408,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.6793,-38.1063,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.6452,-38.1988,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.4914,-37.9575,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.1651,-37.9565,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.1065,-37.8623,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.4212,-38.014,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.1236,-37.8911,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.7005,-38.1626,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+145.6594,-37.9708,212,Melbourne - South East,Vic,Greater capital city,67786,9.84
+144.5802,-37.8877,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.5786,-37.7577,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.5552,-37.7676,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.6513,-37.6474,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.7641,-37.7053,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.4538,-37.6886,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.4436,-37.6045,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.4099,-37.712,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.6056,-37.63,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.614,-37.646,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.4758,-37.5683,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.458,-37.8667,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.4792,-37.8094,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.547,-37.946,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.5101,-37.7867,213,Melbourne - West,Vic,Greater capital city,58999,8.82
+144.9211,-38.4943,214,Mornington Peninsula,Vic,Greater capital city,32754,12.85
+144.7158,-38.3384,214,Mornington Peninsula,Vic,Greater capital city,32754,12.85
+145.0265,-38.4019,214,Mornington Peninsula,Vic,Greater capital city,32754,12.85
+145.0544,-38.3957,214,Mornington Peninsula,Vic,Greater capital city,32754,12.85
+145.193,-38.328,214,Mornington Peninsula,Vic,Greater capital city,32754,12.85
+145.1761,-38.2901,214,Mornington Peninsula,Vic,Greater capital city,32754,12.85
+144.9538,-38.383,214,Mornington Peninsula,Vic,Greater capital city,32754,12.85
+145.0526,-38.3216,214,Mornington Peninsula,Vic,Greater capital city,32754,12.85
+141.7104,-35.426,215,North West,Vic,Rest of state,24902,19.37
+141.6987,-34.7946,215,North West,Vic,Rest of state,24902,19.37
+144.0897,-35.7295,215,North West,Vic,Rest of state,24902,19.37
+141.416,-37.0792,215,North West,Vic,Rest of state,24902,19.37
+143.5247,-35.5893,215,North West,Vic,Rest of state,24902,19.37
+141.8152,-36.2774,215,North West,Vic,Rest of state,24902,19.37
+144.9624,-36.3207,216,Shepparton,Vic,Rest of state,17824,15.81
+145.1123,-35.9295,216,Shepparton,Vic,Rest of state,17824,15.81
+145.0701,-36.4056,216,Shepparton,Vic,Rest of state,17824,15.81
+145.4381,-35.9085,216,Shepparton,Vic,Rest of state,17824,15.81
+141.4331,-38.0137,217,Warrnambool and South West,Vic,Rest of state,22088,20.79
+141.2613,-37.8706,217,Warrnambool and South West,Vic,Rest of state,22088,20.79
+141.2593,-37.6449,217,Warrnambool and South West,Vic,Rest of state,22088,20.79
+141.6834,-38.1329,217,Warrnambool and South West,Vic,Rest of state,22088,20.79
+141.6928,-37.5229,217,Warrnambool and South West,Vic,Rest of state,22088,20.79
+142.7854,-38.4276,217,Warrnambool and South West,Vic,Rest of state,22088,20.79
+153.4759,-27.4737,301,Brisbane - East,Qld,Greater capital city,27413,14.03
+153.4711,-27.5172,301,Brisbane - East,Qld,Greater capital city,27413,14.03
+153.429,-27.4697,301,Brisbane - East,Qld,Greater capital city,27413,14.03
+153.1914,-27.607,301,Brisbane - East,Qld,Greater capital city,27413,14.03
+153.1498,-27.4422,301,Brisbane - East,Qld,Greater capital city,27413,14.03
+153.444,-27.5973,301,Brisbane - East,Qld,Greater capital city,27413,14.03
+153.4852,-27.4385,301,Brisbane - East,Qld,Greater capital city,27413,14.03
+153.0225,-27.3758,302,Brisbane - North,Qld,Greater capital city,26123,14.16
+153.0774,-27.4053,302,Brisbane - North,Qld,Greater capital city,26123,14.16
+153.1235,-27.3617,302,Brisbane - North,Qld,Greater capital city,26123,14.16
+153.0285,-27.4061,302,Brisbane - North,Qld,Greater capital city,26123,14.16
+153.0304,-27.3876,302,Brisbane - North,Qld,Greater capital city,26123,14.16
+153.0519,-27.2842,302,Brisbane - North,Qld,Greater capital city,26123,14.16
+153.1194,-27.4195,302,Brisbane - North,Qld,Greater capital city,26123,14.16
+153.0944,-27.6166,303,Brisbane - South,Qld,Greater capital city,44655,14.75
+153.0046,-27.5356,303,Brisbane - South,Qld,Greater capital city,44655,14.75
+153.0883,-27.6318,303,Brisbane - South,Qld,Greater capital city,44655,14.75
+153.1368,-27.5387,303,Brisbane - South,Qld,Greater capital city,44655,14.75
+153.0225,-27.5691,303,Brisbane - South,Qld,Greater capital city,44655,14.75
+153.0117,-27.6349,303,Brisbane - South,Qld,Greater capital city,44655,14.75
+153.0779,-27.5239,303,Brisbane - South,Qld,Greater capital city,44655,14.75
+153.1162,-27.5008,303,Brisbane - South,Qld,Greater capital city,44655,14.75
+153.0916,-27.4787,303,Brisbane - South,Qld,Greater capital city,44655,14.75
+153.0223,-27.5695,303,Brisbane - South,Qld,Greater capital city,44655,14.75
+152.9903,-27.6215,303,Brisbane - South,Qld,Greater capital city,44655,14.75
+152.8393,-27.4935,304,Brisbane - West,Qld,Greater capital city,29877,19.54
+152.8469,-27.4272,304,Brisbane - West,Qld,Greater capital city,29877,19.54
+152.9712,-27.4993,304,Brisbane - West,Qld,Greater capital city,29877,19.54
+153.0153,-27.4955,304,Brisbane - West,Qld,Greater capital city,29877,19.54
+152.9075,-27.5399,304,Brisbane - West,Qld,Greater capital city,29877,19.54
+152.8242,-27.4652,304,Brisbane - West,Qld,Greater capital city,29877,19.54
+152.9443,-27.4713,304,Brisbane - West,Qld,Greater capital city,29877,19.54
+153.0612,-27.4744,305,Brisbane Inner City,Qld,Greater capital city,42986,16.94
+152.9656,-27.4583,305,Brisbane Inner City,Qld,Greater capital city,42986,16.94
+153.0575,-27.4147,305,Brisbane Inner City,Qld,Greater capital city,42986,16.94
+153.023,-27.4917,305,Brisbane Inner City,Qld,Greater capital city,42986,16.94
+153.0462,-27.4433,305,Brisbane Inner City,Qld,Greater capital city,42986,16.94
+153.021,-27.4545,305,Brisbane Inner City,Qld,Greater capital city,42986,16.94
+153.0371,-27.4229,305,Brisbane Inner City,Qld,Greater capital city,42986,16.94
+152.9963,-27.4491,305,Brisbane Inner City,Qld,Greater capital city,42986,16.94
+153.0152,-27.4768,305,Brisbane Inner City,Qld,Greater capital city,42986,16.94
+152.9798,-27.4656,305,Brisbane Inner City,Qld,Greater capital city,42986,16.94
+153.0001,-27.4741,305,Brisbane Inner City,Qld,Greater capital city,42986,16.94
+145.218,-18.1957,306,Cairns,Qld,Rest of state,30559,14.78
+145.2427,-18.3363,306,Cairns,Qld,Rest of state,30559,14.78
+145.4834,-18.4328,306,Cairns,Qld,Rest of state,30559,14.78
+145.1975,-18.217,306,Cairns,Qld,Rest of state,30559,14.78
+145.0189,-18.0311,306,Cairns,Qld,Rest of state,30559,14.78
+145.4623,-17.9408,306,Cairns,Qld,Rest of state,30559,14.78
+145.9005,-16.9322,306,Cairns,Qld,Rest of state,30559,14.78
+144.9436,-18.0095,306,Cairns,Qld,Rest of state,30559,14.78
+147.3206,-27.8835,307,Darling Downs - Maranoa,Qld,Rest of state,20455,19.74
+147.0715,-27.4105,307,Darling Downs - Maranoa,Qld,Rest of state,20455,19.74
+149.5933,-28.1088,307,Darling Downs - Maranoa,Qld,Rest of state,20455,19.74
+152.2166,-28.0695,307,Darling Downs - Maranoa,Qld,Rest of state,20455,19.74
+151.487,-28.6423,307,Darling Downs - Maranoa,Qld,Rest of state,20455,19.74
+148.4347,-23.0963,308,Central Queensland,Qld,Rest of state,28319,15.65
+148.7301,-23.4738,308,Central Queensland,Qld,Rest of state,28319,15.65
+151.252,-24.5631,308,Central Queensland,Qld,Rest of state,28319,15.65
+147.2852,-23.8922,308,Central Queensland,Qld,Rest of state,28319,15.65
+151.0481,-24.0698,308,Central Queensland,Qld,Rest of state,28319,15.65
+150.1227,-25.1871,308,Central Queensland,Qld,Rest of state,28319,15.65
+147.6772,-23.5578,308,Central Queensland,Qld,Rest of state,28319,15.65
+153.1801,-27.7983,309,Gold Coast,Qld,Rest of state,60938,11.54
+153.3815,-28.096,309,Gold Coast,Qld,Rest of state,60938,11.54
+153.2543,-27.8813,309,Gold Coast,Qld,Rest of state,60938,11.54
+153.246,-27.9295,309,Gold Coast,Qld,Rest of state,60938,11.54
+153.253,-28.2051,309,Gold Coast,Qld,Rest of state,60938,11.54
+153.2312,-28.0113,309,Gold Coast,Qld,Rest of state,60938,11.54
+153.144,-28.138,309,Gold Coast,Qld,Rest of state,60938,11.54
+153.493,-28.1573,309,Gold Coast,Qld,Rest of state,60938,11.54
+153.3553,-27.8945,309,Gold Coast,Qld,Rest of state,60938,11.54
+153.501,-28.1555,309,Gold Coast,Qld,Rest of state,60938,11.54
+153.3557,-28.1119,309,Gold Coast,Qld,Rest of state,60938,11.54
+153.1919,-28.1384,309,Gold Coast,Qld,Rest of state,60938,11.54
+153.2934,-27.7433,309,Gold Coast,Qld,Rest of state,60938,11.54
+153.1837,-27.9296,309,Gold Coast,Qld,Rest of state,60938,11.54
+153.2343,-28.1172,309,Gold Coast,Qld,Rest of state,60938,11.54
+152.5807,-27.6881,310,Ipswich,Qld,Greater capital city,33432,11.68
+152.5294,-28.1318,310,Ipswich,Qld,Greater capital city,33432,11.68
+152.4661,-27.1956,310,Ipswich,Qld,Greater capital city,33432,11.68
+152.4792,-27.3957,310,Ipswich,Qld,Greater capital city,33432,11.68
+152.5099,-27.177,310,Ipswich,Qld,Greater capital city,33432,11.68
+152.6361,-28.2215,310,Ipswich,Qld,Greater capital city,33432,11.68
+152.7358,-27.75,310,Ipswich,Qld,Greater capital city,33432,11.68
+152.546,-28.1119,310,Ipswich,Qld,Greater capital city,33432,11.68
+153.1623,-27.8365,311,Logan - Beaudesert,Qld,Greater capital city,29460,10.54
+152.8573,-28.293,311,Logan - Beaudesert,Qld,Greater capital city,29460,10.54
+152.7394,-28.3451,311,Logan - Beaudesert,Qld,Greater capital city,29460,10.54
+152.7876,-28.2884,311,Logan - Beaudesert,Qld,Greater capital city,29460,10.54
+152.8094,-27.9819,311,Logan - Beaudesert,Qld,Greater capital city,29460,10.54
+152.993,-27.9016,311,Logan - Beaudesert,Qld,Greater capital city,29460,10.54
+152.8604,-27.9947,311,Logan - Beaudesert,Qld,Greater capital city,29460,10.54
+148.3937,-21.0221,312,Mackay - Isaac - Whitsunday,Qld,Rest of state,19129,13.16
+147.0918,-22.6229,312,Mackay - Isaac - Whitsunday,Qld,Rest of state,19129,13.16
+147.6041,-20.5207,312,Mackay - Isaac - Whitsunday,Qld,Rest of state,19129,13.16
+147.3768,-21.0832,312,Mackay - Isaac - Whitsunday,Qld,Rest of state,19129,13.16
+149.2641,-21.8936,312,Mackay - Isaac - Whitsunday,Qld,Rest of state,19129,13.16
+152.6727,-26.9673,313,Moreton Bay - North,Qld,Greater capital city,25151,11.6
+152.0908,-26.6899,313,Moreton Bay - North,Qld,Greater capital city,25151,11.6
+152.5387,-26.854,313,Moreton Bay - North,Qld,Greater capital city,25151,11.6
+152.6129,-26.9505,313,Moreton Bay - North,Qld,Greater capital city,25151,11.6
+152.3142,-26.5591,313,Moreton Bay - North,Qld,Greater capital city,25151,11.6
+152.5229,-26.9698,313,Moreton Bay - North,Qld,Greater capital city,25151,11.6
+152.8129,-27.2269,314,Moreton Bay - South,Qld,Greater capital city,23513,13.81
+152.7719,-27.1893,314,Moreton Bay - South,Qld,Greater capital city,23513,13.81
+152.9023,-27.2069,314,Moreton Bay - South,Qld,Greater capital city,23513,13.81
+152.9668,-27.2835,314,Moreton Bay - South,Qld,Greater capital city,23513,13.81
+152.7957,-27.1197,314,Moreton Bay - South,Qld,Greater capital city,23513,13.81
+152.9141,-27.2594,314,Moreton Bay - South,Qld,Greater capital city,23513,13.81
+143.378,-28.7303,315,Queensland - Outback,Qld,Rest of state,10282,16.54
+143.8045,-18.5174,315,Queensland - Outback,Qld,Rest of state,10282,16.54
+142.4227,-12.663,315,Queensland - Outback,Qld,Rest of state,10282,16.54
+152.9108,-26.6255,316,Sunshine Coast,Qld,Rest of state,52514,15.87
+152.6586,-26.7509,316,Sunshine Coast,Qld,Rest of state,52514,15.87
+152.8028,-26.6703,316,Sunshine Coast,Qld,Rest of state,52514,15.87
+153.0441,-26.6581,316,Sunshine Coast,Qld,Rest of state,52514,15.87
+152.7803,-26.8086,316,Sunshine Coast,Qld,Rest of state,52514,15.87
+153.0634,-26.8438,316,Sunshine Coast,Qld,Rest of state,52514,15.87
+152.6465,-26.7655,316,Sunshine Coast,Qld,Rest of state,52514,15.87
+152.8766,-26.3261,316,Sunshine Coast,Qld,Rest of state,52514,15.87
+153.0438,-26.395,316,Sunshine Coast,Qld,Rest of state,52514,15.87
+152.8683,-26.6852,316,Sunshine Coast,Qld,Rest of state,52514,15.87
+152.9595,-26.2746,316,Sunshine Coast,Qld,Rest of state,52514,15.87
+152.9141,-26.7643,316,Sunshine Coast,Qld,Rest of state,52514,15.87
+152.7137,-26.5791,316,Sunshine Coast,Qld,Rest of state,52514,15.87
+151.9648,-27.3908,317,Toowoomba,Qld,Rest of state,20827,15.99
+151.8281,-27.5513,317,Toowoomba,Qld,Rest of state,20827,15.99
+152.1682,-27.7488,317,Toowoomba,Qld,Rest of state,20827,15.99
+152.1371,-27.5428,317,Toowoomba,Qld,Rest of state,20827,15.99
+151.9039,-27.6332,317,Toowoomba,Qld,Rest of state,20827,15.99
+145.46,-18.8142,318,Townsville,Qld,Rest of state,26275,13.83
+145.804,-19.5544,318,Townsville,Qld,Rest of state,26275,13.83
+145.0814,-18.9773,318,Townsville,Qld,Rest of state,26275,13.83
+144.689,-19.4848,318,Townsville,Qld,Rest of state,26275,13.83
+145.6674,-21.0056,318,Townsville,Qld,Rest of state,26275,13.83
+145.7092,-21.4881,318,Townsville,Qld,Rest of state,26275,13.83
+145.821,-20.5161,318,Townsville,Qld,Rest of state,26275,13.83
+152.0302,-26.4964,319,Wide Bay,Qld,Rest of state,37578,14.55
+152.4105,-25.6945,319,Wide Bay,Qld,Rest of state,37578,14.55
+152.0733,-24.766,319,Wide Bay,Qld,Rest of state,37578,14.55
+151.1289,-25.0001,319,Wide Bay,Qld,Rest of state,37578,14.55
+150.985,-24.6456,319,Wide Bay,Qld,Rest of state,37578,14.55
+151.9883,-26.3604,319,Wide Bay,Qld,Rest of state,37578,14.55
+152.0376,-25.7769,319,Wide Bay,Qld,Rest of state,37578,14.55
+152.2469,-25.0815,319,Wide Bay,Qld,Rest of state,37578,14.55
+152.8876,-26.1606,319,Wide Bay,Qld,Rest of state,37578,14.55
+138.7768,-34.8984,401,Adelaide - Central and Hills,SA,Greater capital city,53218,20.24
+138.7959,-34.822,401,Adelaide - Central and Hills,SA,Greater capital city,53218,20.24
+138.7572,-34.8734,401,Adelaide - Central and Hills,SA,Greater capital city,53218,20.24
+138.6569,-34.9212,401,Adelaide - Central and Hills,SA,Greater capital city,53218,20.24
+138.7831,-34.8602,401,Adelaide - Central and Hills,SA,Greater capital city,53218,20.24
+139.0248,-34.939,401,Adelaide - Central and Hills,SA,Greater capital city,53218,20.24
+138.7857,-34.954,401,Adelaide - Central and Hills,SA,Greater capital city,53218,20.24
+138.611,-34.9402,401,Adelaide - Central and Hills,SA,Greater capital city,53218,20.24
+138.6865,-34.9537,401,Adelaide - Central and Hills,SA,Greater capital city,53218,20.24
+138.8728,-35.0277,401,Adelaide - Central and Hills,SA,Greater capital city,53218,20.24
+138.8099,-34.9446,401,Adelaide - Central and Hills,SA,Greater capital city,53218,20.24
+138.8568,-34.8748,401,Adelaide - Central and Hills,SA,Greater capital city,53218,20.24
+138.9817,-35.0508,401,Adelaide - Central and Hills,SA,Greater capital city,53218,20.24
+138.7849,-34.7441,402,Adelaide - North,SA,Greater capital city,44175,12.03
+138.5452,-34.7255,402,Adelaide - North,SA,Greater capital city,44175,12.03
+138.6476,-34.8677,402,Adelaide - North,SA,Greater capital city,44175,12.03
+138.6394,-34.6082,402,Adelaide - North,SA,Greater capital city,44175,12.03
+138.7082,-34.54,402,Adelaide - North,SA,Greater capital city,44175,12.03
+138.743,-34.7665,402,Adelaide - North,SA,Greater capital city,44175,12.03
+138.5715,-34.7696,402,Adelaide - North,SA,Greater capital city,44175,12.03
+138.7308,-34.8578,402,Adelaide - North,SA,Greater capital city,44175,12.03
+138.7953,-34.7016,402,Adelaide - North,SA,Greater capital city,44175,12.03
+138.7442,-34.6547,402,Adelaide - North,SA,Greater capital city,44175,12.03
+138.7211,-34.5091,402,Adelaide - North,SA,Greater capital city,44175,12.03
+138.609,-35.2342,403,Adelaide - South,SA,Greater capital city,52672,16.88
+138.5542,-35.0066,403,Adelaide - South,SA,Greater capital city,52672,16.88
+138.6807,-35.1437,403,Adelaide - South,SA,Greater capital city,52672,16.88
+138.6113,-35.2444,403,Adelaide - South,SA,Greater capital city,52672,16.88
+138.5004,-35.3245,403,Adelaide - South,SA,Greater capital city,52672,16.88
+138.5209,-35.2431,403,Adelaide - South,SA,Greater capital city,52672,16.88
+138.6875,-35.1622,403,Adelaide - South,SA,Greater capital city,52672,16.88
+138.525,-35.2083,403,Adelaide - South,SA,Greater capital city,52672,16.88
+138.6095,-35.1654,403,Adelaide - South,SA,Greater capital city,52672,16.88
+138.5506,-35.0603,403,Adelaide - South,SA,Greater capital city,52672,16.88
+138.6282,-35.2298,403,Adelaide - South,SA,Greater capital city,52672,16.88
+138.5831,-35.2411,403,Adelaide - South,SA,Greater capital city,52672,16.88
+138.4646,-35.3399,403,Adelaide - South,SA,Greater capital city,52672,16.88
+138.4882,-34.7731,404,Adelaide - West,SA,Greater capital city,28726,13.84
+138.5365,-34.9376,404,Adelaide - West,SA,Greater capital city,28726,13.84
+138.544,-34.8313,404,Adelaide - West,SA,Greater capital city,28726,13.84
+138.5065,-34.9101,404,Adelaide - West,SA,Greater capital city,28726,13.84
+138.4917,-34.7875,404,Adelaide - West,SA,Greater capital city,28726,13.84
+138.524,-34.8197,404,Adelaide - West,SA,Greater capital city,28726,13.84
+138.5479,-34.8485,404,Adelaide - West,SA,Greater capital city,28726,13.84
+138.5814,-32.8692,405,Barossa - Yorke - Mid North,SA,Rest of state,22812,23.89
+138.1956,-33.2661,405,Barossa - Yorke - Mid North,SA,Rest of state,22812,23.89
+137.615,-34.3272,405,Barossa - Yorke - Mid North,SA,Rest of state,22812,23.89
+138.6655,-32.2626,405,Barossa - Yorke - Mid North,SA,Rest of state,22812,23.89
+139.0804,-33.1258,405,Barossa - Yorke - Mid North,SA,Rest of state,22812,23.89
+138.6317,-32.5754,405,Barossa - Yorke - Mid North,SA,Rest of state,22812,23.89
+131.9589,-27.5098,406,South Australia - Outback,SA,Rest of state,13344,19.83
+135.9489,-33.0075,406,South Australia - Outback,SA,Rest of state,13344,19.83
+130.0218,-28.4789,406,South Australia - Outback,SA,Rest of state,13344,19.83
+139.044,-34.8534,407,South Australia - South East,SA,Rest of state,35413,21.74
+139.3623,-34.1618,407,South Australia - South East,SA,Rest of state,35413,21.74
+140.0124,-36.9767,407,South Australia - South East,SA,Rest of state,35413,21.74
+139.3988,-34.5078,407,South Australia - South East,SA,Rest of state,35413,21.74
+140.2856,-34.4893,407,South Australia - South East,SA,Rest of state,35413,21.74
+139.3652,-35.1531,407,South Australia - South East,SA,Rest of state,35413,21.74
+140.6866,-35.6064,407,South Australia - South East,SA,Rest of state,35413,21.74
+139.9473,-34.3686,407,South Australia - South East,SA,Rest of state,35413,21.74
+140.7048,-34.9619,407,South Australia - South East,SA,Rest of state,35413,21.74
+115.948,-34.6626,501,Bunbury,WA,Rest of state,30117,19.68
+116.1619,-33.7069,501,Bunbury,WA,Rest of state,30117,19.68
+115.7601,-33.1561,501,Bunbury,WA,Rest of state,30117,19.68
+115.9783,-33.8191,501,Bunbury,WA,Rest of state,30117,19.68
+116.2347,-34.8253,501,Bunbury,WA,Rest of state,30117,19.68
+116.5446,-33.9468,501,Bunbury,WA,Rest of state,30117,19.68
+115.9782,-34.2063,501,Bunbury,WA,Rest of state,30117,19.68
+115.7445,-33.877,501,Bunbury,WA,Rest of state,30117,19.68
+115.9709,-32.5817,502,Mandurah,WA,Greater capital city,12021,13.54
+115.8461,-32.6531,502,Mandurah,WA,Greater capital city,12021,13.54
+115.8329,-32.7396,502,Mandurah,WA,Greater capital city,12021,13.54
+115.8319,-31.9554,503,Perth - Inner,WA,Greater capital city,34426,22.23
+115.829,-31.9553,503,Perth - Inner,WA,Greater capital city,34426,22.23
+115.818,-31.9616,503,Perth - Inner,WA,Greater capital city,34426,22.23
+115.8331,-31.9465,503,Perth - Inner,WA,Greater capital city,34426,22.23
+115.8414,-31.94,503,Perth - Inner,WA,Greater capital city,34426,22.23
+115.8551,-31.9204,503,Perth - Inner,WA,Greater capital city,34426,22.23
+115.8002,-31.9904,503,Perth - Inner,WA,Greater capital city,34426,22.23
+115.8658,-31.9458,503,Perth - Inner,WA,Greater capital city,34426,22.23
+115.8328,-31.9397,503,Perth - Inner,WA,Greater capital city,34426,22.23
+116.0126,-31.7869,504,Perth - North East,WA,Greater capital city,31084,13.93
+116.2395,-31.9059,504,Perth - North East,WA,Greater capital city,31084,13.93
+116.1225,-31.6011,504,Perth - North East,WA,Greater capital city,31084,13.93
+115.9894,-31.7559,504,Perth - North East,WA,Greater capital city,31084,13.93
+116.3306,-31.7583,504,Perth - North East,WA,Greater capital city,31084,13.93
+115.9176,-31.777,504,Perth - North East,WA,Greater capital city,31084,13.93
+116.2685,-31.8783,504,Perth - North East,WA,Greater capital city,31084,13.93
+115.9338,-31.764,504,Perth - North East,WA,Greater capital city,31084,13.93
+115.6106,-31.4992,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.5709,-31.4719,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.7871,-31.6184,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.7433,-31.8267,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.7984,-31.7381,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.6733,-31.5716,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.7423,-31.7459,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.6883,-31.6342,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.7557,-31.7543,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.7532,-31.8399,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.7722,-31.6578,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.7446,-31.7531,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.6749,-31.6295,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.8188,-31.7562,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.7944,-31.58,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.6906,-31.5727,505,Perth - North West,WA,Greater capital city,66137,14.2
+115.7952,-31.6514,505,Perth - North West,WA,Greater capital city,66137,14.2
+116.2207,-32.0958,506,Perth - South East,WA,Greater capital city,62842,14.74
+115.98,-32.4254,506,Perth - South East,WA,Greater capital city,62842,14.74
+115.9023,-32.3168,506,Perth - South East,WA,Greater capital city,62842,14.74
+116.0578,-32.1679,506,Perth - South East,WA,Greater capital city,62842,14.74
+115.9391,-32.4231,506,Perth - South East,WA,Greater capital city,62842,14.74
+115.9962,-32.4111,506,Perth - South East,WA,Greater capital city,62842,14.74
+116.1439,-32.255,506,Perth - South East,WA,Greater capital city,62842,14.74
+115.9088,-32.2443,506,Perth - South East,WA,Greater capital city,62842,14.74
+116.0238,-32.3792,506,Perth - South East,WA,Greater capital city,62842,14.74
+115.9143,-32.4505,506,Perth - South East,WA,Greater capital city,62842,14.74
+116.0884,-32.1777,506,Perth - South East,WA,Greater capital city,62842,14.74
+116.1583,-32.4148,506,Perth - South East,WA,Greater capital city,62842,14.74
+116.0622,-32.2243,506,Perth - South East,WA,Greater capital city,62842,14.74
+115.9016,-32.4466,506,Perth - South East,WA,Greater capital city,62842,14.74
+115.9189,-31.9586,506,Perth - South East,WA,Greater capital city,62842,14.74
+115.9575,-32.2862,506,Perth - South East,WA,Greater capital city,62842,14.74
+115.8312,-32.2977,507,Perth - South West,WA,Greater capital city,53049,14.87
+115.8192,-32.3478,507,Perth - South West,WA,Greater capital city,53049,14.87
+115.8317,-32.0813,507,Perth - South West,WA,Greater capital city,53049,14.87
+115.8073,-32.2478,507,Perth - South West,WA,Greater capital city,53049,14.87
+115.7774,-32.4386,507,Perth - South West,WA,Greater capital city,53049,14.87
+115.8056,-32.0696,507,Perth - South West,WA,Greater capital city,53049,14.87
+115.8037,-32.4348,507,Perth - South West,WA,Greater capital city,53049,14.87
+115.7997,-32.08,507,Perth - South West,WA,Greater capital city,53049,14.87
+115.7783,-32.3083,507,Perth - South West,WA,Greater capital city,53049,14.87
+115.84,-32.2442,507,Perth - South West,WA,Greater capital city,53049,14.87
+115.8064,-32.259,507,Perth - South West,WA,Greater capital city,53049,14.87
+115.7946,-32.1648,507,Perth - South West,WA,Greater capital city,53049,14.87
+115.8744,-32.232,507,Perth - South West,WA,Greater capital city,53049,14.87
+118.4802,-33.4381,509,Western Australia - Wheat Belt,WA,Rest of state,27235,24.04
+119.1156,-33.0779,509,Western Australia - Wheat Belt,WA,Rest of state,27235,24.04
+119.8361,-32.6062,509,Western Australia - Wheat Belt,WA,Rest of state,27235,24.04
+116.4631,-33.0542,509,Western Australia - Wheat Belt,WA,Rest of state,27235,24.04
+116.9237,-34.2873,509,Western Australia - Wheat Belt,WA,Rest of state,27235,24.04
+119.6298,-32.1503,509,Western Australia - Wheat Belt,WA,Rest of state,27235,24.04
+119.0477,-34.0604,509,Western Australia - Wheat Belt,WA,Rest of state,27235,24.04
+127.1123,-18.4993,510,Western Australia - Outback (North),WA,Rest of state,9926,14.37
+124.4552,-19.773,510,Western Australia - Outback (North),WA,Rest of state,9926,14.37
+126.3718,-31.8628,511,Western Australia - Outback (South),WA,Rest of state,16119,16.86
+127.457,-31.3459,511,Western Australia - Outback (South),WA,Rest of state,16119,16.86
+119.0422,-29.6793,511,Western Australia - Outback (South),WA,Rest of state,16119,16.86
+126.1574,-29.6874,511,Western Australia - Outback (South),WA,Rest of state,16119,16.86
+147.0809,-42.7892,601,Hobart,Tas,Greater capital city,38331,18.65
+147.223,-42.8112,601,Hobart,Tas,Greater capital city,38331,18.65
+147.2355,-43.0847,601,Hobart,Tas,Greater capital city,38331,18.65
+147.3583,-42.8368,601,Hobart,Tas,Greater capital city,38331,18.65
+147.2874,-42.742,601,Hobart,Tas,Greater capital city,38331,18.65
+147.7412,-42.804,601,Hobart,Tas,Greater capital city,38331,18.65
+147.3838,-42.7643,601,Hobart,Tas,Greater capital city,38331,18.65
+147.3199,-43.011,601,Hobart,Tas,Greater capital city,38331,18.65
+147.4981,-42.9475,601,Hobart,Tas,Greater capital city,38331,18.65
+147.5388,-42.6974,601,Hobart,Tas,Greater capital city,38331,18.65
+148.1704,-41.6497,602,Launceston and North East,Tas,Rest of state,22086,17.5
+146.9773,-41.4102,602,Launceston and North East,Tas,Rest of state,22086,17.5
+147.2548,-41.8289,602,Launceston and North East,Tas,Rest of state,22086,17.5
+147.7574,-42.1528,602,Launceston and North East,Tas,Rest of state,22086,17.5
+147.5964,-41.9675,602,Launceston and North East,Tas,Rest of state,22086,17.5
+147.248,-41.5061,602,Launceston and North East,Tas,Rest of state,22086,17.5
+146.4472,-42.9207,603,South East,Tas,Rest of state,6696,18.97
+146.158,-43.047,603,South East,Tas,Rest of state,6696,18.97
+144.7,-41.0073,604,West and North West,Tas,Rest of state,16398,16.96
+145.3378,-41.396,604,West and North West,Tas,Rest of state,16398,16.96
+145.7004,-40.9709,604,West and North West,Tas,Rest of state,16398,16.96
+145.9295,-41.3218,604,West and North West,Tas,Rest of state,16398,16.96
+130.9553,-12.5387,701,Darwin,NT,Greater capital city,17733,15.89
+131.1399,-12.5759,701,Darwin,NT,Greater capital city,17733,15.89
+131.1746,-12.8261,701,Darwin,NT,Greater capital city,17733,15.89
+131.1906,-12.7227,701,Darwin,NT,Greater capital city,17733,15.89
+130.1175,-20.1925,702,Northern Territory - Outback,NT,Rest of state,7955,11.54
+133.7101,-12.564,702,Northern Territory - Outback,NT,Rest of state,7955,11.54
+148.9177,-35.8135,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+148.8397,-35.6898,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+148.878,-35.5578,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+149.0858,-35.6548,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+149.0643,-35.8036,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+148.9856,-35.3509,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+148.9653,-35.7634,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+149.0305,-35.5615,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+149.0979,-35.1627,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+149.0624,-35.785,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+148.952,-35.4312,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+149.0719,-35.8266,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+148.8517,-35.6959,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+149.0323,-35.7182,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+148.9161,-35.7018,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+149.0824,-35.4795,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
+148.9164,-35.2729,801,Australian Capital Territory,ACT,Greater capital city,68383,18.43
