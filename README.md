@@ -40,7 +40,7 @@ data/bivariate_sa4_2021.csv Figure 5 classes: each region's rate and count terci
 data/au_sa4_2021.topo.json SA4 boundaries
 scripts/build_acnc.py      builds the Figure 14 data from the raw ACNC files
 scripts/build_dotdensity.mjs builds the Figure 4 dots from the SA4 boundaries
-sketch/                    the hand-drawn A4 layout sketch
+sketch/sketch.pdf          the hand-drawn A4 layout sketch
 ```
 
 ## How a rate is worked out — read this before changing a number
@@ -226,9 +226,16 @@ the repository. To rebuild Figure 14's data, download them again from
 Always check the live URL in a private window before submitting — a file missing from the
 repository makes the page look broken to the marker even though it works locally.
 
-## Still to do
+## The sketch
 
-- The hand-drawn A4 sketch in `sketch/`.
+`sketch/sketch.pdf` is the hand-drawn A4 layout sketch, drawn on paper in the Week 7
+studio and photographed. The photo was cropped to the page, the lighting flattened and
+the contrast lifted so the pencil reads; nothing was drawn, traced or straightened
+digitally. This is the URL that goes in Part C of the submission template.
+
+The sketch shows five sections and thirteen charts. The built page has fourteen: the
+age small-multiple maps (Figure 6) were added during the build. Everything drawn on the
+sketch was built.
 
 ## Data sources
 
